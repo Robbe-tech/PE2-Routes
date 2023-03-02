@@ -59,50 +59,64 @@ class Graph:
                 return True
         return False
 
-
 graph = {
-    0: [(1, 1)],
-    1: [(0, 1), (2, 2), (3, 3)],
-    2: [(1, 2), (3, 1), (4, 5)],
-    3: [(1, 3), (2, 1), (4, 1)],
-    4: [(2, 5), (3, 1)]
+    0: {1: 1},
+    1: {0: 1, 2: 2, 3: 3},
+    2: {1: 2, 3: 1, 4: 5},
+    3: {1: 3, 2: 1, 4: 1},
+    4: {2: 5, 3: 1}
 }
 
 def naive_dijkstras(graph, root):
     n = len(graph)
     # initialize distance list as all infinities
-    dist = [Inf for _ in range(n)]
+    dist = {}
+    for keys in graph.keys():
+        dist[keys] = [Inf, []]
 
     # set the distance for the root to be 0
-    dist[root] = 0
+    dist[root] = [0, [[]]]
 
-    # initialize list of visited nodes
-    visited = [False for _ in range(n)]
+    # initialize seperate dictionary of temporary distances wich will be removed when 
+    tempdist = dict(dist)
+    
+    #set starting node
+    curnode = root
 
-    # loop through all the nodes
-    for _ in range(n):
-        # "start" our node as -1 (so we don't have a start/next node yet)
-        u = -1
-        # loop through all the nodes to check for visitation status
-        for i in range(n):
-            # if the node 'i' hasn't been visited and
-            # we haven't processed it or the distance we have for it is less
-            # than the distance we have to the "start" node
-            if not visited[i] and (u == -1 or dist[i] < dist[u]):
-                u = i
-        # all the nodes have been visited or we can't reach this node
-        if dist[u] == Inf:
-            break
+    #remove root from nonvisited list
+    tempdist.pop(root)
 
-        # set the node as visited
-        visited[u] = True
-
-        # compare the distance to each node from the "start" node
-        # to the distance we currently have on file for it
-        for v, l in graph[u]:
-            if dist[u] + l < dist[v]:
-                dist[v] = dist[u] + l
+    #while not all nodes were visited
+    while(len(tempdist) > 0):
+        #calculate every for every node connected to current node if curnode + their len is shorter then the current nodes minimum length
+        for x,y in graph[curnode].items():
+            #if the new len is shorter set the new len and add the new shortest route
+            if dist[x][0] > (dist[curnode][0] + y):
+                dist[x][0] = dist[curnode][0] + y
+                dist[x][1] = []
+                for lists in dist[curnode][1]:
+                    templist = list(lists)
+                    templist.append(x)
+                    dist[x][1].append(templist)
+                tempdist[x] = dist[x]
+            #if they are equal append the new route of travel
+            elif dist[x][0] == (dist[curnode][0] + y):
+                for lists in dist[curnode][1]:
+                    templist = list(lists)
+                    templist.append(x)
+                    dist[x][1].append(templist)
+                tempdist[x] = dist[x]
         
+        #get the shortest distance key and set it as the current node
+        curmin = Inf
+        for x,y in tempdist.items():
+            if curmin > y[0]:
+                curmin = y[0]
+                curnode = x
+
+        #remove curnode from not visited
+        tempdist.pop(curnode)
+    
     return dist
     
 print(naive_dijkstras(graph,0))
