@@ -68,7 +68,6 @@ graph = {
 }
 
 def naive_dijkstras(graph, root):
-    n = len(graph)
     # initialize distance list as all infinities
     dist = {}
     for keys in graph.keys():
