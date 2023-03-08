@@ -1,6 +1,7 @@
 from numpy import Inf
 import pgeocode
 import pandas as pd
+from IPython.display import display
 
 class Node:
 
@@ -122,5 +123,5 @@ def naive_dijkstras(graph, root):
     
 print(naive_dijkstras(graph,0))
 x = pgeocode.Nominatim("BE")
-df = pd.DataFrame(x._get_data, columns = x._data)
+df = pd.DataFrame(x._data)
 display(df)
