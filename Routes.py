@@ -71,18 +71,18 @@ graph = {
 }
 
 def naive_dijkstras(graph, root):
-    # initialize distance list as all infinities
+    # initialize distance dictionary as all infinities, with as off yet a no lists of shortest routes
     dist = {}
     for keys in graph.keys():
         dist[keys] = [Inf, []]
 
-    # set the distance for the root to be 0
+    # set the distance for the root to be 0 with no shortest routes
     dist[root] = [0, [[]]]
 
-    # initialize seperate dictionary of temporary distances wich will be removed when 
+    # initialize seperate dictionary of temporary distances wich will be removed after they are visited
     tempdist = dict(dist)
     
-    #set starting node
+    #set starting node as current node
     curnode = root
 
     #remove root from nonvisited list
@@ -90,23 +90,31 @@ def naive_dijkstras(graph, root):
 
     #while not all nodes were visited
     while(len(tempdist) > 0):
+
         #calculate every for every node connected to current node if curnode + their len is shorter then the current nodes minimum length
         for x,y in graph[curnode].items():
+
             #if the new len is shorter set the new len and add the new shortest route
             if dist[x][0] > (dist[curnode][0] + y):
                 dist[x][0] = dist[curnode][0] + y
                 dist[x][1] = []
+
                 for lists in dist[curnode][1]:
                     templist = list(lists)
                     templist.append(x)
                     dist[x][1].append(templist)
+                
+                #update the tempdist with up to date info
                 tempdist[x] = dist[x]
+            
             #if they are equal append the new route of travel
             elif dist[x][0] == (dist[curnode][0] + y):
                 for lists in dist[curnode][1]:
                     templist = list(lists)
                     templist.append(x)
                     dist[x][1].append(templist)
+                
+                #update the tempdist with up to date info
                 tempdist[x] = dist[x]
         
         #get the shortest distance key and set it as the current node
