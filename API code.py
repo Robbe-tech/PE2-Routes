@@ -7,8 +7,10 @@ headers = {
     'X-RapidAPI-Host': "trueway-matrix.p.rapidapi.com"
     }
 
-dest1 = "40.629041,-74.025606;"
-route = "/CalculateDrivingMatrix?origins=" + dest1 + "40.630099%2C-73.993521%3B40.644895%2C-74.013818%3B40.627177%2C-73.980853&destinations=40.629041%2C-74.025606%3B40.630099%2C-73.993521%3B40.644895%2C-74.013818%3B40.627177%2C-73.980853"
+Brussel = "50.8504,4.3488;"
+Antwerpen = "51.2213,4.4051;"
+Mechelen = "51.0259,4.4776"
+route = "/CalculateDrivingMatrix?origins=" + Brussel + Antwerpen + Mechelen
 
 conn.request("GET", route, headers=headers)
 
