@@ -62,14 +62,20 @@ class Graph:
                 return True
         return False
     
-#def read_from_file(self):
+def read_from_file(self):
+    thing = pd.read_table(self)
+    print(thing)
         
-def write_to_file(self):
-    compression_opts = dict(method='zip' , archive_name='out.csv')
-    Steden = (self.postal_code + ' , ' + self.place_name)
-    Steden.to_csv('out.zip', index=False, compression=compression_opts)
+def write_to_file(frame, file):
+    filepath = Path('./' + file)
+    postCode = frame.postal_code 
+    Steden = frame.place_name
+    Steden.to_csv(filepath, index_label=None, mode='a')
+    postCode.to_csv(filepath, index_label=None, mode='a')
     
 
 x = pgeocode.Nominatim("BE")
 df = pd.DataFrame(x._data)
-write_to_file(df)
+filename = 'out.csv'
+write_to_file(df, filename)
+#read_from_file(filename)
