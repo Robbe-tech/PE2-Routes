@@ -160,9 +160,13 @@ def multi_node(root, distances, destinations):
         #shortest was in format [dist, [[route], [route2]]]
         totdistmin[0] += shortest[0]
         #just want 1 shortest route to avoid confusion
-        shortest[1].extend(shortest[1][0])
+        totdistmin[1].extend(shortest[1][0])
         nvisitedd.pop(shortest[0])
         currentnode = shortest[0]
+    
+    #go back to root
+    totdistmin[0] += relevantdists[currentnode][root][0]
+    totdistmin[1].extend(relevantdists[currentnode][root][1][0])
     
 print(naive_dijkstras(graph,0))
 bel = pgeocode.Nominatim('BE')
