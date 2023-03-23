@@ -8,7 +8,7 @@ class Node:
     def __init__(self, value, neighbors=None):
         self.value=value
         if neighbors is None:
-            self.neighbors = []
+            self.neighbors = {}
         else:
             self.neighbors = neighbors
     
@@ -20,14 +20,16 @@ class Node:
     def number_of_neighbors(self):
         return len(self.neighbors)
     
-    def add_neighboor(self, neighboor):
-        self.neighbors.append(neighboor)
+    #neighbor is dict
+    def add_neighbor(self, neighbor):
+        for k, v in neighbor.items():
+            neighbors[k] = v
 
 class Graph:
 
     def __init__(self, nodes=None):
         if nodes is None:
-            self.nodes = []
+            self.nodes = {}
         else:
             self.nodes = nodes
 
@@ -80,7 +82,9 @@ def naive_dijkstras(graph, root):
     dist[root] = [0, [[]]]
 
     # initialize seperate dictionary of temporary distances wich will be removed after they are visited
-    tempdist = dict(dist)
+    tempdist = {}
+    for keys in graph.keys():
+        tempdist[keys] = Inf
     
     #set starting node as current node
     curnode = root
@@ -92,44 +96,76 @@ def naive_dijkstras(graph, root):
     while(len(tempdist) > 0):
 
         #calculate every for every node connected to current node if curnode + their len is shorter then the current nodes minimum length
-        for x,y in graph[curnode].items():
+        for k,v in graph[curnode].items():
 
             #if the new len is shorter set the new len and add the new shortest route
-            if dist[x][0] > (dist[curnode][0] + y):
-                dist[x][0] = dist[curnode][0] + y
-                dist[x][1] = []
+            if dist[k][0] > (dist[curnode][0] + v):
+                dist[k][0] = dist[curnode][0] + v
+                dist[k][1] = []
 
                 for lists in dist[curnode][1]:
                     templist = list(lists)
-                    templist.append(x)
-                    dist[x][1].append(templist)
+                    templist.append(k)
+                    dist[k][1].append(templist)
                 
                 #update the tempdist with up to date info
-                tempdist[x] = dist[x]
+                tempdist[k] = dist[k][0]
             
             #if they are equal append the new route of travel
-            elif dist[x][0] == (dist[curnode][0] + y):
+            elif dist[k][0] == (dist[curnode][0] + v):
                 for lists in dist[curnode][1]:
                     templist = list(lists)
-                    templist.append(x)
-                    dist[x][1].append(templist)
+                    templist.append(k)
+                    dist[k][1].append(templist)
                 
                 #update the tempdist with up to date info
-                tempdist[x] = dist[x]
+                tempdist[k] = dist[k][0]
         
         #get the shortest distance key and set it as the current node
         curmin = Inf
-        for x,y in tempdist.items():
-            if curmin > y[0]:
-                curmin = y[0]
-                curnode = x
+        for k,v in tempdist.items():
+            if curmin > v:
+                curmin = v
+                curnode = k
 
         #remove curnode from not visited
         tempdist.pop(curnode)
     
     return dist
+
+#root = int
+#distances = dict of naive dijckstras
+#destinations = list
+def multi_node(root, distances, destinations):
+    tempdests = list(destinations)
+    tempdests.append(root)
+    # get only relevant dists + how to get there
+    relevantdists = {}
+    for k,v in distances:
+        if k in tempdests:
+            value = {k: v[k] for v in destinations}
+            relevantdists[k] = value
+    
+    totdistmin = [0, []]
+    nvisitedd = dict(relevantdists)
+    shortest = [Inf, []]
+    #baseline min
+    currentnode = root
+    nvisitedd.pop(root)
+    while(len(nvisitedd) > 0):
+        for k,v in nvisitedd[currentnode]:
+            if (v[0] < shortest.values()[0] and k != currentnode):
+                shortest = v
+        
+        #shortest was in format [dist, [[route], [route2]]]
+        totdistmin[0] += shortest[0]
+        #just want 1 shortest route to avoid confusion
+        shortest[1].extend(shortest[1][0])
+        nvisitedd.pop(shortest[0])
+        currentnode = shortest[0]
     
 print(naive_dijkstras(graph,0))
-x = pgeocode.Nominatim("BE")
-df = pd.DataFrame(x._data)
-display(df)
+bel = pgeocode.Nominatim('BE')
+df = pd.DataFrame(bel._data)
+d2 = df.loc[:,"latitude", "longitude"]
+display(d2)
