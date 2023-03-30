@@ -1,5564 +1,2782 @@
-place_name
-Bruxelles
-Laeken
-Schaerbeek
-Etterbeek
-Ixelles
-Saint-Gilles
-Anderlecht
-Molenbeek-Saint-Jean
-Koekelberg
-Berchem-Sainte-Agathe
-Ganshoren
-Jette
-Neder-Over-Heembeek
-Haren
-Evere
-Woluwe-Saint-Pierre
-Auderghem
-Watermael-Boitsfort
-Uccle
-Forest
-Woluwe-Saint-Lambert
-Saint-Josse-Ten-Noode
-Antwerpen
-Antwerpen
-Antwerpen
-Antwerpen
-Antwerpen
-Lillo
-Zandvliet
-Berendrecht
-Antwerpen
-Antwerpen
-Burcht
-Zwijndrecht
-Deurne
-Wijnegem
-Borgerhout
-Borsbeek
-Wommelgem
-Merksem
-Ekeren
-Noorderwijk
-Herentals
-Morkhoven
-Hallaar
-Heist-Op-Den-Berg
-Booischot
-Wiekevorst
-Itegem
-Schriek
-Herselt
-Ramsel
-Houtvenne
-Hulshout
-Westmeerbeek
-Viersel
-Zandhoven
-Massenhoven
-Pulderbos
-Pulle
-Olen
-Zoerle-Parwijs
-Westerlo
-Tongerlo
-Oevel
-Herenthout
-Gierle
-Wechelderzande
-Lille
-Poederlee
-Grobbendonk
-Bouwel
-Vorselaar
-Turnhout
-Rijkevorsel
-Hoogstraten
-Meer
-Minderhout
-Wortel
-Meerle
-Merksplas
-Beerse
-Vlimmeren
-Vosselaar
-Oud-Turnhout
-Arendonk
-Ravels
-Weelde
-Poppel
-Baarle-Hertog
-Oostmalle
-Westmalle
-Malle
-Mol
-Eindhout
-Vorst
-Laakdal
-Veerle
-Varendonk
-Geel
-Meerhout
-Tielen
-Kasterlee
-Lichtaart
-Retie
-Dessel
-Balen
-Olmen
-Lier
-Koningshooikt
-Ranst
-Emblem
-Oelegem
-Broechem
-Boechout
-Vremde
-Hove
-Lint
-Kontich
-Waarloos
-Bevel
-Nijlen
-Kessel
-Duffel
-Putte
-Beerzel
-Gestel
-Berlaar
-Berchem
-Wilrijk
-Hemiksem
-Schelle
-Aartselaar
-Mortsel
-Edegem
-Hoboken
-Mechelen
-Walem
-Heffen
-Hombeek
-Leest
-Muizen
-Bonheiden
-Rijmenam
-Heindonk
-Tisselt
-Blaasveld
-Willebroek
-Terhagen
-Rumst
-Reet
-Niel
-Boom
-Sint-Katelijne-Waver
-Onze-Lieve-Vrouw-Waver
-Breendonk
-Puurs
-Puurs-Sint-Amands
-Ruisbroek
-Liezele
-Mariekerke
-Weert
-Bornem
-Hingene
-Sint-Amands
-Oppuurs
-Lippelo
-Schoten
-Essen
-Kalmthout
-Brasschaat
-Stabroek
-Hoevenen
-Kapellen
-Brecht
-Sint-Lenaarts
-Sint-Job-In-'T-Goor
-'S Gravenwezel
-Schilde
-Zoersel
-Halle
-Wuustwezel
-Loenhout
-Halle
-Buizingen
-Lembeek
-Herne
-Herfelingen
-Sint-Pieters-Kapelle
-Biévène
-Hoeilaart
-Galmaarden
-Tollembeek
-Vollezele
-Sint-Pieters-Leeuw
-Oudenaken
-Sint-Laureins-Berchem
-Ruisbroek
-Vlezenbeek
-Drogenbos
-Linkebeek
-Rhode-Saint-Genèse
-Beersel
-Lot
-Alsemberg
-Dworp
-Huizingen
-Bogaarden
-Heikruis
-Pepingen
-Elingen
-Beert
-Bellingen
-Dilbeek
-Sint-Ulriks-Kapelle
-Sint-Martens-Bodegem
-Itterbeek
-Groot-Bijgaarden
-Schepdaal
-Mollem
-Bekkerzeel
-Kobbegem
-Asse
-Relegem
-Zellik
-Ternat
-Wambeek
-Sint-Katherina-Lombeek
-Opwijk
-Mazenzele
-Sint-Kwintens-Lennik
-Lennik
-Sint-Martens-Lennik
-Gaasbeek
-Oetingen
-Gooik
-Kester
-Leerbeek
-Onze-Lieve-Vrouw-Lombeek
-Strijtem
-Roosdaal
-Pamel
-Borchtlombeek
-Liedekerke
-Wemmel
-Brussegem
-Merchtem
-Hamme
-Affligem
-Teralfene
-Hekelgem
-Essene
-Vilvoorde
-Peutie
-Steenokkerzeel
-Perk
-Melsbroek
-Machelen
-Diegem
-Steenhuffel
-Malderen
-Londerzeel
-Grimbergen
-Humbeek
-Beigem
-Strombeek-Bever
-Meise
-Wolvertem
-Kapelle-Op-Den-Bos
-Nieuwenrode
-Ramsdonk
-Nederokkerzeel
-Buken
-Kampenhout
-Berg
-Nossegem
-Zaventem
-Sint-Stevens-Woluwe
-Sterrebeek
-Kraainem
-Wezembeek-Oppem
-Eppegem
-Zemst
-Hofstade
-Weerde
-Elewijt
-Leuven
-Heverlee
-Kessel Lo
-Wilsele
-Wijgmaal
-Winksele
-Herent
-Veltem-Beisem
-Sint-Agatha-Rode
-Neerijse
-Ottenburg
-Huldenberg
-Loonbeek
-Oud-Heverlee
-Sint-Joris-Weert
-Blanden
-Haasrode
-Vaalbeek
-Korbeek-Dijle
-Bertem
-Leefdaal
-Kortenberg
-Erps-Kwerps
-Everberg
-Meerbeek
-Tervuren
-Duisburg
-Vossem
-Overijse
-Rotselaar
-Wezemaal
-Werchter
-Tremelo
-Baal
-Betekom
-Begijnendijk
-Keerbergen
-Wespelaar
-Tildonk
-Haacht
-Boortmeerbeek
-Hever
-Gelrode
-Aarschot
-Langdorp
-Rillaar
-Linden
-Lubbeek
-Binkom
-Pellenberg
-Kortrijk-Dutsel
-Holsbeek
-Sint-Pieters-Rode
-Nieuwrode
-Scherpenheuvel
-Scherpenheuvel-Zichem
-Averbode
-Zichem
-Messelbroek
-Testelt
-Deurne
-Schaffen
-Diest
-Webbekom
-Kaggevinne
-Molenstede
-Bost
-Tienen
-Oorbeek
-Hakendover
-Goetsenhoven
-Vissenaken
-Oplinter
-Kumtich
-Sint-Margriete-Houtem
-Meldert
-Hoegaarden
-Outgaarden
-Overhespen
-Wommersom
-Neerlinter
-Melkwezer
-Neerhespen
-Linter
-Drieslinter
-Orsmaal-Gussenhoven
-Lovenjoel
-Bierbeek
-Opvelp
-Korbeek-Lo
-Neervelp
-Willebringen
-Vertrijk
-Roosbeek
-Kerkom
-Boutersem
-Glabbeek
-Bunsbeek
-Kapellen
-Attenrode
-Tielt
-Tielt-Winge
-Houwaart
-Sint-Joris-Winge
-Meensel-Kiezegem
-Wange
-Laar
-Ezemaal
-Landen
-Neerwinden
-Eliksem
-Rumsdorp
-Overwinden
-Wezeren
-Walshoutem
-Waasmont
-Walsbets
-Neerlanden
-Attenhoven
-Dormaal
-Halle-Booienhoven
-Zoutleeuw
-Helen-Bos
-Budingen
-Geetbets
-Grazen
-Rummen
-Bekkevoort
-Assent
-Molenbeek-Wersbeek
-Kortenaken
-Sint-Margriete-Houtem
-Ransberg
-Hoeleden
-Kersbeek-Miskom
-Waanrode
-Sint-Lambrechts-Herk
-Hasselt
-Wimmertingen
-Spalbeek
-Kermt
-Kuringen
-Stokrooie
-Stevoort
-Zonhoven
-Houthalen-Helchteren
-Helchteren
-Houthalen
-Herk-De-Stad
-Berbroek
-Schulen
-Donk
-Zelem
-Halen
-Loksbergen
-Zolder
-Heusden
-Heusden-Zolder
-Meldert
-Linkhout
-Lummen
-Alken
-Beringen
-Beverlo
-Koersel
-Paal
-Diepenbeek
-Genk
-Gellik
-Lanaken
-Neerharen
-Veldwezelt
-Rekem
-Maasmechelen
-Eisden
-Vucht
-Meeswijk
-Leut
-Mechelen-Aan-De-Maas
-Opgrimbie
-Uikhoven
-Boorsem
-Kessenich
-Molenbeersel
-Ophoven
-Kinrooi
-Elen
-Dilsen-Stokkem
-Stokkem
-Rotem
-Dilsen
-Lanklaar
-Opglabbeek
-As
-Niel-Bij-As
-Gruitrode
-Neerglabbeek
-Wijshagen
-Oudsbergen
-Ellikom
-Meeuwen
-Maaseik
-Opoeteren
-Neeroeteren
-Zutendaal
-Tongeren
-Sluizen
-Vreren
-Koninksem
-Overrepen
-Rutten
-Diets-Heur
-Kolmont
-Nerem
-Riksingen
-Haren
-Henis
-Widooie
-Mal
-Neerrepen
-Lauw
-'S Herenelderen
-Berg
-Piringen
-Herstappe
-Kortessem
-Vliermaalroot
-Wintershoven
-Guigoven
-Vliermaal
-Werm
-Romershoven
-Hoeselt
-Sint-Huibrechts-Hern
-Schalkhoven
-Kleine-Spouwen
-Bilzen
-Hees
-Beverst
-Grote-Spouwen
-Waltwilder
-Rijkhoven
-Munsterbilzen
-Eigenbilzen
-Mopertingen
-Rosmeer
-Martenslinde
-Hoelbeek
-Herderen
-Val-Meer
-Kanne
-Membruggen
-Vlijtingen
-Zichen-Zussen-Bolder
-Millen
-Vroenhoven
-Riemst
-Genoelselderen
-Fouron-Saint-Martin
-Mouland
-Fourons
-Remersdaal
-Fouron-Saint-Pierre
-Teuven
-Fouron-Le-Comte
-Halmaal
-Ordingen
-Sint-Truiden
-Groot-Gelmen
-Kerkom-Bij-Sint-Truiden
-Zepperen
-Brustem
-Aalst
-Engelmanshoven
-Gelinden
-Runkelen
-Duras
-Gorsem
-Wilderen
-Velm
-Berlingen
-Wellen
-Herten
-Ulbeek
-Jesseren
-Hoepertingen
-Kerniel
-Bommershoven
-Broekom
-Kolmont
-Gotem
-Kuttekoven
-Hendrieken
-Gors-Opleeuw
-Haren
-Borgloon
-Groot-Loon
-Voort
-Rijkel
-Nieuwerkerken
-Kozen
-Binderveld
-Wijer
-Gutshoven
-Mettekoven
-Rukkelingen-Loon
-Batsheers
-Mechelen-Bovelingen
-Klein-Gelmen
-Vechmaal
-Veulen
-Bovelingen
-Heers
-Heks
-Opheers
-Horpmaal
-Gingelom
-Kortijs
-Niel-Bij-Sint-Truiden
-Montenaken
-Boekhout
-Jeuk
-Vorsen
-Mielen-Boven-Aalst
-Borlo
-Buvingen
-Muizen
-Pelt
-Overpelt
-Sint-Huibrechts-Lille
-Neerpelt
-Lommel
-Hamont-Achel
-Hamont
-Achel
-Hechtel-Eksel
-Hechtel
-Eksel
-Oostham
-Ham
-Kwaadmechelen
-Bocholt
-Kaulille
-Reppel
-Tongerlo
-Gerdingen
-Bree
-Opitter
-Beek
-Leopoldsburg
-Heppen
-Tessenderlo
-Peer
-Kleine-Brogel
-Grote-Brogel
-Wijchmaal
-Gent
-Mariakerke
-Drongen
-Wondelgem
-Sint-Amandsberg
-Oostakker
-Desteldonk
-Mendonk
-Sint-Kruis-Winkel
-Gentbrugge
-Ledeberg
-Sint-Denijs-Westrem
-Afsnee
-Zwijnaarde
-Zelzate
-Heusden
-Destelbergen
-Zeveneken
-Zaffelare
-Lochristi
-Beervelde
-Melle
-Gontrode
-Sint-Niklaas
-Nieuwkerken-Waas
-Belsele
-Sinaai-Waas
-Vrasene
-Kallo
-Haasdonk
-Melsele
-Beveren-Waas
-Kieldrecht
-Kallo
-Doel
-Verrebroek
-Steendorp
-Elversele
-Temse
-Tielrode
-Kruibeke
-Rupelmonde
-Bazel
-Lokeren
-Daknam
-Eksaarde
-Meerdonk
-Sint-Pauwels
-Sint-Gillis-Waas
-De Klinge
-Moerbeke-Waas
-Wachtebeke
-Kemzeke
-Stekene
-Appels
-Dendermonde
-Oudegem
-Sint-Gillis-Dendermonde
-Baasrode
-Grembergen
-Schoonaarde
-Mespelare
-Hamme
-Moerzeke
-Westrem
-Massemen
-Wetteren
-Zele
-Waasmunster
-Opdorp
-Buggenhout
-Serskamp
-Schellebelle
-Wichelen
-Kalken
-Laarne
-Lebbeke
-Denderbelle
-Wieze
-Overmere
-Uitbergen
-Berlare
-Aalst
-Hofstade
-Gijzegem
-Meldert
-Moorsel
-Herdersem
-Baardegem
-Nieuwerkerken
-Erembodegem
-Oordegem
-Smetlede
-Wanzele
-Impe
-Lede
-Lieferinge
-Appelterre-Eichem
-Ninove
-Nederhasselt
-Okegem
-Voorde
-Denderwindeke
-Pollare
-Meerbeke
-Neigem
-Aspelare
-Outer
-Erondegem
-Bambrugge
-Erpe
-Vlekkem
-Ottergem
-Aaigem
-Mere
-Burst
-Erpe-Mere
-Denderhoutem
-Haaltert
-Heldergem
-Kerksken
-Denderleeuw
-Iddergem
-Welle
-Zarlardinge
-Ophasselt
-Nederboelare
-Overboelare
-Geraardsbergen
-Onkerzele
-Viane
-Moerbeke
-Goeferdinge
-Grimminge
-Waarbeke
-Idegem
-Zandbergen
-Schendelbeke
-Nieuwenhove
-Smeerebbe-Vloerzegem
-Oombergen
-Zonnegem
-Bavegem
-Sint-Lievens-Houtem
-Vlierzele
-Letterhoutem
-Sint-Antelinks
-Hillegem
-Sint-Lievens-Esse
-Steenhuize-Wijnhuize
-Woubrechtegem
-Herzele
-Ressegem
-Borsbeke
-Lierde
-Deftinge
-Sint-Maria-Lierde
-Hemelveerdegem
-Sint-Martens-Lierde
-Renaix
-Leeuwergem
-Godveerdegem
-Sint-Goriks-Oudenhove
-Velzeke-Ruddershove
-Oombergen
-Sint-Maria-Oudenhove
-Zottegem
-Strijpen
-Grotenberge
-Elene
-Erwetegem
-Dikkele
-Sint-Maria-Latem
-Sint-Denijs-Boekel
-Paulatem
-Sint-Blasius-Boekel
-Roborst
-Beerlegem
-Hundelgem
-Zwalm
-Munkzwalm
-Rozebeke
-Meilegem
-Nederzwalm-Hermelgem
-Zegelsem
-Michelbeke
-Sint-Maria-Oudenhove
-Nederbrakel
-Elst
-Opbrakel
-Everbeek
-Brakel
-Parike
-Sint-Kornelis-Horebeke
-Horebeke
-Sint-Maria-Horebeke
-Etikhove
-Maarke-Kerkem
-Maarkedal
-Nukerke
-Schorisse
-Kluisbergen
-Ruien
-Zulzeke
-Kwaremont
-Berchem
-Nederename
-Ooike
-Eine
-Leupegem
-Welden
-Oudenaarde
-Ename
-Volkegem
-Melden
-Mater
-Mullem
-Bevere
-Heurne
-Edelare
-Zingem
-Huise
-Ouwegem
-Kruishoutem
-Kruisem
-Nokere
-Wannegem-Lede
-Moregem
-Ooike
-Wortegem
-Elsegem
-Wortegem-Petegem
-Petegem-Aan-De-Schelde
-Deinze
-Sint-Martens-Leerne
-Bachte-Maria-Leerne
-Astene
-Vinkt
-Meigem
-Petegem-Aan-De-Leie
-Zeveren
-Gottem
-Wontergem
-Grammene
-Eke
-Nazareth
-Schelderode
-Lemberge
-Munte
-Melsen
-Bottelare
-Merelbeke
-Sint-Martens-Latem
-Deurle
-Zevergem
-De Pinte
-Nevele
-Landegem
-Vosselare
-Poesele
-Hansbeke
-Merendree
-Scheldewindeke
-Oosterzele
-Landskouter
-Moortsele
-Balegem
-Gijzenzele
-Zulte
-Machelen
-Olsene
-Aalter
-Poeke
-Lotenhulle
-Bellem
-Baaigem
-Gavere
-Asper
-Dikkelvenne
-Vurste
-Semmerzake
-Eeklo
-Knesselare
-Ursel
-Lovendegem
-Vinderhoute
-Zomergem
-Lievegem
-Oostwinkel
-Ronsele
-Kluizen
-Sleidinge
-Evergem
-Ertvelde
-Waarschoot
-Assenede
-Boekhoute
-Oosteeklo
-Bassevelde
-Kaprijke
-Lembeke
-Sint-Laureins
-Sint-Margriete
-Sint-Jan-In-Eremo
-Watervliet
-Waterland-Oudeman
-Maldegem
-Adegem
-Middelburg
-Brugge
-Koolkerke
-Hertsberge
-Waardamme
-Oostkamp
-Ruddervoorde
-Sint-Michiels
-Sint-Andries
-Veldegem
-Zedelgem
-Loppem
-Aartrijke
-Knokke
-Knokke-Heist
-Westkapelle
-Ramskapelle
-Heist-Aan-Zee
-Assebroek
-Sint-Kruis
-Oostkerke
-Sijsele
-Lapscheure
-Hoeke
-Moerkerke
-Damme
-Blankenberge
-Uitkerke
-Houtave
-Meetkerke
-Nieuwmunster
-Zuienkerke
-Lissewege
-Zeebrugge
-Dudzele
-Oostende
-Stene
-Zandvoorde
-De Haan
-Wenduine
-Klemskerke
-Vlissegem
-Middelkerke
-Wilskerke
-Leffinge
-Schore
-Slijpe
-Mannekensvere
-Sint-Pieters-Kapelle
-Lombardsijde
-Westende
-Bredene
-Westkerke
-Ettelgem
-Roksem
-Oudenburg
-Zevekote
-Gistel
-Moere
-Snaaskerke
-Ichtegem
-Bekegem
-Eernegem
-Stalhille
-Jabbeke
-Zerkegem
-Varsenare
-Snellegem
-Kortrijk
-Heule
-Bissegem
-Marke
-Rollegem
-Kooigem
-Bellegem
-Aalbeke
-Kuurne
-Harelbeke
-Hulste
-Bavikhove
-Deerlijk
-Zwevegem
-Heestert
-Moen
-Otegem
-Sint-Denijs
-Wevelgem
-Gullegem
-Moorsele
-Anzegem
-Vichte
-Ingooigem
-Gijzelbrechtegem
-Kaster
-Tiegem
-Avelgem
-Waarmaarde
-Kerkhove
-Outrijve
-Bossuit
-Espierres-Helchin
-Espierres
-Helchin
-Vladslo
-Pervijze
-Diksmuide
-Oudekapelle
-Lampernisse
-Kaaskerke
-Leke
-Driekapellen
-Oostkerke
-Keiem
-Stuivekenskerke
-Woumen
-Sint-Jacobs-Kapelle
-Esen
-Nieuwkapelle
-Beerst
-Handzame
-Werken
-Zarren
-Kortemark
-Nieuwpoort
-Ramskapelle
-Sint-Joris
-Bulskamp
-Houtem
-Wulveringem
-Steenkerke
-Booitshoeke
-Zoutenaaie
-Veurne
-Avekapelle
-De Moeren
-Eggewaartskapelle
-Vinkem
-Vleteren
-Westvleteren
-Oostvleteren
-Woesten
-Pollinkhove
-Reninge
-Lo
-Noordschote
-Lo-Reninge
-Houthulst
-Klerken
-Merkem
-Adinkerke
-De Panne
-Koksijde
-Wulpen
-Oostduinkerke
-Zande
-Bovekerke
-Koekelare
-Oeren
-Alveringem
-Sint-Rijkers
-Hoogstade
-Stavele
-Leisele
-Izenberge
-Gijverinkhove
-Beveren-Aan-De-Ijzer
-Tielt
-Aarsele
-Schuiferskapelle
-Kanegem
-Sint-Baafs-Vijve
-Wielsbeke
-Ooigem
-Dentergem
-Markegem
-Oeselgem
-Wakken
-Oedelem
-Beernem
-Sint-Joris
-Egem
-Pittem
-Wingene
-Zwevezele
-Ruiselede
-Meulebeke
-Ingelmunster
-Oostrozebeke
-Waregem
-Beveren
-Desselgem
-Sint-Eloois-Vijve
-Roeselare
-Rumbeke
-Oekene
-Beveren
-Lichtervelde
-Torhout
-Hooglede
-Gits
-Westrozebeke
-Staden
-Oostnieuwkerke
-Ardooie
-Koolskamp
-Lendelede
-Kachtem
-Izegem
-Emelgem
-Ledegem
-Rollegem-Kapelle
-Sint-Eloois-Winkel
-Dadizele
-Moorslede
-Brielen
-Ieper
-Dikkebus
-Sint-Jan
-Zillebeke
-Hollebeke
-Voormezele
-Zuidschote
-Boezinge
-Elverdinge
-Vlamertinge
-Bikschote
-Langemark
-Langemark-Poelkapelle
-Poelkapelle
-Menen
-Lauwe
-Rekkem
-Wervik
-Geluwe
-Nieuwkerke
-Heuvelland
-Dranouter
-Wulvergem
-Wijtschate
-Westouter
-Kemmel
-Messines
-Loker
-Poperinge
-Reningelst
-Krombeke
-Proven
-Roesbrugge-Haringe
-Watou
-Zandvoorde
-Geluveld
-Beselare
-Zonnebeke
-Passendale
-Wavre
-Limal
-Bierges
-La Hulpe
-Piétrebais
-Glimes
-Opprebais
-Incourt
-Roux-Miroir
-Nodebais
-Hamme-Mille
-L'Ecluse
-Beauvechain
-Tourinnes-La-Grosse
-Dion-Valmont
-Bonlez
-Longueville
-Chaumont-Gistoux
-Corroy-Le-Grand
-Rixensart
-Rosières
-Genval
-Ottignies
-Ottignies-Louvain-La-Neuve
-Céroux-Mousty
-Limelette
-Louvain-La-Neuve
-Folx-Les-Caves
-Jandrain-Jandrenouille
-Enines
-Jauche
-Orp-Jauche
-Marilles
-Orp-Le-Grand
-Noduwez
-Hélécine
-Neerheylissem
-Linsmeau
-Opheylissem
-Malèves-Sainte-Marie-Wastinnes
-Thorembais-Les-Béguines
-Thorembais-Saint-Trond
-Orbais
-Perwez
-Huppaye
-Gérompont
-Geest-Gérompont-Petit-Rosière
-Autre-Eglise
-Mont-Saint-André
-Bomal
-Grand-Rosière-Hottomont
-Ramillies
-Dongelberg
-Jauchelette
-Saint-Jean-Geest
-Zétrud-Lumay
-Mélin
-Lathuy
-Piétrain
-Jodoigne-Souveraine
-Saint-Remy-Geest
-Jodoigne
-Lasne
-Maransart
-Plancenoit
-Couture-Saint-Germain
-Ohain
-Lasne-Chapelle-Saint-Lambert
-Bossut-Gottechain
-Archennes
-Biez
-Nethen
-Grez-Doiceau
-Monstreux
-Nivelles
-Baulers
-Thines
-Bornival
-Waterloo
-Braine-L'Alleud
-Ophain-Bois-Seigneur-Isaac
-Lillois-Witterzée
-Quenast
-Rebecq
-Bierghes
-Rebecq-Rognon
-Corbais
-Hévillers
-Mont-Saint-Guibert
-Braine-Le-Château
-Wauthier-Braine
-Saint-Géry
-Cortil-Noirmont
-Chastre
-Chastre-Villeroux-Blanmont
-Gentinnes
-Walhain-Saint-Paul
-Walhain
-Nil-Saint-Vincent-Saint-Martin
-Tourinnes-Saint-Lambert
-Ittre
-Virginal-Samme
-Haut-Ittre
-Genappe
-Bousval
-Baisy-Thy
-Loupoigne
-Vieux-Genappe
-Glabais
-Ways
-Houtain-Le-Val
-Oisquercq
-Saintes
-Clabecq
-Tubize
-Court-Saint-Etienne
-Marbais
-Mellery
-Villers-La-Ville
-Sart-Dames-Avelines
-Tilly
-Charleroi
-Marcinelle
-Couillet
-Dampremy
-Goutroux
-Marchienne-Au-Pont
-Monceau-Sur-Sambre
-Mont-Sur-Marchienne
-Jumet
-Gosselies
-Lodelinsart
-Ransart
-Roux
-Gilly
-Montignies-Sur-Sambre
-Montigny-Le-Tilleul
-Landelies
-Nalinnes
-Marbaix
-Jamioulx
-Cour-Sur-Heure
-Ham-Sur-Heure
-Fontaine-L'Evêque
-Forchies-La-Marche
-Leernes
-Anderlues
-Courcelles
-Gouy-Lez-Piéton
-Souvret
-Trazegnies
-Châtelineau
-Châtelet
-Bouffioulx
-Frasnes-Lez-Gosselies
-Les Bons Villers
-Rèves
-Villers-Perwin
-Wayaux
-Mellet
-Wangenies
-Heppignies
-Fleurus
-Lambusart
-Saint-Amand
-Brye
-Wagnelée
-Wanfercée-Baulet
-Buzet
-Obaix
-Viesville
-Thiméon
-Pont-À-Celles
-Liberchies
-Luttre
-Pironchamps
-Farciennes
-Roselies
-Presles
-Aiseau
-Pont-De-Loup
-Aiseau-Presles
-Gerpinnes
-Villers-Poterie
-Acoz
-Loverval
-Joncret
-Gougnies
-Vergnies
-Boussu-Lez-Walcourt
-Froidchapelle
-Fourbechies
-Erpion
-Bailièvre
-Robechies
-Salles
-Villers-La-Tour
-Saint-Remy
-Chimay
-Virelles
-Vaulx-Lez-Chimay
-Lompret
-Rièzes
-Bourlers
-L'Escaillère
-Forges
-Baileux
-Rance
-Grandrieu
-Sivry
-Sivry-Rance
-Sautin
-Montbliart
-Leugnies
-Barbençon
-Solre-Saint-Géry
-Thirimont
-Beaumont
-Leval-Chaudeville
-Renlies
-Strée
-Thuin
-Leers-Et-Fosteau
-Biesme-Sous-Thuin
-Ragnies
-Biercée
-Gozée
-Donstiennes
-Thuillies
-Lobbes
-Mont-Sainte-Geneviève
-Sars-La-Buissière
-Bienne-Lez-Happart
-Bersillies-L'Abbaye
-Montignies-Saint-Christophe
-Erquelinnes
-Hantes-Wihéries
-Solre-Sur-Sambre
-Grand-Reng
-Fontaine-Valmont
-Merbes-Le-Château
-Merbes-Sainte-Marie
-Labuissière
-Momignies
-Macon
-Monceau-Imbrechies
-Macquenoise
-Beauwelz
-Forge-Philippe
-Seloignes
-Mons
-Ghlin
-Jemappes
-Flénu
-Maisières
-Nimy
-Havré
-Hyon
-Harmignies
-Harveng
-Mesvin
-Nouvelles
-Ciply
-Saint-Symphorien
-Villers-Saint-Ghislain
-Spiennes
-Cuesmes
-Obourg
-Saint-Denis
-Quévy-Le-Grand
-Blaregnies
-Asquillies
-Quévy
-Goegnies-Chaussée
-Bougnies
-Aulnois
-Quévy-Le-Petit
-Genly
-Havay
-Givry
-Erbisoeul
-Erbaut
-Masnuy-Saint-Pierre
-Masnuy-Saint-Jean
-Jurbise
-Herchies
-Soignies
-Horrues
-Casteau
-Thieusies
-Naast
-Chaussée-Notre-Dame-Louvignies
-Neufvilles
-Mignault
-Gottignies
-Le Roeulx
-Ville-Sur-Haine
-Thieu
-Eugies
-Sars-La-Bruyère
-Frameries
-Noirchain
-La Bouverie
-Steenkerque
-Henripont
-Hennuyères
-Braine-Le-Comte
-Petit-Roeulx-Lez-Braine
-Ronquières
-Haine-Saint-Paul
-Trivières
-Saint-Vaast
-Haine-Saint-Pierre
-La Louvière
-Boussoit
-Houdeng-Aimeries
-Strépy-Bracquegnies
-Maurage
-Houdeng-Goegnies
-Peissant
-Fauroeulx
-Estinnes
-Haulchin
-Vellereille-Les-Brayeux
-Vellereille-Le-Sec
-Estinnes-Au-Val
-Croix-Lez-Rouveroy
-Rouveroy
-Estinnes-Au-Mont
-Bray
-Binche
-Battignies
-Waudrez
-Buvrinnes
-Péronnes-Lez-Binche
-Ressaix
-Leval-Trahegnies
-Epinois
-Morlanwelz-Mariemont
-Morlanwelz
-Mont-Sainte-Aldegonde
-Carnières
-Chapelle-Lez-Herlaimont
-Godarville
-Piéton
-Manage
-Bellecourt
-Fayt-Lez-Manage
-Bois-D'Haine
-La Hestre
-Seneffe
-Petit-Roeulx-Lez-Nivelles
-Familleureux
-Arquennes
-Feluy
-Ecaussinnes-D'Enghien
-Marche-Lez-Ecaussinnes
-Ecaussinnes
-Ecaussinnes-Lalaing
-Boussu
-Hornu
-Bernissart
-Blaton
-Harchies
-Ville-Pommeroeul
-Pommeroeul
-Saint-Ghislain
-Baudour
-Sirault
-Neufmaison
-Tertre
-Villerot
-Hautrage
-Colfontaine
-Wasmes
-Pâturages
-Warquignies
-Thulin
-Hainin
-Hensies
-Montroeul-Sur-Haine
-Elouges
-Wihéries
-Dour
-Blaugies
-Baisieux
-Quiévrain
-Audregnies
-Marchipont
-Onnezies
-Angre
-Angreau
-Roisin
-Athis
-Fayt-Le-Franc
-Honnelles
-Montignies-Sur-Roc
-Erquennes
-Autreppe
-Wasmuel
-Quaregnon
-Saint-Maur
-Ere
-Tournai
-Orcq
-Esplechin
-Froyennes
-Froidmont
-Willemeau
-Ramegnies-Chin
-Templeuve
-Chercq
-Blandain
-Lamain
-Hertain
-Marquain
-Gaurain-Ramecroix
-Havinnes
-Béclers
-Thimougies
-Maulde
-Barry
-Vaulx
-Vezon
-Kain
-Quartes
-Melles
-Rumillies
-Mont-Saint-Aubert
-Mourcourt
-Warchin
-Péruwelz
-Roucourt
-Bury
-Bon-Secours
-Baugnies
-Braffe
-Wasmes-Audemez-Briffoeil
-Brasménil
-Callenelle
-Wiers
-Rumes
-La Glanerie
-Taintignies
-Guignies
-Jollain-Merlin
-Bléharies
-Brunehaut
-Wez-Velvain
-Hollain
-Lesdain
-Laplaigne
-Rongy
-Howardries
-Maubray
-Péronnes-Lez-Antoing
-Antoing
-Bruyelle
-Calonne
-Fontenoy
-Luingne
-Mouscron
-Dottignies
-Herseaux
-Bailleul
-Evregnies
-Estaimpuis
-Estaimbourg
-Néchin
-Saint-Léger
-Leers-Nord
-Warcoing
-Pecq
-Hérinnes-Lez-Pecq
-Esquelmes
-Obigies
-Orroir
-Russeignies
-Anseroeul
-Amougies
-Mont-De-L'Enclus
-Velaines
-Pottes
-Escanaffles
-Popuelles
-Celles
-Molenbaix
-Comines
-Comines-Warneton
-Houthem
-Ploegsteert
-Bizet
-Bas-Warneton
-Warneton
-Ath
-Lanquesaint
-Irchonwelz
-Ormeignies
-Bouvignies
-Ostiches
-Rebaix
-Maffle
-Arbre
-Mainvault
-Villers-Saint-Amand
-Houtaing
-Ligne
-Moulbaix
-Villers-Notre-Dame
-Ghislenghien
-Isières
-Meslin-L'Evêque
-Gibecq
-Hoves
-Gondregnies
-Silly
-Graty
-Hellebecq
-Thoricourt
-Fouleng
-Bassilly
-Petit-Enghien
-Marcq
-Enghien
-Lessines
-Wannebecq
-Papignies
-Ogy
-Ghoy
-Deux-Acren
-Bois-De-Lessines
-Ollignies
-Lombise
-Montignies-Lez-Lens
-Bauffe
-Cambron-Saint-Vincent
-Lens
-Flobecq
-Wodecq
-Lahamaide
-Ellezelles
-Grandmetz
-Leuze-En-Hainaut
-Thieulain
-Chapelle-À-Wattines
-Chapelle-À-Oie
-Blicquy
-Willaupuis
-Pipaix
-Tourpes
-Gallaix
-Ellignies-Lez-Frasnes
-Arc-Wattripont
-Frasnes-Lez-Anvaing
-Arc-Ainières
-Wattripont
-Forest
-Anvaing
-Cordes
-Herquegies
-Moustier
-Frasnes-Lez-Buissenal
-Oeudeghien
-Montroeul-Au-Bois
-Buissenal
-Hacquegnies
-Saint-Sauveur
-Dergneau
-Brugelette
-Cambron-Casteau
-Attre
-Mévergnies-Lez-Lens
-Gages
-Huissignies
-Ladeuze
-Tongre-Saint-Martin
-Chièvres
-Grosage
-Tongre-Notre-Dame
-Beloeil
-Thumaide
-Wadelincourt
-Ramegnies
-Basècles
-Quevaucamps
-Ellignies-Sainte-Anne
-Aubechies
-Grandglise
-Stambruges
-Rocourt
-Glain
-Liège
-Wandre
-Liège
-Bressoux
-Jupille-Sur-Meuse
-Grivegnée
-Angleur
-Chênée
-Herstal
-Milmort
-Vottem
-Liers
-Chaudfontaine
-Vaux-Sous-Chèvremont
-Beaufays
-Embourg
-Seraing
-Boncelles
-Jemeppe-Sur-Meuse
-Ougrée
-Rotheux-Rimière
-Neupré
-Ehein
-Neuville-En-Condroz
-Plainevaux
-Tilff
-Esneux
-Rouvreux
-Sprimont
-Dolembreux
-Gomzé-Andoumont
-Louveigné
-Anthisnes
-Villers-Aux-Tours
-Hody
-Tavier
-Comblain-Au-Pont
-Poulseur
-Comblain-Fairon
-Comblain-La-Tour
-Hamoir
-Filot
-My
-Xhoris
-Ferrières
-Vieuxville
-Werbomont
-Burdinne
-Marneffe
-Lamontzée
-Oteppe
-Hannêche
-Héron
-Waret-L'Evêque
-Lavoir
-Couthuin
-Acosse
-Ambresin
-Meeffe
-Wasseiges
-Boëlhe
-Hollogne-Sur-Geer
-Lens-Saint-Servais
-Geer
-Omal
-Darion
-Ligney
-Corswarem
-Rosoux-Crenwick
-Berloz
-Avennes
-Braives
-Ciplet
-Ville-En-Hesbaye
-Fallais
-Fumal
-Latinne
-Tourinne
-Merdorp
-Poucet
-Lens-Saint-Remy
-Blehen
-Bertrée
-Avernas-Le-Bauduin
-Trognée
-Thisnes
-Hannut
-Abolens
-Moxhe
-Grand-Hallet
-Wansin
-Avin
-Villers-Le-Peuplier
-Cras-Avernas
-Crehen
-Petit-Hallet
-Racour
-Lincent
-Pellaines
-Bettincourt
-Bleret
-Oleye
-Grand-Axhe
-Lantremange
-Waremme
-Bovenistier
-Borlez
-Les Waleffes
-Viemme
-Faimes
-Aineffe
-Celles
-Villers-L'Evêque
-Awans
-Othée
-Fooz
-Hognoul
-Noville
-Roloux
-Freloux
-Fexhe-Le-Haut-Clocher
-Voroux-Goreux
-Lamine
-Momalle
-Remicourt
-Pousset
-Hodeige
-Limont
-Donceel
-Haneffe
-Jeneffe
-Bergilers
-Grandville
-Otrange
-Lens-Sur-Geer
-Oreye
-Crisnée
-Kemexhe
-Fize-Le-Marsal
-Odeur
-Thys
-Flémalle-Grande
-Chokier
-Flémalle
-Ivoz-Ramet
-Gleixhe
-Mons-Lez-Liège
-Flémalle-Haute
-Awirs
-Montegnée
-Saint-Nicolas
-Tilleur
-Ans
-Loncin
-Xhendremael
-Alleur
-Lantin
-Juprelle
-Slins
-Voroux-Lez-Liers
-Wihogne
-Paifve
-Villers-Saint-Siméon
-Fexhe-Slins
-Grâce-Berleur
-Hollogne-Aux-Pierres
-Horion-Hozémont
-Grâce-Hollogne
-Bierset
-Velroux
-Saint-Georges-Sur-Meuse
-Clermont-Sous-Huy
-Ehein
-Hermalle-Sous-Huy
-Engis
-Huy
-Tihange
-Ben-Ahin
-Huccorgne
-Wanze
-Moha
-Vinalmont
-Bas-Oha
-Antheit
-Fize-Fontaine
-Vieux-Waleffe
-Vaux-Et-Borset
-Villers-Le-Bouillet
-Warnant-Dreye
-Verlaine
-Bodegnée
-Seraing-Le-Château
-Chapon-Seraing
-Ombret
-Flône
-Amay
-Jehay
-Ampsin
-Villers-Le-Temple
-Yernée-Fraineux
-Nandrin
-Saint-Séverin
-Fraiture
-Soheit-Tinlot
-Ramelot
-Tinlot
-Abée
-Seny
-Clavier
-Les Avins
-Pailhe
-Terwagne
-Ocquier
-Bois-Et-Borsu
-Marchin
-Vyle-Et-Tharoul
-Strée-Lez-Huy
-Vierset-Barse
-Outrelouxhe
-Modave
-Ellemelle
-Warzée
-Ouffet
-Lanaye
-Richelle
-Lixhe
-Visé
-Argenteau
-Cheratte
-Saint-André
-Feneur
-Bombaye
-Berneau
-Mortroux
-Dalhem
-Warsage
-Neufchâteau
-Beyne-Heusay
-Queue-Du-Bois
-Bellaire
-Fléron
-Retinne
-Magnée
-Romsée
-Ayeneux
-Soumagne
-Micheroux
-Tignée
-Evegnée
-Cérexhe-Heuseux
-Melen
-Herve
-Chaineux
-Grand-Rechain
-Julémont
-Battice
-Xhendelesse
-Bolland
-Charneux
-Mortier
-Blégny
-Trembleur
-Housse
-Saive
-Barchon
-Saint-Remy
-Hermée
-Oupeye
-Hermalle-Sous-Argenteau
-Houtain-Saint-Siméon
-Heure-Le-Romain
-Vivegnis
-Haccourt
-Glons
-Boirs
-Roclenge-Sur-Geer
-Bassenge
-Wonck
-Eben-Emael
-Eupen
-Kettenis
-Lontzen
-Walhorn
-La Calamine
-Neu-Moresnet
-Hergenrath
-Hauset
-Raeren
-Eynatten
-Elsenborn
-Butgenbach
-Bullange
-Manderfeld
-Rocherath
-Meyerode
-Amblève
-Heppenbach
-Saint-Vith
-Recht
-Schoenberg
-Lommersweiler
-Crombach
-Reuland
-Burg-Reuland
-Thommen
-Verviers
-Petit-Rechain
-Lambermont
-Ensival
-Polleur
-Stembert
-Heusy
-Dison
-Andrimont
-Limbourg
-Bilstain
-Goé
-Baelen
-Membach
-Welkenraedt
-Henri-Chapelle
-Sart-Lez-Spa
-Jalhay
-Montzen
-Plombières
-Moresnet
-Sippenaeken
-Gemmenich
-Hombourg
-Cornesse
-Pepinster
-Wegnez
-Soiron
-Fraipont
-Forêt
-Trooz
-Nessonvaux
-Olne
-Aubel
-Thimister-Clermont
-Clermont
-Thimister
-Spa
-Polleur
-Theux
-La Reid
-Harzé
-Sougné-Remouchamps
-Aywaille
-Louveigné
-Ernonheid
-Waimes
-Sourbrodt
-Faymonville
-Robertville
-Bellevaux-Ligneuville
-Malmedy
-Bevercé
-Stavelot
-Francorchamps
-Trois-Ponts
-Wanne
-Fosse
-Basse-Bodeux
-Stoumont
-Lorcé
-Chevron
-La Gleize
-Rahier
-Bra
-Arbrefontaine
-Lierneux
-Bastogne
-Longvilly
-Villers-La-Bonne-Eau
-Noville
-Wardin
-Martelange
-Fauvillers
-Hollange
-Tintange
-Sibret
-Nives
-Vaux-Sur-Sûre
-Morhet
-Hompré
-Vaux-Lez-Rosières
-Juseret
-Houffalize
-Nadrin
-Tailles
-Mont
-Tavigny
-Mabompré
-Wibrin
-Gouvy
-Limerlé
-Bovigny
-Beho
-Cherain
-Montleban
-Sainte-Ode
-Amberloup
-Tillet
-Lavacherie
-Flamierge
-Bertogne
-Longchamps
-Vielsalm
-Bihain
-Petit-Thier
-Grand-Halleux
-Toernich
-Arlon
-Heinsch
-Bonnert
-Guirsch
-Autelbas
-Attert
-Tontelange
-Thiaumont
-Nothomb
-Nobressart
-Habay
-Habay-La-Neuve
-Hachy
-Anlier
-Habay-La-Vieille
-Houdemont
-Rulles
-Tintigny
-Bellefontaine
-Rossignol
-Saint-Vincent
-Etalle
-Villers-Sur-Semois
-Sainte-Marie-Sur-Semois
-Vance
-Chantemelle
-Buzenol
-Meix-Le-Tige
-Saint-Léger
-Châtillon
-Mussy-La-Ville
-Signeulx
-Musson
-Ruette
-Virton
-Ethe
-Bleid
-Latour
-Saint-Mard
-Harnoncourt
-Rouvroy
-Dampicourt
-Torgny
-Lamorteau
-Villers-La-Loue
-Sommethonne
-Meix-Devant-Virton
-Robelmont
-Gérouville
-Hondelange
-Wolkrange
-Messancy
-Sélange
-Habergy
-Aubange
-Athus
-Rachecourt
-Halanzy
-Moircy
-Sainte-Marie-Chevigny
-Bras
-Saint-Pierre
-Recogne
-Freux
-Remagne
-Libramont-Chevigny
-Izel
-Chiny
-Jamoigne
-Les Bulles
-Suxy
-Termes
-Muno
-Fontenoille
-Florenville
-Sainte-Cécile
-Lacuisine
-Villers-Devant-Orval
-Chassepierre
-Poupehan
-Bouillon
-Les Hayons
-Rochehaut
-Noirfontaine
-Sensenruth
-Vivy
-Ucimont
-Bellevaux
-Dohan
-Corbion
-Grandvoir
-Tournay
-Hamipré
-Grapfontaine
-Neufchâteau
-Longlier
-Paliseul
-Carlsbourg
-Offagne
-Nollevaux
-Maissin
-Opont
-Framont
-Fays-Les-Veneurs
-Ebly
-Léglise
-Witry
-Mellier
-Assenois
-Arville
-Vesqueville
-Hatrival
-Saint-Hubert
-Awenne
-Mirwart
-Jehonville
-Cugnon
-Bertrix
-Auby-Sur-Semois
-Orgeo
-Saint-Médard
-Herbeumont
-Straimont
-Smuid
-Villance
-Anloy
-Libin
-Transinne
-Redu
-Ochamps
-On
-Humain
-Hargimont
-Marche-En-Famenne
-Roy
-Waha
-Aye
-Wellin
-Sohier
-Chanly
-Halma
-Lomprez
-Grupont
-Bure
-Tellin
-Resteigne
-Gembes
-Porcheresse
-Haut-Fays
-Daverdisse
-Durbuy
-Septon
-Wéris
-Barvaux-Sur-Ourthe
-Grandhan
-Heyd
-Izier
-Bomal-Sur-Ourthe
-Villers-Sainte-Gertrude
-Borlon
-Tohogne
-Bende
-Nassogne
-Harsin
-Bande
-Grune
-Masbourg
-Lesterny
-Ambly
-Forrières
-Harre
-Dochamps
-Odeigne
-Vaux-Chavanne
-Manhay
-Grandménil
-Malempré
-Tenneville
-Champlon
-Erneuville
-Beausaint
-La Roche-En-Ardenne
-Samrée
-Ortho
-Hives
-Halleux
-Hodister
-Marcourt
-Beffe
-Rendeux
-Marenne
-Hampteau
-Fronville
-Hotton
-Soy
-Mormont
-Erezée
-Amonines
-Namur
-Beez
-Belgrade
-Saint-Servais
-Saint-Marc
-Bouge
-Suarlée
-Temploux
-Malonne
-Champion
-Vedrin
-Flawinne
-Daussoulx
-Boninne
-Cognelée
-Gelbressée
-Marche-Les-Dames
-Grand-Manil
-Ernage
-Beuzet
-Gembloux
-Lonzée
-Sauvenière
-Grand-Leez
-Corroy-Le-Château
-Bothey
-Isnes
-Bossière
-Mazy
-Arsimont
-Moignelée
-Keumiée
-Auvelais
-Tamines
-Sambreville
-Falisolle
-Velaine-Sur-Sambre
-Sart-Eustache
-Fosses-La-Ville
-Le Roux
-Sart-Saint-Laurent
-Vitrival
-Aisemont
-Villers-Lez-Heest
-Warisoulx
-La Bruyère
-Emines
-Rhisnes
-Bovesse
-Meux
-Saint-Denis-Bovesse
-Wépion
-Naninne
-Jambes
-Dave
-Wierde
-Erpent
-Lives-Sur-Meuse
-Loyers
-Sombreffe
-Ligny
-Boignée
-Tongrinne
-Franière
-Floreffe
-Floriffoux
-Soye
-Lustin
-Profondeville
-Bois-De-Villers
-Rivière
-Lesve
-Arbre
-Balâtre
-Onoz
-Moustier-Sur-Sambre
-Jemeppe-Sur-Sambre
-Saint-Martin
-Mornimont
-Ham-Sur-Sambre
-Spy
-Landenne
-Coutisse
-Vezin
-Maizeret
-Thon
-Sclayn
-Seilles
-Namêche
-Andenne
-Bonneville
-Saint-Germain
-Leuze
-Noville-Sur-Mehaigne
-Taviers
-Mehaigne
-Upigny
-Eghezée
-Boneffe
-Dhuy
-Waret-La-Chaussée
-Liernu
-Hanret
-Branchon
-Bolinne
-Longchamps
-Aische-En-Refail
-Assesse
-Sart-Bernard
-Maillen
-Crupet
-Sorinne-La-Longue
-Florée
-Courrière
-Mozet
-Gesves
-Faulx-Les-Tombes
-Sorée
-Haltinne
-Evelette
-Ohey
-Haillot
-Perwez-Haillot
-Goesnes
-Jallet
-Hamois
-Natoye
-Scy
-Mohiville
-Achet
-Emptinne
-Schaltin
-Havelange
-Porcheresse
-Verlée
-Barvaux-Condroz
-Flostoy
-Jeneffe
-Méan
-Maffe
-Miécret
-Noiseux
-Hogne
-Baillonville
-Somme-Leuze
-Heure
-Nettinne
-Waillet
-Sinsin
-Bonsin
-Pontillas
-Marchovelette
-Bierwart
-Franc-Waret
-Hingeon
-Cortil-Wodon
-Forville
-Noville-Les-Bois
-Hemptinne
-Tillier
-Fernelmont
-Bouvignes-Sur-Meuse
-Falmignoul
-Furfooz
-Anseremme
-Dréhance
-Falmagne
-Dinant
-Lisogne
-Thynes
-Sorinnes
-Foy-Notre-Dame
-Onhaye
-Anthée
-Serville
-Falaën
-Sommière
-Weillen
-Gérin
-Godinne
-Purnode
-Durnal
-Dorinne
-Evrehailles
-Spontin
-Yvoir
-Mont
-Houx
-Sosoye
-Bioul
-Haut-Le-Wastia
-Denée
-Warnant
-Annevoie-Rouillon
-Anhée
-Hermeton-Sur-Meuse
-Hastière
-Hastière-Lavaux
-Waulsort
-Hastière-Par-Delà
-Blaimont
-Heer
-Agimont
-Bohan
-Vresse-Sur-Semois
-Chairière
-Pussemange
-Laforêt
-Bagimont
-Membre
-Sugny
-Alle
-Mouzaive
-Nafraiture
-Orchimont
-Petit-Fays
-Monceau-En-Ardenne
-Cornimont
-Bièvre
-Bellefontaine
-Graide
-Oizy
-Naomé
-Gros-Fays
-Baillamont
-Hulsonniaux
-Finnevaux
-Mesnil-Saint-Blaise
-Mesnil-Eglise
-Houyet
-Ciergnon
-Celles
-Custinne
-Hour
-Wanlin
-Feschaux
-Vonêche
-Dion
-Wancennes
-Javingue
-Winenne
-Felenne
-Honnay
-Beauraing
-Baronville
-Wiesme
-Focant
-Martouzin-Neuville
-Pondrôme
-Gedinne
-Houdremont
-Willerzie
-Rienne
-Bourseigne-Neuve
-Bourseigne-Vieille
-Sart-Custinne
-Louette-Saint-Pierre
-Vencimont
-Malvoisin
-Patignies
-Louette-Saint-Denis
-Froidfontaine
-Rochefort
-Mont-Gauthier
-Han-Sur-Lesse
-Eprave
-Lessive
-Wavreille
-Villers-Sur-Lesse
-Lavaux-Sainte-Anne
-Ave-Et-Auffe
-Jemelle
-Buissonville
-Braibant
-Haversin
-Conneux
-Pessoux
-Serinchamps
-Achêne
-Sovet
-Leignon
-Ciney
-Chevetogne
-Vodecée
-Franchimont
-Fagnolle
-Omezée
-Villers-En-Fagne
-Sart-En-Fagne
-Jamiolle
-Jamagne
-Samart
-Surice
-Sautour
-Roly
-Merlemont
-Philippeville
-Villers-Le-Gambon
-Romedenne
-Neuville
-Florennes
-Saint-Aubin
-Rosée
-Morville
-Corenne
-Hemptinne-Lez-Florennes
-Flavion
-Morialmé
-Hanzinne
-Thy-Le-Baudouin
-Hanzinelle
-Daussois
-Soumoy
-Silenrieux
-Senzeilles
-Villers-Deux-Eglises
-Cerfontaine
-Graux
-Biesme
-Saint-Gérard
-Mettet
-Biesmerée
-Oret
-Furnaux
-Ermeton-Sur-Biert
-Stave
-Fraire
-Castillon
-Fontenelle
-Yves-Gomezée
-Pry
-Clermont
-Chastrès
-Vogenée
-Walcourt
-Thy-Le-Château
-Somzée
-Berzée
-Rognée
-Tarcienne
-Gourdinne
-Laneffe
-Couvin
-Frasnes
-Aublain
-Pétigny
-Brûly
-Petite-Chapelle
-Mariembourg
-Gonrieux
-Pesche
-Dailly
-Presgaux
-Brûly-De-Pesche
-Cul-Des-Sarts
-Boussu-En-Fagne
-Le Mesnil
-Treignes
-Viroinval
-Vierves-Sur-Viroin
-Nismes
-Oignies-En-Thiérache
-Olloy-Sur-Viroin
-Mazée
-Dourbes
-Gochenée
-Doische
-Soulme
-Matagne-La-Petite
-Vaucelles
-Niverlée
-Romerée
-Vodelée
-Matagne-La-Grande
-Gimnée
-postal_code
-1000
-1020
-1030
-1040
-1050
-1060
-1070
-1080
-1081
-1082
-1083
-1090
-1120
-1130
-1140
-1150
-1160
-1170
-1180
-1190
-1200
-1210
-2000
-2018
-2020
-2030
-2040
-2040
-2040
-2040
-2050
-2060
-2070
-2070
-2100
-2110
-2140
-2150
-2160
-2170
-2180
-2200
-2200
-2200
-2220
-2220
-2221
-2222
-2222
-2223
-2230
-2230
-2235
-2235
-2235
-2240
-2240
-2240
-2242
-2243
-2250
-2260
-2260
-2260
-2260
-2270
-2275
-2275
-2275
-2275
-2280
-2288
-2290
-2300
-2310
-2320
-2321
-2322
-2323
-2328
-2330
-2340
-2340
-2350
-2360
-2370
-2380
-2381
-2382
-2387
-2390
-2390
-2390
-2400
-2430
-2430
-2430
-2431
-2431
-2440
-2450
-2460
-2460
-2460
-2470
-2480
-2490
-2491
-2500
-2500
-2520
-2520
-2520
-2520
-2530
-2531
-2540
-2547
-2550
-2550
-2560
-2560
-2560
-2570
-2580
-2580
-2590
-2590
-2600
-2610
-2620
-2627
-2630
-2640
-2650
-2660
-2800
-2800
-2801
-2811
-2811
-2812
-2820
-2820
-2830
-2830
-2830
-2830
-2840
-2840
-2840
-2845
-2850
-2860
-2861
-2870
-2870
-2870
-2870
-2870
-2880
-2880
-2880
-2880
-2890
-2890
-2890
-2900
-2910
-2920
-2930
-2940
-2940
-2950
-2960
-2960
-2960
-2970
-2970
-2980
-2980
-2990
-2990
-1500
-1501
-1502
-1540
-1540
-1541
-1547
-1560
-1570
-1570
-1570
-1600
-1600
-1600
-1601
-1602
-1620
-1630
-1640
-1650
-1651
-1652
-1653
-1654
-1670
-1670
-1670
-1671
-1673
-1674
-1700
-1700
-1700
-1701
-1702
-1703
-1730
-1730
-1730
-1730
-1731
-1731
-1740
-1741
-1742
-1745
-1745
-1750
-1750
-1750
-1750
-1755
-1755
-1755
-1755
-1760
-1760
-1760
-1760
-1761
-1770
-1780
-1785
-1785
-1785
-1790
-1790
-1790
-1790
-1800
-1800
-1820
-1820
-1820
-1830
-1831
-1840
-1840
-1840
-1850
-1851
-1852
-1853
-1860
-1861
-1880
-1880
-1880
-1910
-1910
-1910
-1910
-1930
-1930
-1932
-1933
-1950
-1970
-1980
-1980
-1981
-1982
-1982
-3000
-3001
-3010
-3012
-3018
-3020
-3020
-3020
-3040
-3040
-3040
-3040
-3040
-3050
-3051
-3052
-3053
-3054
-3060
-3060
-3061
-3070
-3071
-3078
-3078
-3080
-3080
-3080
-3090
-3110
-3111
-3118
-3120
-3128
-3130
-3130
-3140
-3150
-3150
-3150
-3190
-3191
-3200
-3200
-3201
-3202
-3210
-3210
-3211
-3212
-3220
-3220
-3220
-3221
-3270
-3270
-3271
-3271
-3272
-3272
-3290
-3290
-3290
-3290
-3293
-3294
-3300
-3300
-3300
-3300
-3300
-3300
-3300
-3300
-3300
-3320
-3320
-3321
-3350
-3350
-3350
-3350
-3350
-3350
-3350
-3350
-3360
-3360
-3360
-3360
-3370
-3370
-3370
-3370
-3370
-3370
-3380
-3380
-3381
-3384
-3390
-3390
-3390
-3390
-3391
-3400
-3400
-3400
-3400
-3400
-3400
-3400
-3400
-3401
-3401
-3401
-3401
-3404
-3404
-3440
-3440
-3440
-3440
-3440
-3450
-3450
-3454
-3460
-3460
-3461
-3470
-3470
-3470
-3471
-3472
-3473
-3500
-3500
-3501
-3510
-3510
-3511
-3511
-3512
-3520
-3530
-3530
-3530
-3540
-3540
-3540
-3540
-3545
-3545
-3545
-3550
-3550
-3550
-3560
-3560
-3560
-3570
-3580
-3581
-3582
-3583
-3590
-3600
-3620
-3620
-3620
-3620
-3621
-3630
-3630
-3630
-3630
-3630
-3630
-3630
-3631
-3631
-3640
-3640
-3640
-3640
-3650
-3650
-3650
-3650
-3650
-3650
-3660
-3665
-3668
-3670
-3670
-3670
-3670
-3670
-3670
-3680
-3680
-3680
-3690
-3700
-3700
-3700
-3700
-3700
-3700
-3700
-3700
-3700
-3700
-3700
-3700
-3700
-3700
-3700
-3700
-3700
-3700
-3700
-3717
-3720
-3721
-3722
-3723
-3724
-3730
-3730
-3730
-3730
-3732
-3740
-3740
-3740
-3740
-3740
-3740
-3740
-3740
-3740
-3740
-3740
-3742
-3746
-3770
-3770
-3770
-3770
-3770
-3770
-3770
-3770
-3770
-3770
-3790
-3790
-3790
-3791
-3792
-3793
-3798
-3800
-3800
-3800
-3800
-3800
-3800
-3800
-3800
-3800
-3800
-3803
-3803
-3803
-3803
-3806
-3830
-3830
-3831
-3832
-3840
-3840
-3840
-3840
-3840
-3840
-3840
-3840
-3840
-3840
-3840
-3840
-3840
-3840
-3840
-3850
-3850
-3850
-3850
-3870
-3870
-3870
-3870
-3870
-3870
-3870
-3870
-3870
-3870
-3870
-3870
-3870
-3890
-3890
-3890
-3890
-3890
-3890
-3890
-3891
-3891
-3891
-3891
-3900
-3900
-3910
-3910
-3920
-3930
-3930
-3930
-3940
-3940
-3941
-3945
-3945
-3945
-3950
-3950
-3950
-3960
-3960
-3960
-3960
-3960
-3970
-3971
-3980
-3990
-3990
-3990
-3990
-9000
-9030
-9031
-9032
-9040
-9041
-9042
-9042
-9042
-9050
-9050
-9051
-9051
-9052
-9060
-9070
-9070
-9080
-9080
-9080
-9080
-9090
-9090
-9100
-9100
-9111
-9112
-9120
-9120
-9120
-9120
-9120
-9130
-9130
-9130
-9130
-9140
-9140
-9140
-9140
-9150
-9150
-9150
-9160
-9160
-9160
-9170
-9170
-9170
-9170
-9180
-9185
-9190
-9190
-9200
-9200
-9200
-9200
-9200
-9200
-9200
-9200
-9220
-9220
-9230
-9230
-9230
-9240
-9250
-9255
-9255
-9260
-9260
-9260
-9270
-9270
-9280
-9280
-9280
-9290
-9290
-9290
-9300
-9308
-9308
-9310
-9310
-9310
-9310
-9320
-9320
-9340
-9340
-9340
-9340
-9340
-9400
-9400
-9400
-9400
-9400
-9400
-9400
-9401
-9402
-9403
-9404
-9406
-9420
-9420
-9420
-9420
-9420
-9420
-9420
-9420
-9420
-9450
-9450
-9450
-9451
-9470
-9472
-9473
-9500
-9500
-9500
-9500
-9500
-9500
-9500
-9500
-9500
-9506
-9506
-9506
-9506
-9506
-9506
-9506
-9520
-9520
-9520
-9520
-9520
-9521
-9550
-9550
-9550
-9550
-9550
-9550
-9551
-9552
-9570
-9570
-9570
-9571
-9572
-9600
-9620
-9620
-9620
-9620
-9620
-9620
-9620
-9620
-9620
-9620
-9620
-9630
-9630
-9630
-9630
-9630
-9630
-9630
-9630
-9630
-9630
-9630
-9630
-9636
-9660
-9660
-9660
-9660
-9660
-9660
-9660
-9660
-9661
-9667
-9667
-9667
-9680
-9680
-9680
-9681
-9688
-9690
-9690
-9690
-9690
-9690
-9700
-9700
-9700
-9700
-9700
-9700
-9700
-9700
-9700
-9700
-9700
-9700
-9700
-9700
-9750
-9750
-9750
-9770
-9770
-9771
-9772
-9790
-9790
-9790
-9790
-9790
-9790
-9800
-9800
-9800
-9800
-9800
-9800
-9800
-9800
-9800
-9800
-9800
-9810
-9810
-9820
-9820
-9820
-9820
-9820
-9820
-9830
-9831
-9840
-9840
-9850
-9850
-9850
-9850
-9850
-9850
-9860
-9860
-9860
-9860
-9860
-9860
-9870
-9870
-9870
-9880
-9880
-9880
-9881
-9890
-9890
-9890
-9890
-9890
-9890
-9900
-9910
-9910
-9920
-9921
-9930
-9930
-9931
-9932
-9940
-9940
-9940
-9940
-9950
-9960
-9961
-9968
-9968
-9970
-9971
-9980
-9981
-9982
-9988
-9988
-9990
-9991
-9992
-8000
-8000
-8020
-8020
-8020
-8020
-8200
-8200
-8210
-8210
-8210
-8211
-8300
-8300
-8300
-8301
-8301
-8310
-8310
-8340
-8340
-8340
-8340
-8340
-8340
-8370
-8370
-8377
-8377
-8377
-8377
-8380
-8380
-8380
-8400
-8400
-8400
-8420
-8420
-8420
-8421
-8430
-8431
-8432
-8433
-8433
-8433
-8433
-8434
-8434
-8450
-8460
-8460
-8460
-8460
-8470
-8470
-8470
-8470
-8480
-8480
-8480
-8490
-8490
-8490
-8490
-8490
-8500
-8501
-8501
-8510
-8510
-8510
-8510
-8511
-8520
-8530
-8531
-8531
-8540
-8550
-8551
-8552
-8553
-8554
-8560
-8560
-8560
-8570
-8570
-8570
-8570
-8572
-8573
-8580
-8581
-8581
-8582
-8583
-8587
-8587
-8587
-8600
-8600
-8600
-8600
-8600
-8600
-8600
-8600
-8600
-8600
-8600
-8600
-8600
-8600
-8600
-8600
-8610
-8610
-8610
-8610
-8620
-8620
-8620
-8630
-8630
-8630
-8630
-8630
-8630
-8630
-8630
-8630
-8630
-8630
-8640
-8640
-8640
-8640
-8647
-8647
-8647
-8647
-8647
-8650
-8650
-8650
-8660
-8660
-8670
-8670
-8670
-8680
-8680
-8680
-8690
-8690
-8690
-8690
-8691
-8691
-8691
-8691
-8691
-8700
-8700
-8700
-8700
-8710
-8710
-8710
-8720
-8720
-8720
-8720
-8730
-8730
-8730
-8740
-8740
-8750
-8750
-8755
-8760
-8770
-8780
-8790
-8791
-8792
-8793
-8800
-8800
-8800
-8800
-8810
-8820
-8830
-8830
-8840
-8840
-8840
-8850
-8851
-8860
-8870
-8870
-8870
-8880
-8880
-8880
-8890
-8890
-8900
-8900
-8900
-8900
-8902
-8902
-8902
-8904
-8904
-8906
-8908
-8920
-8920
-8920
-8920
-8930
-8930
-8930
-8940
-8940
-8950
-8950
-8951
-8952
-8953
-8954
-8956
-8957
-8958
-8970
-8970
-8972
-8972
-8972
-8978
-8980
-8980
-8980
-8980
-8980
-1300
-1300
-1301
-1310
-1315
-1315
-1315
-1315
-1315
-1320
-1320
-1320
-1320
-1320
-1325
-1325
-1325
-1325
-1325
-1330
-1331
-1332
-1340
-1340
-1341
-1342
-1348
-1350
-1350
-1350
-1350
-1350
-1350
-1350
-1350
-1357
-1357
-1357
-1357
-1360
-1360
-1360
-1360
-1360
-1367
-1367
-1367
-1367
-1367
-1367
-1367
-1367
-1370
-1370
-1370
-1370
-1370
-1370
-1370
-1370
-1370
-1370
-1380
-1380
-1380
-1380
-1380
-1380
-1390
-1390
-1390
-1390
-1390
-1400
-1400
-1401
-1402
-1404
-1410
-1420
-1421
-1428
-1430
-1430
-1430
-1430
-1435
-1435
-1435
-1440
-1440
-1450
-1450
-1450
-1450
-1450
-1457
-1457
-1457
-1457
-1460
-1460
-1461
-1470
-1470
-1470
-1471
-1472
-1473
-1474
-1476
-1480
-1480
-1480
-1480
-1490
-1495
-1495
-1495
-1495
-1495
-6000
-6001
-6010
-6020
-6030
-6030
-6031
-6032
-6040
-6041
-6042
-6043
-6044
-6060
-6061
-6110
-6111
-6120
-6120
-6120
-6120
-6120
-6140
-6141
-6142
-6150
-6180
-6181
-6182
-6183
-6200
-6200
-6200
-6210
-6210
-6210
-6210
-6210
-6211
-6220
-6220
-6220
-6220
-6221
-6222
-6223
-6224
-6230
-6230
-6230
-6230
-6230
-6238
-6238
-6240
-6240
-6250
-6250
-6250
-6250
-6250
-6280
-6280
-6280
-6280
-6280
-6280
-6440
-6440
-6440
-6440
-6441
-6460
-6460
-6460
-6460
-6460
-6460
-6461
-6462
-6463
-6464
-6464
-6464
-6464
-6464
-6470
-6470
-6470
-6470
-6470
-6470
-6500
-6500
-6500
-6500
-6500
-6500
-6500
-6511
-6530
-6530
-6531
-6532
-6533
-6534
-6536
-6536
-6540
-6540
-6542
-6543
-6560
-6560
-6560
-6560
-6560
-6560
-6567
-6567
-6567
-6567
-6590
-6591
-6592
-6593
-6594
-6596
-6596
-7000
-7011
-7012
-7012
-7020
-7020
-7021
-7022
-7022
-7022
-7022
-7022
-7024
-7030
-7031
-7032
-7033
-7034
-7034
-7040
-7040
-7040
-7040
-7040
-7040
-7040
-7040
-7040
-7041
-7041
-7050
-7050
-7050
-7050
-7050
-7050
-7060
-7060
-7061
-7061
-7062
-7063
-7063
-7070
-7070
-7070
-7070
-7070
-7080
-7080
-7080
-7080
-7080
-7090
-7090
-7090
-7090
-7090
-7090
-7100
-7100
-7100
-7100
-7100
-7110
-7110
-7110
-7110
-7110
-7120
-7120
-7120
-7120
-7120
-7120
-7120
-7120
-7120
-7120
-7130
-7130
-7130
-7131
-7133
-7134
-7134
-7134
-7134
-7140
-7140
-7141
-7141
-7160
-7160
-7160
-7170
-7170
-7170
-7170
-7170
-7180
-7181
-7181
-7181
-7181
-7190
-7190
-7190
-7191
-7300
-7301
-7320
-7321
-7321
-7322
-7322
-7330
-7331
-7332
-7332
-7333
-7334
-7334
-7340
-7340
-7340
-7340
-7350
-7350
-7350
-7350
-7370
-7370
-7370
-7370
-7380
-7380
-7382
-7387
-7387
-7387
-7387
-7387
-7387
-7387
-7387
-7387
-7387
-7387
-7390
-7390
-7500
-7500
-7500
-7501
-7502
-7503
-7504
-7506
-7520
-7520
-7521
-7522
-7522
-7522
-7522
-7530
-7531
-7532
-7533
-7534
-7534
-7536
-7538
-7540
-7540
-7540
-7540
-7542
-7543
-7548
-7600
-7601
-7602
-7603
-7604
-7604
-7604
-7604
-7604
-7608
-7610
-7611
-7618
-7620
-7620
-7620
-7620
-7620
-7620
-7621
-7622
-7623
-7624
-7640
-7640
-7640
-7641
-7642
-7643
-7700
-7700
-7711
-7712
-7730
-7730
-7730
-7730
-7730
-7730
-7730
-7740
-7740
-7742
-7743
-7743
-7750
-7750
-7750
-7750
-7750
-7760
-7760
-7760
-7760
-7760
-7760
-7780
-7780
-7781
-7782
-7783
-7784
-7784
-7800
-7800
-7801
-7802
-7803
-7804
-7804
-7810
-7811
-7812
-7812
-7812
-7812
-7812
-7812
-7822
-7822
-7822
-7823
-7830
-7830
-7830
-7830
-7830
-7830
-7830
-7830
-7850
-7850
-7850
-7860
-7861
-7861
-7862
-7863
-7864
-7866
-7866
-7870
-7870
-7870
-7870
-7870
-7880
-7890
-7890
-7890
-7900
-7900
-7901
-7903
-7903
-7903
-7904
-7904
-7904
-7906
-7910
-7910
-7910
-7910
-7910
-7910
-7910
-7910
-7911
-7911
-7911
-7911
-7911
-7911
-7911
-7912
-7912
-7940
-7940
-7941
-7942
-7943
-7950
-7950
-7950
-7950
-7950
-7951
-7970
-7971
-7971
-7971
-7971
-7972
-7972
-7972
-7973
-7973
-4000
-4000
-4000
-4020
-4020
-4020
-4020
-4030
-4031
-4032
-4040
-4041
-4041
-4042
-4050
-4051
-4052
-4053
-4100
-4100
-4101
-4102
-4120
-4120
-4120
-4121
-4122
-4130
-4130
-4140
-4140
-4140
-4140
-4141
-4160
-4161
-4162
-4163
-4170
-4171
-4180
-4180
-4180
-4181
-4190
-4190
-4190
-4190
-4190
-4210
-4210
-4210
-4210
-4210
-4217
-4217
-4217
-4218
-4219
-4219
-4219
-4219
-4250
-4250
-4250
-4250
-4252
-4253
-4254
-4257
-4257
-4257
-4260
-4260
-4260
-4260
-4260
-4260
-4261
-4263
-4280
-4280
-4280
-4280
-4280
-4280
-4280
-4280
-4280
-4280
-4280
-4280
-4280
-4280
-4280
-4280
-4280
-4280
-4287
-4287
-4287
-4300
-4300
-4300
-4300
-4300
-4300
-4300
-4317
-4317
-4317
-4317
-4317
-4317
-4340
-4340
-4340
-4340
-4342
-4347
-4347
-4347
-4347
-4347
-4350
-4350
-4350
-4350
-4351
-4357
-4357
-4357
-4357
-4360
-4360
-4360
-4360
-4360
-4367
-4367
-4367
-4367
-4367
-4400
-4400
-4400
-4400
-4400
-4400
-4400
-4400
-4420
-4420
-4420
-4430
-4431
-4432
-4432
-4450
-4450
-4450
-4451
-4452
-4452
-4453
-4458
-4460
-4460
-4460
-4460
-4460
-4460
-4470
-4480
-4480
-4480
-4480
-4500
-4500
-4500
-4520
-4520
-4520
-4520
-4520
-4520
-4530
-4530
-4530
-4530
-4530
-4537
-4537
-4537
-4537
-4540
-4540
-4540
-4540
-4540
-4550
-4550
-4550
-4550
-4557
-4557
-4557
-4557
-4557
-4557
-4560
-4560
-4560
-4560
-4560
-4560
-4570
-4570
-4577
-4577
-4577
-4577
-4590
-4590
-4590
-4600
-4600
-4600
-4600
-4601
-4602
-4606
-4607
-4607
-4607
-4607
-4607
-4608
-4608
-4610
-4610
-4610
-4620
-4621
-4623
-4624
-4630
-4630
-4630
-4630
-4631
-4632
-4633
-4650
-4650
-4650
-4650
-4651
-4652
-4653
-4654
-4670
-4670
-4670
-4671
-4671
-4671
-4672
-4680
-4680
-4681
-4682
-4682
-4683
-4684
-4690
-4690
-4690
-4690
-4690
-4690
-4700
-4701
-4710
-4711
-4720
-4721
-4728
-4730
-4730
-4731
-4750
-4750
-4760
-4760
-4761
-4770
-4770
-4771
-4780
-4780
-4782
-4783
-4784
-4790
-4790
-4791
-4800
-4800
-4800
-4800
-4800
-4801
-4802
-4820
-4821
-4830
-4831
-4834
-4837
-4837
-4840
-4841
-4845
-4845
-4850
-4850
-4850
-4851
-4851
-4852
-4860
-4860
-4860
-4861
-4870
-4870
-4870
-4870
-4877
-4880
-4890
-4890
-4890
-4900
-4910
-4910
-4910
-4920
-4920
-4920
-4920
-4920
-4950
-4950
-4950
-4950
-4960
-4960
-4960
-4970
-4970
-4980
-4980
-4980
-4983
-4987
-4987
-4987
-4987
-4987
-4990
-4990
-4990
-6600
-6600
-6600
-6600
-6600
-6630
-6637
-6637
-6637
-6640
-6640
-6640
-6640
-6640
-6640
-6642
-6660
-6660
-6661
-6661
-6662
-6663
-6666
-6670
-6670
-6671
-6672
-6673
-6674
-6680
-6680
-6680
-6681
-6686
-6687
-6688
-6690
-6690
-6692
-6698
-6700
-6700
-6700
-6700
-6704
-6706
-6717
-6717
-6717
-6717
-6717
-6720
-6720
-6720
-6721
-6723
-6724
-6724
-6730
-6730
-6730
-6730
-6740
-6740
-6740
-6741
-6742
-6743
-6747
-6747
-6747
-6750
-6750
-6750
-6760
-6760
-6760
-6760
-6761
-6762
-6767
-6767
-6767
-6767
-6767
-6769
-6769
-6769
-6769
-6769
-6780
-6780
-6780
-6781
-6782
-6790
-6791
-6792
-6792
-6800
-6800
-6800
-6800
-6800
-6800
-6800
-6800
-6810
-6810
-6810
-6811
-6812
-6813
-6820
-6820
-6820
-6820
-6821
-6823
-6824
-6830
-6830
-6830
-6830
-6831
-6832
-6833
-6833
-6834
-6836
-6838
-6840
-6840
-6840
-6840
-6840
-6840
-6850
-6850
-6850
-6851
-6852
-6852
-6853
-6856
-6860
-6860
-6860
-6860
-6860
-6870
-6870
-6870
-6870
-6870
-6870
-6880
-6880
-6880
-6880
-6880
-6887
-6887
-6887
-6890
-6890
-6890
-6890
-6890
-6890
-6890
-6900
-6900
-6900
-6900
-6900
-6900
-6900
-6920
-6920
-6921
-6922
-6924
-6927
-6927
-6927
-6927
-6929
-6929
-6929
-6929
-6940
-6940
-6940
-6940
-6940
-6941
-6941
-6941
-6941
-6941
-6941
-6941
-6950
-6950
-6951
-6952
-6953
-6953
-6953
-6953
-6960
-6960
-6960
-6960
-6960
-6960
-6960
-6970
-6971
-6972
-6980
-6980
-6982
-6983
-6984
-6986
-6987
-6987
-6987
-6987
-6990
-6990
-6990
-6990
-6997
-6997
-6997
-6997
-5000
-5000
-5001
-5002
-5003
-5004
-5020
-5020
-5020
-5020
-5020
-5020
-5020
-5021
-5022
-5024
-5024
-5030
-5030
-5030
-5030
-5030
-5030
-5031
-5032
-5032
-5032
-5032
-5032
-5060
-5060
-5060
-5060
-5060
-5060
-5060
-5060
-5070
-5070
-5070
-5070
-5070
-5070
-5080
-5080
-5080
-5080
-5080
-5081
-5081
-5081
-5100
-5100
-5100
-5100
-5100
-5101
-5101
-5101
-5140
-5140
-5140
-5140
-5150
-5150
-5150
-5150
-5170
-5170
-5170
-5170
-5170
-5170
-5190
-5190
-5190
-5190
-5190
-5190
-5190
-5190
-5300
-5300
-5300
-5300
-5300
-5300
-5300
-5300
-5300
-5300
-5310
-5310
-5310
-5310
-5310
-5310
-5310
-5310
-5310
-5310
-5310
-5310
-5310
-5310
-5310
-5310
-5330
-5330
-5330
-5332
-5333
-5334
-5336
-5340
-5340
-5340
-5340
-5340
-5350
-5350
-5351
-5352
-5353
-5354
-5360
-5360
-5361
-5361
-5362
-5363
-5364
-5370
-5370
-5370
-5370
-5370
-5370
-5372
-5374
-5376
-5377
-5377
-5377
-5377
-5377
-5377
-5377
-5377
-5377
-5380
-5380
-5380
-5380
-5380
-5380
-5380
-5380
-5380
-5380
-5380
-5500
-5500
-5500
-5500
-5500
-5500
-5500
-5501
-5502
-5503
-5504
-5520
-5520
-5521
-5522
-5523
-5523
-5524
-5530
-5530
-5530
-5530
-5530
-5530
-5530
-5530
-5530
-5537
-5537
-5537
-5537
-5537
-5537
-5537
-5540
-5540
-5540
-5540
-5541
-5542
-5543
-5544
-5550
-5550
-5550
-5550
-5550
-5550
-5550
-5550
-5550
-5550
-5550
-5550
-5555
-5555
-5555
-5555
-5555
-5555
-5555
-5555
-5555
-5555
-5560
-5560
-5560
-5560
-5560
-5560
-5561
-5562
-5563
-5564
-5570
-5570
-5570
-5570
-5570
-5570
-5570
-5570
-5570
-5570
-5571
-5572
-5573
-5574
-5575
-5575
-5575
-5575
-5575
-5575
-5575
-5575
-5575
-5575
-5575
-5575
-5576
-5580
-5580
-5580
-5580
-5580
-5580
-5580
-5580
-5580
-5580
-5580
-5590
-5590
-5590
-5590
-5590
-5590
-5590
-5590
-5590
-5590
-5600
-5600
-5600
-5600
-5600
-5600
-5600
-5600
-5600
-5600
-5600
-5600
-5600
-5600
-5600
-5600
-5600
-5620
-5620
-5620
-5620
-5620
-5620
-5620
-5621
-5621
-5621
-5621
-5630
-5630
-5630
-5630
-5630
-5630
-5640
-5640
-5640
-5640
-5640
-5640
-5641
-5644
-5646
-5650
-5650
-5650
-5650
-5650
-5650
-5650
-5650
-5650
-5651
-5651
-5651
-5651
-5651
-5651
-5651
-5660
-5660
-5660
-5660
-5660
-5660
-5660
-5660
-5660
-5660
-5660
-5660
-5660
-5660
-5670
-5670
-5670
-5670
-5670
-5670
-5670
-5670
-5670
-5680
-5680
-5680
-5680
-5680
-5680
-5680
-5680
-5680
-5680
+0
+Bruxelles 1000
+Laeken 1020
+Schaerbeek 1030
+Etterbeek 1040
+Ixelles 1050
+Saint-Gilles 1060
+Anderlecht 1070
+Molenbeek-Saint-Jean 1080
+Koekelberg 1081
+Berchem-Sainte-Agathe 1082
+Ganshoren 1083
+Jette 1090
+Neder-Over-Heembeek 1120
+Haren 1130
+Evere 1140
+Woluwe-Saint-Pierre 1150
+Auderghem 1160
+Watermael-Boitsfort 1170
+Uccle 1180
+Forest 1190
+Woluwe-Saint-Lambert 1200
+Saint-Josse-Ten-Noode 1210
+Antwerpen 2000
+Antwerpen 2018
+Antwerpen 2020
+Antwerpen 2030
+Antwerpen 2040
+Lillo 2040
+Zandvliet 2040
+Berendrecht 2040
+Antwerpen 2050
+Antwerpen 2060
+Burcht 2070
+Zwijndrecht 2070
+Deurne 2100
+Wijnegem 2110
+Borgerhout 2140
+Borsbeek 2150
+Wommelgem 2160
+Merksem 2170
+Ekeren 2180
+Noorderwijk 2200
+Herentals 2200
+Morkhoven 2200
+Hallaar 2220
+Heist-Op-Den-Berg 2220
+Booischot 2221
+Wiekevorst 2222
+Itegem 2222
+Schriek 2223
+Herselt 2230
+Ramsel 2230
+Houtvenne 2235
+Hulshout 2235
+Westmeerbeek 2235
+Viersel 2240
+Zandhoven 2240
+Massenhoven 2240
+Pulderbos 2242
+Pulle 2243
+Olen 2250
+Zoerle-Parwijs 2260
+Westerlo 2260
+Tongerlo 2260
+Oevel 2260
+Herenthout 2270
+Gierle 2275
+Wechelderzande 2275
+Lille 2275
+Poederlee 2275
+Grobbendonk 2280
+Bouwel 2288
+Vorselaar 2290
+Turnhout 2300
+Rijkevorsel 2310
+Hoogstraten 2320
+Meer 2321
+Minderhout 2322
+Wortel 2323
+Meerle 2328
+Merksplas 2330
+Beerse 2340
+Vlimmeren 2340
+Vosselaar 2350
+Oud-Turnhout 2360
+Arendonk 2370
+Ravels 2380
+Weelde 2381
+Poppel 2382
+Baarle-Hertog 2387
+Oostmalle 2390
+Westmalle 2390
+Malle 2390
+Mol 2400
+Eindhout 2430
+Vorst 2430
+Laakdal 2430
+Veerle 2431
+Varendonk 2431
+Geel 2440
+Meerhout 2450
+Tielen 2460
+Kasterlee 2460
+Lichtaart 2460
+Retie 2470
+Dessel 2480
+Balen 2490
+Olmen 2491
+Lier 2500
+Koningshooikt 2500
+Ranst 2520
+Emblem 2520
+Oelegem 2520
+Broechem 2520
+Boechout 2530
+Vremde 2531
+Hove 2540
+Lint 2547
+Kontich 2550
+Waarloos 2550
+Bevel 2560
+Nijlen 2560
+Kessel 2560
+Duffel 2570
+Putte 2580
+Beerzel 2580
+Gestel 2590
+Berlaar 2590
+Berchem 2600
+Wilrijk 2610
+Hemiksem 2620
+Schelle 2627
+Aartselaar 2630
+Mortsel 2640
+Edegem 2650
+Hoboken 2660
+Mechelen 2800
+Walem 2800
+Heffen 2801
+Hombeek 2811
+Leest 2811
+Muizen 2812
+Bonheiden 2820
+Rijmenam 2820
+Heindonk 2830
+Tisselt 2830
+Blaasveld 2830
+Willebroek 2830
+Terhagen 2840
+Rumst 2840
+Reet 2840
+Niel 2845
+Boom 2850
+Sint-Katelijne-Waver 2860
+Onze-Lieve-Vrouw-Waver 2861
+Breendonk 2870
+Puurs 2870
+Puurs-Sint-Amands 2870
+Ruisbroek 2870
+Liezele 2870
+Mariekerke 2880
+Weert 2880
+Bornem 2880
+Hingene 2880
+Sint-Amands 2890
+Oppuurs 2890
+Lippelo 2890
+Schoten 2900
+Essen 2910
+Kalmthout 2920
+Brasschaat 2930
+Stabroek 2940
+Hoevenen 2940
+Kapellen 2950
+Brecht 2960
+Sint-Lenaarts 2960
+Sint-Job-In-'T-Goor 2960
+'S Gravenwezel 2970
+Schilde 2970
+Zoersel 2980
+Halle 2980
+Wuustwezel 2990
+Loenhout 2990
+Halle 1500
+Buizingen 1501
+Lembeek 1502
+Herne 1540
+Herfelingen 1540
+Sint-Pieters-Kapelle 1541
+Biévène 1547
+Hoeilaart 1560
+Galmaarden 1570
+Tollembeek 1570
+Vollezele 1570
+Sint-Pieters-Leeuw 1600
+Oudenaken 1600
+Sint-Laureins-Berchem 1600
+Ruisbroek 1601
+Vlezenbeek 1602
+Drogenbos 1620
+Linkebeek 1630
+Rhode-Saint-Genèse 1640
+Beersel 1650
+Lot 1651
+Alsemberg 1652
+Dworp 1653
+Huizingen 1654
+Bogaarden 1670
+Heikruis 1670
+Pepingen 1670
+Elingen 1671
+Beert 1673
+Bellingen 1674
+Dilbeek 1700
+Sint-Ulriks-Kapelle 1700
+Sint-Martens-Bodegem 1700
+Itterbeek 1701
+Groot-Bijgaarden 1702
+Schepdaal 1703
+Mollem 1730
+Bekkerzeel 1730
+Kobbegem 1730
+Asse 1730
+Relegem 1731
+Zellik 1731
+Ternat 1740
+Wambeek 1741
+Sint-Katherina-Lombeek 1742
+Opwijk 1745
+Mazenzele 1745
+Sint-Kwintens-Lennik 1750
+Lennik 1750
+Sint-Martens-Lennik 1750
+Gaasbeek 1750
+Oetingen 1755
+Gooik 1755
+Kester 1755
+Leerbeek 1755
+Onze-Lieve-Vrouw-Lombeek 1760
+Strijtem 1760
+Roosdaal 1760
+Pamel 1760
+Borchtlombeek 1761
+Liedekerke 1770
+Wemmel 1780
+Brussegem 1785
+Merchtem 1785
+Hamme 1785
+Affligem 1790
+Teralfene 1790
+Hekelgem 1790
+Essene 1790
+Vilvoorde 1800
+Peutie 1800
+Steenokkerzeel 1820
+Perk 1820
+Melsbroek 1820
+Machelen 1830
+Diegem 1831
+Steenhuffel 1840
+Malderen 1840
+Londerzeel 1840
+Grimbergen 1850
+Humbeek 1851
+Beigem 1852
+Strombeek-Bever 1853
+Meise 1860
+Wolvertem 1861
+Kapelle-Op-Den-Bos 1880
+Nieuwenrode 1880
+Ramsdonk 1880
+Nederokkerzeel 1910
+Buken 1910
+Kampenhout 1910
+Berg 1910
+Nossegem 1930
+Zaventem 1930
+Sint-Stevens-Woluwe 1932
+Sterrebeek 1933
+Kraainem 1950
+Wezembeek-Oppem 1970
+Eppegem 1980
+Zemst 1980
+Hofstade 1981
+Weerde 1982
+Elewijt 1982
+Leuven 3000
+Heverlee 3001
+Kessel Lo 3010
+Wilsele 3012
+Wijgmaal 3018
+Winksele 3020
+Herent 3020
+Veltem-Beisem 3020
+Sint-Agatha-Rode 3040
+Neerijse 3040
+Ottenburg 3040
+Huldenberg 3040
+Loonbeek 3040
+Oud-Heverlee 3050
+Sint-Joris-Weert 3051
+Blanden 3052
+Haasrode 3053
+Vaalbeek 3054
+Korbeek-Dijle 3060
+Bertem 3060
+Leefdaal 3061
+Kortenberg 3070
+Erps-Kwerps 3071
+Everberg 3078
+Meerbeek 3078
+Tervuren 3080
+Duisburg 3080
+Vossem 3080
+Overijse 3090
+Rotselaar 3110
+Wezemaal 3111
+Werchter 3118
+Tremelo 3120
+Baal 3128
+Betekom 3130
+Begijnendijk 3130
+Keerbergen 3140
+Wespelaar 3150
+Tildonk 3150
+Haacht 3150
+Boortmeerbeek 3190
+Hever 3191
+Gelrode 3200
+Aarschot 3200
+Langdorp 3201
+Rillaar 3202
+Linden 3210
+Lubbeek 3210
+Binkom 3211
+Pellenberg 3212
+Kortrijk-Dutsel 3220
+Holsbeek 3220
+Sint-Pieters-Rode 3220
+Nieuwrode 3221
+Scherpenheuvel 3270
+Scherpenheuvel-Zichem 3270
+Averbode 3271
+Zichem 3271
+Messelbroek 3272
+Testelt 3272
+Deurne 3290
+Schaffen 3290
+Diest 3290
+Webbekom 3290
+Kaggevinne 3293
+Molenstede 3294
+Bost 3300
+Tienen 3300
+Oorbeek 3300
+Hakendover 3300
+Goetsenhoven 3300
+Vissenaken 3300
+Oplinter 3300
+Kumtich 3300
+Sint-Margriete-Houtem 3300
+Meldert 3320
+Hoegaarden 3320
+Outgaarden 3321
+Overhespen 3350
+Wommersom 3350
+Neerlinter 3350
+Melkwezer 3350
+Neerhespen 3350
+Linter 3350
+Drieslinter 3350
+Orsmaal-Gussenhoven 3350
+Lovenjoel 3360
+Bierbeek 3360
+Opvelp 3360
+Korbeek-Lo 3360
+Neervelp 3370
+Willebringen 3370
+Vertrijk 3370
+Roosbeek 3370
+Kerkom 3370
+Boutersem 3370
+Glabbeek 3380
+Bunsbeek 3380
+Kapellen 3381
+Attenrode 3384
+Tielt 3390
+Tielt-Winge 3390
+Houwaart 3390
+Sint-Joris-Winge 3390
+Meensel-Kiezegem 3391
+Wange 3400
+Laar 3400
+Ezemaal 3400
+Landen 3400
+Neerwinden 3400
+Eliksem 3400
+Rumsdorp 3400
+Overwinden 3400
+Wezeren 3401
+Walshoutem 3401
+Waasmont 3401
+Walsbets 3401
+Neerlanden 3404
+Attenhoven 3404
+Dormaal 3440
+Halle-Booienhoven 3440
+Zoutleeuw 3440
+Helen-Bos 3440
+Budingen 3440
+Geetbets 3450
+Grazen 3450
+Rummen 3454
+Bekkevoort 3460
+Assent 3460
+Molenbeek-Wersbeek 3461
+Kortenaken 3470
+Sint-Margriete-Houtem 3470
+Ransberg 3470
+Hoeleden 3471
+Kersbeek-Miskom 3472
+Waanrode 3473
+Sint-Lambrechts-Herk 3500
+Hasselt 3500
+Wimmertingen 3501
+Spalbeek 3510
+Kermt 3510
+Kuringen 3511
+Stokrooie 3511
+Stevoort 3512
+Zonhoven 3520
+Houthalen-Helchteren 3530
+Helchteren 3530
+Houthalen 3530
+Herk-De-Stad 3540
+Berbroek 3540
+Schulen 3540
+Donk 3540
+Zelem 3545
+Halen 3545
+Loksbergen 3545
+Zolder 3550
+Heusden 3550
+Heusden-Zolder 3550
+Meldert 3560
+Linkhout 3560
+Lummen 3560
+Alken 3570
+Beringen 3580
+Beverlo 3581
+Koersel 3582
+Paal 3583
+Diepenbeek 3590
+Genk 3600
+Gellik 3620
+Lanaken 3620
+Neerharen 3620
+Veldwezelt 3620
+Rekem 3621
+Maasmechelen 3630
+Eisden 3630
+Vucht 3630
+Meeswijk 3630
+Leut 3630
+Mechelen-Aan-De-Maas 3630
+Opgrimbie 3630
+Uikhoven 3631
+Boorsem 3631
+Kessenich 3640
+Molenbeersel 3640
+Ophoven 3640
+Kinrooi 3640
+Elen 3650
+Dilsen-Stokkem 3650
+Stokkem 3650
+Rotem 3650
+Dilsen 3650
+Lanklaar 3650
+Opglabbeek 3660
+As 3665
+Niel-Bij-As 3668
+Gruitrode 3670
+Neerglabbeek 3670
+Wijshagen 3670
+Oudsbergen 3670
+Ellikom 3670
+Meeuwen 3670
+Maaseik 3680
+Opoeteren 3680
+Neeroeteren 3680
+Zutendaal 3690
+Tongeren 3700
+Sluizen 3700
+Vreren 3700
+Koninksem 3700
+Overrepen 3700
+Rutten 3700
+Diets-Heur 3700
+Kolmont 3700
+Nerem 3700
+Riksingen 3700
+Haren 3700
+Henis 3700
+Widooie 3700
+Mal 3700
+Neerrepen 3700
+Lauw 3700
+'S Herenelderen 3700
+Berg 3700
+Piringen 3700
+Herstappe 3717
+Kortessem 3720
+Vliermaalroot 3721
+Wintershoven 3722
+Guigoven 3723
+Vliermaal 3724
+Werm 3730
+Romershoven 3730
+Hoeselt 3730
+Sint-Huibrechts-Hern 3730
+Schalkhoven 3732
+Kleine-Spouwen 3740
+Bilzen 3740
+Hees 3740
+Beverst 3740
+Grote-Spouwen 3740
+Waltwilder 3740
+Rijkhoven 3740
+Munsterbilzen 3740
+Eigenbilzen 3740
+Mopertingen 3740
+Rosmeer 3740
+Martenslinde 3742
+Hoelbeek 3746
+Herderen 3770
+Val-Meer 3770
+Kanne 3770
+Membruggen 3770
+Vlijtingen 3770
+Zichen-Zussen-Bolder 3770
+Millen 3770
+Vroenhoven 3770
+Riemst 3770
+Genoelselderen 3770
+Fouron-Saint-Martin 3790
+Mouland 3790
+Fourons 3790
+Remersdaal 3791
+Fouron-Saint-Pierre 3792
+Teuven 3793
+Fouron-Le-Comte 3798
+Halmaal 3800
+Ordingen 3800
+Sint-Truiden 3800
+Groot-Gelmen 3800
+Kerkom-Bij-Sint-Truiden 3800
+Zepperen 3800
+Brustem 3800
+Aalst 3800
+Engelmanshoven 3800
+Gelinden 3800
+Runkelen 3803
+Duras 3803
+Gorsem 3803
+Wilderen 3803
+Velm 3806
+Berlingen 3830
+Wellen 3830
+Herten 3831
+Ulbeek 3832
+Jesseren 3840
+Hoepertingen 3840
+Kerniel 3840
+Bommershoven 3840
+Broekom 3840
+Kolmont 3840
+Gotem 3840
+Kuttekoven 3840
+Hendrieken 3840
+Gors-Opleeuw 3840
+Haren 3840
+Borgloon 3840
+Groot-Loon 3840
+Voort 3840
+Rijkel 3840
+Nieuwerkerken 3850
+Kozen 3850
+Binderveld 3850
+Wijer 3850
+Gutshoven 3870
+Mettekoven 3870
+Rukkelingen-Loon 3870
+Batsheers 3870
+Mechelen-Bovelingen 3870
+Klein-Gelmen 3870
+Vechmaal 3870
+Veulen 3870
+Bovelingen 3870
+Heers 3870
+Heks 3870
+Opheers 3870
+Horpmaal 3870
+Gingelom 3890
+Kortijs 3890
+Niel-Bij-Sint-Truiden 3890
+Montenaken 3890
+Boekhout 3890
+Jeuk 3890
+Vorsen 3890
+Mielen-Boven-Aalst 3891
+Borlo 3891
+Buvingen 3891
+Muizen 3891
+Pelt 3900
+Overpelt 3900
+Sint-Huibrechts-Lille 3910
+Neerpelt 3910
+Lommel 3920
+Hamont-Achel 3930
+Hamont 3930
+Achel 3930
+Hechtel-Eksel 3940
+Hechtel 3940
+Eksel 3941
+Oostham 3945
+Ham 3945
+Kwaadmechelen 3945
+Bocholt 3950
+Kaulille 3950
+Reppel 3950
+Tongerlo 3960
+Gerdingen 3960
+Bree 3960
+Opitter 3960
+Beek 3960
+Leopoldsburg 3970
+Heppen 3971
+Tessenderlo 3980
+Peer 3990
+Kleine-Brogel 3990
+Grote-Brogel 3990
+Wijchmaal 3990
+Gent 9000
+Mariakerke 9030
+Drongen 9031
+Wondelgem 9032
+Sint-Amandsberg 9040
+Oostakker 9041
+Desteldonk 9042
+Mendonk 9042
+Sint-Kruis-Winkel 9042
+Gentbrugge 9050
+Ledeberg 9050
+Sint-Denijs-Westrem 9051
+Afsnee 9051
+Zwijnaarde 9052
+Zelzate 9060
+Heusden 9070
+Destelbergen 9070
+Zeveneken 9080
+Zaffelare 9080
+Lochristi 9080
+Beervelde 9080
+Melle 9090
+Gontrode 9090
+Sint-Niklaas 9100
+Nieuwkerken-Waas 9100
+Belsele 9111
+Sinaai-Waas 9112
+Vrasene 9120
+Kallo 9120
+Haasdonk 9120
+Melsele 9120
+Beveren-Waas 9120
+Kieldrecht 9130
+Kallo 9130
+Doel 9130
+Verrebroek 9130
+Steendorp 9140
+Elversele 9140
+Temse 9140
+Tielrode 9140
+Kruibeke 9150
+Rupelmonde 9150
+Bazel 9150
+Lokeren 9160
+Daknam 9160
+Eksaarde 9160
+Meerdonk 9170
+Sint-Pauwels 9170
+Sint-Gillis-Waas 9170
+De Klinge 9170
+Moerbeke-Waas 9180
+Wachtebeke 9185
+Kemzeke 9190
+Stekene 9190
+Appels 9200
+Dendermonde 9200
+Oudegem 9200
+Sint-Gillis-Dendermonde 9200
+Baasrode 9200
+Grembergen 9200
+Schoonaarde 9200
+Mespelare 9200
+Hamme 9220
+Moerzeke 9220
+Westrem 9230
+Massemen 9230
+Wetteren 9230
+Zele 9240
+Waasmunster 9250
+Opdorp 9255
+Buggenhout 9255
+Serskamp 9260
+Schellebelle 9260
+Wichelen 9260
+Kalken 9270
+Laarne 9270
+Lebbeke 9280
+Denderbelle 9280
+Wieze 9280
+Overmere 9290
+Uitbergen 9290
+Berlare 9290
+Aalst 9300
+Hofstade 9308
+Gijzegem 9308
+Meldert 9310
+Moorsel 9310
+Herdersem 9310
+Baardegem 9310
+Nieuwerkerken 9320
+Erembodegem 9320
+Oordegem 9340
+Smetlede 9340
+Wanzele 9340
+Impe 9340
+Lede 9340
+Lieferinge 9400
+Appelterre-Eichem 9400
+Ninove 9400
+Nederhasselt 9400
+Okegem 9400
+Voorde 9400
+Denderwindeke 9400
+Pollare 9401
+Meerbeke 9402
+Neigem 9403
+Aspelare 9404
+Outer 9406
+Erondegem 9420
+Bambrugge 9420
+Erpe 9420
+Vlekkem 9420
+Ottergem 9420
+Aaigem 9420
+Mere 9420
+Burst 9420
+Erpe-Mere 9420
+Denderhoutem 9450
+Haaltert 9450
+Heldergem 9450
+Kerksken 9451
+Denderleeuw 9470
+Iddergem 9472
+Welle 9473
+Zarlardinge 9500
+Ophasselt 9500
+Nederboelare 9500
+Overboelare 9500
+Geraardsbergen 9500
+Onkerzele 9500
+Viane 9500
+Moerbeke 9500
+Goeferdinge 9500
+Grimminge 9506
+Waarbeke 9506
+Idegem 9506
+Zandbergen 9506
+Schendelbeke 9506
+Nieuwenhove 9506
+Smeerebbe-Vloerzegem 9506
+Oombergen 9520
+Zonnegem 9520
+Bavegem 9520
+Sint-Lievens-Houtem 9520
+Vlierzele 9520
+Letterhoutem 9521
+Sint-Antelinks 9550
+Hillegem 9550
+Sint-Lievens-Esse 9550
+Steenhuize-Wijnhuize 9550
+Woubrechtegem 9550
+Herzele 9550
+Ressegem 9551
+Borsbeke 9552
+Lierde 9570
+Deftinge 9570
+Sint-Maria-Lierde 9570
+Hemelveerdegem 9571
+Sint-Martens-Lierde 9572
+Renaix 9600
+Leeuwergem 9620
+Godveerdegem 9620
+Sint-Goriks-Oudenhove 9620
+Velzeke-Ruddershove 9620
+Oombergen 9620
+Sint-Maria-Oudenhove 9620
+Zottegem 9620
+Strijpen 9620
+Grotenberge 9620
+Elene 9620
+Erwetegem 9620
+Dikkele 9630
+Sint-Maria-Latem 9630
+Sint-Denijs-Boekel 9630
+Paulatem 9630
+Sint-Blasius-Boekel 9630
+Roborst 9630
+Beerlegem 9630
+Hundelgem 9630
+Zwalm 9630
+Munkzwalm 9630
+Rozebeke 9630
+Meilegem 9630
+Nederzwalm-Hermelgem 9636
+Zegelsem 9660
+Michelbeke 9660
+Sint-Maria-Oudenhove 9660
+Nederbrakel 9660
+Elst 9660
+Opbrakel 9660
+Everbeek 9660
+Brakel 9660
+Parike 9661
+Sint-Kornelis-Horebeke 9667
+Horebeke 9667
+Sint-Maria-Horebeke 9667
+Etikhove 9680
+Maarke-Kerkem 9680
+Maarkedal 9680
+Nukerke 9681
+Schorisse 9688
+Kluisbergen 9690
+Ruien 9690
+Zulzeke 9690
+Kwaremont 9690
+Berchem 9690
+Nederename 9700
+Ooike 9700
+Eine 9700
+Leupegem 9700
+Welden 9700
+Oudenaarde 9700
+Ename 9700
+Volkegem 9700
+Melden 9700
+Mater 9700
+Mullem 9700
+Bevere 9700
+Heurne 9700
+Edelare 9700
+Zingem 9750
+Huise 9750
+Ouwegem 9750
+Kruishoutem 9770
+Kruisem 9770
+Nokere 9771
+Wannegem-Lede 9772
+Moregem 9790
+Ooike 9790
+Wortegem 9790
+Elsegem 9790
+Wortegem-Petegem 9790
+Petegem-Aan-De-Schelde 9790
+Deinze 9800
+Sint-Martens-Leerne 9800
+Bachte-Maria-Leerne 9800
+Astene 9800
+Vinkt 9800
+Meigem 9800
+Petegem-Aan-De-Leie 9800
+Zeveren 9800
+Gottem 9800
+Wontergem 9800
+Grammene 9800
+Eke 9810
+Nazareth 9810
+Schelderode 9820
+Lemberge 9820
+Munte 9820
+Melsen 9820
+Bottelare 9820
+Merelbeke 9820
+Sint-Martens-Latem 9830
+Deurle 9831
+Zevergem 9840
+De Pinte 9840
+Nevele 9850
+Landegem 9850
+Vosselare 9850
+Poesele 9850
+Hansbeke 9850
+Merendree 9850
+Scheldewindeke 9860
+Oosterzele 9860
+Landskouter 9860
+Moortsele 9860
+Balegem 9860
+Gijzenzele 9860
+Zulte 9870
+Machelen 9870
+Olsene 9870
+Aalter 9880
+Poeke 9880
+Lotenhulle 9880
+Bellem 9881
+Baaigem 9890
+Gavere 9890
+Asper 9890
+Dikkelvenne 9890
+Vurste 9890
+Semmerzake 9890
+Eeklo 9900
+Knesselare 9910
+Ursel 9910
+Lovendegem 9920
+Vinderhoute 9921
+Zomergem 9930
+Lievegem 9930
+Oostwinkel 9931
+Ronsele 9932
+Kluizen 9940
+Sleidinge 9940
+Evergem 9940
+Ertvelde 9940
+Waarschoot 9950
+Assenede 9960
+Boekhoute 9961
+Oosteeklo 9968
+Bassevelde 9968
+Kaprijke 9970
+Lembeke 9971
+Sint-Laureins 9980
+Sint-Margriete 9981
+Sint-Jan-In-Eremo 9982
+Watervliet 9988
+Waterland-Oudeman 9988
+Maldegem 9990
+Adegem 9991
+Middelburg 9992
+Brugge 8000
+Koolkerke 8000
+Hertsberge 8020
+Waardamme 8020
+Oostkamp 8020
+Ruddervoorde 8020
+Sint-Michiels 8200
+Sint-Andries 8200
+Veldegem 8210
+Zedelgem 8210
+Loppem 8210
+Aartrijke 8211
+Knokke 8300
+Knokke-Heist 8300
+Westkapelle 8300
+Ramskapelle 8301
+Heist-Aan-Zee 8301
+Assebroek 8310
+Sint-Kruis 8310
+Oostkerke 8340
+Sijsele 8340
+Lapscheure 8340
+Hoeke 8340
+Moerkerke 8340
+Damme 8340
+Blankenberge 8370
+Uitkerke 8370
+Houtave 8377
+Meetkerke 8377
+Nieuwmunster 8377
+Zuienkerke 8377
+Lissewege 8380
+Zeebrugge 8380
+Dudzele 8380
+Oostende 8400
+Stene 8400
+Zandvoorde 8400
+De Haan 8420
+Wenduine 8420
+Klemskerke 8420
+Vlissegem 8421
+Middelkerke 8430
+Wilskerke 8431
+Leffinge 8432
+Schore 8433
+Slijpe 8433
+Mannekensvere 8433
+Sint-Pieters-Kapelle 8433
+Lombardsijde 8434
+Westende 8434
+Bredene 8450
+Westkerke 8460
+Ettelgem 8460
+Roksem 8460
+Oudenburg 8460
+Zevekote 8470
+Gistel 8470
+Moere 8470
+Snaaskerke 8470
+Ichtegem 8480
+Bekegem 8480
+Eernegem 8480
+Stalhille 8490
+Jabbeke 8490
+Zerkegem 8490
+Varsenare 8490
+Snellegem 8490
+Kortrijk 8500
+Heule 8501
+Bissegem 8501
+Marke 8510
+Rollegem 8510
+Kooigem 8510
+Bellegem 8510
+Aalbeke 8511
+Kuurne 8520
+Harelbeke 8530
+Hulste 8531
+Bavikhove 8531
+Deerlijk 8540
+Zwevegem 8550
+Heestert 8551
+Moen 8552
+Otegem 8553
+Sint-Denijs 8554
+Wevelgem 8560
+Gullegem 8560
+Moorsele 8560
+Anzegem 8570
+Vichte 8570
+Ingooigem 8570
+Gijzelbrechtegem 8570
+Kaster 8572
+Tiegem 8573
+Avelgem 8580
+Waarmaarde 8581
+Kerkhove 8581
+Outrijve 8582
+Bossuit 8583
+Espierres-Helchin 8587
+Espierres 8587
+Helchin 8587
+Vladslo 8600
+Pervijze 8600
+Diksmuide 8600
+Oudekapelle 8600
+Lampernisse 8600
+Kaaskerke 8600
+Leke 8600
+Driekapellen 8600
+Oostkerke 8600
+Keiem 8600
+Stuivekenskerke 8600
+Woumen 8600
+Sint-Jacobs-Kapelle 8600
+Esen 8600
+Nieuwkapelle 8600
+Beerst 8600
+Handzame 8610
+Werken 8610
+Zarren 8610
+Kortemark 8610
+Nieuwpoort 8620
+Ramskapelle 8620
+Sint-Joris 8620
+Bulskamp 8630
+Houtem 8630
+Wulveringem 8630
+Steenkerke 8630
+Booitshoeke 8630
+Zoutenaaie 8630
+Veurne 8630
+Avekapelle 8630
+De Moeren 8630
+Eggewaartskapelle 8630
+Vinkem 8630
+Vleteren 8640
+Westvleteren 8640
+Oostvleteren 8640
+Woesten 8640
+Pollinkhove 8647
+Reninge 8647
+Lo 8647
+Noordschote 8647
+Lo-Reninge 8647
+Houthulst 8650
+Klerken 8650
+Merkem 8650
+Adinkerke 8660
+De Panne 8660
+Koksijde 8670
+Wulpen 8670
+Oostduinkerke 8670
+Zande 8680
+Bovekerke 8680
+Koekelare 8680
+Oeren 8690
+Alveringem 8690
+Sint-Rijkers 8690
+Hoogstade 8690
+Stavele 8691
+Leisele 8691
+Izenberge 8691
+Gijverinkhove 8691
+Beveren-Aan-De-Ijzer 8691
+Tielt 8700
+Aarsele 8700
+Schuiferskapelle 8700
+Kanegem 8700
+Sint-Baafs-Vijve 8710
+Wielsbeke 8710
+Ooigem 8710
+Dentergem 8720
+Markegem 8720
+Oeselgem 8720
+Wakken 8720
+Oedelem 8730
+Beernem 8730
+Sint-Joris 8730
+Egem 8740
+Pittem 8740
+Wingene 8750
+Zwevezele 8750
+Ruiselede 8755
+Meulebeke 8760
+Ingelmunster 8770
+Oostrozebeke 8780
+Waregem 8790
+Beveren 8791
+Desselgem 8792
+Sint-Eloois-Vijve 8793
+Roeselare 8800
+Rumbeke 8800
+Oekene 8800
+Beveren 8800
+Lichtervelde 8810
+Torhout 8820
+Hooglede 8830
+Gits 8830
+Westrozebeke 8840
+Staden 8840
+Oostnieuwkerke 8840
+Ardooie 8850
+Koolskamp 8851
+Lendelede 8860
+Kachtem 8870
+Izegem 8870
+Emelgem 8870
+Ledegem 8880
+Rollegem-Kapelle 8880
+Sint-Eloois-Winkel 8880
+Dadizele 8890
+Moorslede 8890
+Brielen 8900
+Ieper 8900
+Dikkebus 8900
+Sint-Jan 8900
+Zillebeke 8902
+Hollebeke 8902
+Voormezele 8902
+Zuidschote 8904
+Boezinge 8904
+Elverdinge 8906
+Vlamertinge 8908
+Bikschote 8920
+Langemark 8920
+Langemark-Poelkapelle 8920
+Poelkapelle 8920
+Menen 8930
+Lauwe 8930
+Rekkem 8930
+Wervik 8940
+Geluwe 8940
+Nieuwkerke 8950
+Heuvelland 8950
+Dranouter 8951
+Wulvergem 8952
+Wijtschate 8953
+Westouter 8954
+Kemmel 8956
+Messines 8957
+Loker 8958
+Poperinge 8970
+Reningelst 8970
+Krombeke 8972
+Proven 8972
+Roesbrugge-Haringe 8972
+Watou 8978
+Zandvoorde 8980
+Geluveld 8980
+Beselare 8980
+Zonnebeke 8980
+Passendale 8980
+Wavre 1300
+Limal 1300
+Bierges 1301
+La Hulpe 1310
+Piétrebais 1315
+Glimes 1315
+Opprebais 1315
+Incourt 1315
+Roux-Miroir 1315
+Nodebais 1320
+Hamme-Mille 1320
+L'Ecluse 1320
+Beauvechain 1320
+Tourinnes-La-Grosse 1320
+Dion-Valmont 1325
+Bonlez 1325
+Longueville 1325
+Chaumont-Gistoux 1325
+Corroy-Le-Grand 1325
+Rixensart 1330
+Rosières 1331
+Genval 1332
+Ottignies 1340
+Ottignies-Louvain-La-Neuve 1340
+Céroux-Mousty 1341
+Limelette 1342
+Louvain-La-Neuve 1348
+Folx-Les-Caves 1350
+Jandrain-Jandrenouille 1350
+Enines 1350
+Jauche 1350
+Orp-Jauche 1350
+Marilles 1350
+Orp-Le-Grand 1350
+Noduwez 1350
+Hélécine 1357
+Neerheylissem 1357
+Linsmeau 1357
+Opheylissem 1357
+Malèves-Sainte-Marie-Wastinnes 1360
+Thorembais-Les-Béguines 1360
+Thorembais-Saint-Trond 1360
+Orbais 1360
+Perwez 1360
+Huppaye 1367
+Gérompont 1367
+Geest-Gérompont-Petit-Rosière 1367
+Autre-Eglise 1367
+Mont-Saint-André 1367
+Bomal 1367
+Grand-Rosière-Hottomont 1367
+Ramillies 1367
+Dongelberg 1370
+Jauchelette 1370
+Saint-Jean-Geest 1370
+Zétrud-Lumay 1370
+Mélin 1370
+Lathuy 1370
+Piétrain 1370
+Jodoigne-Souveraine 1370
+Saint-Remy-Geest 1370
+Jodoigne 1370
+Lasne 1380
+Maransart 1380
+Plancenoit 1380
+Couture-Saint-Germain 1380
+Ohain 1380
+Lasne-Chapelle-Saint-Lambert 1380
+Bossut-Gottechain 1390
+Archennes 1390
+Biez 1390
+Nethen 1390
+Grez-Doiceau 1390
+Monstreux 1400
+Nivelles 1400
+Baulers 1401
+Thines 1402
+Bornival 1404
+Waterloo 1410
+Braine-L'Alleud 1420
+Ophain-Bois-Seigneur-Isaac 1421
+Lillois-Witterzée 1428
+Quenast 1430
+Rebecq 1430
+Bierghes 1430
+Rebecq-Rognon 1430
+Corbais 1435
+Hévillers 1435
+Mont-Saint-Guibert 1435
+Braine-Le-Château 1440
+Wauthier-Braine 1440
+Saint-Géry 1450
+Cortil-Noirmont 1450
+Chastre 1450
+Chastre-Villeroux-Blanmont 1450
+Gentinnes 1450
+Walhain-Saint-Paul 1457
+Walhain 1457
+Nil-Saint-Vincent-Saint-Martin 1457
+Tourinnes-Saint-Lambert 1457
+Ittre 1460
+Virginal-Samme 1460
+Haut-Ittre 1461
+Genappe 1470
+Bousval 1470
+Baisy-Thy 1470
+Loupoigne 1471
+Vieux-Genappe 1472
+Glabais 1473
+Ways 1474
+Houtain-Le-Val 1476
+Oisquercq 1480
+Saintes 1480
+Clabecq 1480
+Tubize 1480
+Court-Saint-Etienne 1490
+Marbais 1495
+Mellery 1495
+Villers-La-Ville 1495
+Sart-Dames-Avelines 1495
+Tilly 1495
+Charleroi 6000
+Marcinelle 6001
+Couillet 6010
+Dampremy 6020
+Goutroux 6030
+Marchienne-Au-Pont 6030
+Monceau-Sur-Sambre 6031
+Mont-Sur-Marchienne 6032
+Jumet 6040
+Gosselies 6041
+Lodelinsart 6042
+Ransart 6043
+Roux 6044
+Gilly 6060
+Montignies-Sur-Sambre 6061
+Montigny-Le-Tilleul 6110
+Landelies 6111
+Nalinnes 6120
+Marbaix 6120
+Jamioulx 6120
+Cour-Sur-Heure 6120
+Ham-Sur-Heure 6120
+Fontaine-L'Evêque 6140
+Forchies-La-Marche 6141
+Leernes 6142
+Anderlues 6150
+Courcelles 6180
+Gouy-Lez-Piéton 6181
+Souvret 6182
+Trazegnies 6183
+Châtelineau 6200
+Châtelet 6200
+Bouffioulx 6200
+Frasnes-Lez-Gosselies 6210
+Les Bons Villers 6210
+Rèves 6210
+Villers-Perwin 6210
+Wayaux 6210
+Mellet 6211
+Wangenies 6220
+Heppignies 6220
+Fleurus 6220
+Lambusart 6220
+Saint-Amand 6221
+Brye 6222
+Wagnelée 6223
+Wanfercée-Baulet 6224
+Buzet 6230
+Obaix 6230
+Viesville 6230
+Thiméon 6230
+Pont-À-Celles 6230
+Liberchies 6238
+Luttre 6238
+Pironchamps 6240
+Farciennes 6240
+Roselies 6250
+Presles 6250
+Aiseau 6250
+Pont-De-Loup 6250
+Aiseau-Presles 6250
+Gerpinnes 6280
+Villers-Poterie 6280
+Acoz 6280
+Loverval 6280
+Joncret 6280
+Gougnies 6280
+Vergnies 6440
+Boussu-Lez-Walcourt 6440
+Froidchapelle 6440
+Fourbechies 6440
+Erpion 6441
+Bailièvre 6460
+Robechies 6460
+Salles 6460
+Villers-La-Tour 6460
+Saint-Remy 6460
+Chimay 6460
+Virelles 6461
+Vaulx-Lez-Chimay 6462
+Lompret 6463
+Rièzes 6464
+Bourlers 6464
+L'Escaillère 6464
+Forges 6464
+Baileux 6464
+Rance 6470
+Grandrieu 6470
+Sivry 6470
+Sivry-Rance 6470
+Sautin 6470
+Montbliart 6470
+Leugnies 6500
+Barbençon 6500
+Solre-Saint-Géry 6500
+Thirimont 6500
+Beaumont 6500
+Leval-Chaudeville 6500
+Renlies 6500
+Strée 6511
+Thuin 6530
+Leers-Et-Fosteau 6530
+Biesme-Sous-Thuin 6531
+Ragnies 6532
+Biercée 6533
+Gozée 6534
+Donstiennes 6536
+Thuillies 6536
+Lobbes 6540
+Mont-Sainte-Geneviève 6540
+Sars-La-Buissière 6542
+Bienne-Lez-Happart 6543
+Bersillies-L'Abbaye 6560
+Montignies-Saint-Christophe 6560
+Erquelinnes 6560
+Hantes-Wihéries 6560
+Solre-Sur-Sambre 6560
+Grand-Reng 6560
+Fontaine-Valmont 6567
+Merbes-Le-Château 6567
+Merbes-Sainte-Marie 6567
+Labuissière 6567
+Momignies 6590
+Macon 6591
+Monceau-Imbrechies 6592
+Macquenoise 6593
+Beauwelz 6594
+Forge-Philippe 6596
+Seloignes 6596
+Mons 7000
+Ghlin 7011
+Jemappes 7012
+Flénu 7012
+Maisières 7020
+Nimy 7020
+Havré 7021
+Hyon 7022
+Harmignies 7022
+Harveng 7022
+Mesvin 7022
+Nouvelles 7022
+Ciply 7024
+Saint-Symphorien 7030
+Villers-Saint-Ghislain 7031
+Spiennes 7032
+Cuesmes 7033
+Obourg 7034
+Saint-Denis 7034
+Quévy-Le-Grand 7040
+Blaregnies 7040
+Asquillies 7040
+Quévy 7040
+Goegnies-Chaussée 7040
+Bougnies 7040
+Aulnois 7040
+Quévy-Le-Petit 7040
+Genly 7040
+Havay 7041
+Givry 7041
+Erbisoeul 7050
+Erbaut 7050
+Masnuy-Saint-Pierre 7050
+Masnuy-Saint-Jean 7050
+Jurbise 7050
+Herchies 7050
+Soignies 7060
+Horrues 7060
+Casteau 7061
+Thieusies 7061
+Naast 7062
+Chaussée-Notre-Dame-Louvignies 7063
+Neufvilles 7063
+Mignault 7070
+Gottignies 7070
+Le Roeulx 7070
+Ville-Sur-Haine 7070
+Thieu 7070
+Eugies 7080
+Sars-La-Bruyère 7080
+Frameries 7080
+Noirchain 7080
+La Bouverie 7080
+Steenkerque 7090
+Henripont 7090
+Hennuyères 7090
+Braine-Le-Comte 7090
+Petit-Roeulx-Lez-Braine 7090
+Ronquières 7090
+Haine-Saint-Paul 7100
+Trivières 7100
+Saint-Vaast 7100
+Haine-Saint-Pierre 7100
+La Louvière 7100
+Boussoit 7110
+Houdeng-Aimeries 7110
+Strépy-Bracquegnies 7110
+Maurage 7110
+Houdeng-Goegnies 7110
+Peissant 7120
+Fauroeulx 7120
+Estinnes 7120
+Haulchin 7120
+Vellereille-Les-Brayeux 7120
+Vellereille-Le-Sec 7120
+Estinnes-Au-Val 7120
+Croix-Lez-Rouveroy 7120
+Rouveroy 7120
+Estinnes-Au-Mont 7120
+Bray 7130
+Binche 7130
+Battignies 7130
+Waudrez 7131
+Buvrinnes 7133
+Péronnes-Lez-Binche 7134
+Ressaix 7134
+Leval-Trahegnies 7134
+Epinois 7134
+Morlanwelz-Mariemont 7140
+Morlanwelz 7140
+Mont-Sainte-Aldegonde 7141
+Carnières 7141
+Chapelle-Lez-Herlaimont 7160
+Godarville 7160
+Piéton 7160
+Manage 7170
+Bellecourt 7170
+Fayt-Lez-Manage 7170
+Bois-D'Haine 7170
+La Hestre 7170
+Seneffe 7180
+Petit-Roeulx-Lez-Nivelles 7181
+Familleureux 7181
+Arquennes 7181
+Feluy 7181
+Ecaussinnes-D'Enghien 7190
+Marche-Lez-Ecaussinnes 7190
+Ecaussinnes 7190
+Ecaussinnes-Lalaing 7191
+Boussu 7300
+Hornu 7301
+Bernissart 7320
+Blaton 7321
+Harchies 7321
+Ville-Pommeroeul 7322
+Pommeroeul 7322
+Saint-Ghislain 7330
+Baudour 7331
+Sirault 7332
+Neufmaison 7332
+Tertre 7333
+Villerot 7334
+Hautrage 7334
+Colfontaine 7340
+Wasmes 7340
+Pâturages 7340
+Warquignies 7340
+Thulin 7350
+Hainin 7350
+Hensies 7350
+Montroeul-Sur-Haine 7350
+Elouges 7370
+Wihéries 7370
+Dour 7370
+Blaugies 7370
+Baisieux 7380
+Quiévrain 7380
+Audregnies 7382
+Marchipont 7387
+Onnezies 7387
+Angre 7387
+Angreau 7387
+Roisin 7387
+Athis 7387
+Fayt-Le-Franc 7387
+Honnelles 7387
+Montignies-Sur-Roc 7387
+Erquennes 7387
+Autreppe 7387
+Wasmuel 7390
+Quaregnon 7390
+Saint-Maur 7500
+Ere 7500
+Tournai 7500
+Orcq 7501
+Esplechin 7502
+Froyennes 7503
+Froidmont 7504
+Willemeau 7506
+Ramegnies-Chin 7520
+Templeuve 7520
+Chercq 7521
+Blandain 7522
+Lamain 7522
+Hertain 7522
+Marquain 7522
+Gaurain-Ramecroix 7530
+Havinnes 7531
+Béclers 7532
+Thimougies 7533
+Maulde 7534
+Barry 7534
+Vaulx 7536
+Vezon 7538
+Kain 7540
+Quartes 7540
+Melles 7540
+Rumillies 7540
+Mont-Saint-Aubert 7542
+Mourcourt 7543
+Warchin 7548
+Péruwelz 7600
+Roucourt 7601
+Bury 7602
+Bon-Secours 7603
+Baugnies 7604
+Braffe 7604
+Wasmes-Audemez-Briffoeil 7604
+Brasménil 7604
+Callenelle 7604
+Wiers 7608
+Rumes 7610
+La Glanerie 7611
+Taintignies 7618
+Guignies 7620
+Jollain-Merlin 7620
+Bléharies 7620
+Brunehaut 7620
+Wez-Velvain 7620
+Hollain 7620
+Lesdain 7621
+Laplaigne 7622
+Rongy 7623
+Howardries 7624
+Maubray 7640
+Péronnes-Lez-Antoing 7640
+Antoing 7640
+Bruyelle 7641
+Calonne 7642
+Fontenoy 7643
+Luingne 7700
+Mouscron 7700
+Dottignies 7711
+Herseaux 7712
+Bailleul 7730
+Evregnies 7730
+Estaimpuis 7730
+Estaimbourg 7730
+Néchin 7730
+Saint-Léger 7730
+Leers-Nord 7730
+Warcoing 7740
+Pecq 7740
+Hérinnes-Lez-Pecq 7742
+Esquelmes 7743
+Obigies 7743
+Orroir 7750
+Russeignies 7750
+Anseroeul 7750
+Amougies 7750
+Mont-De-L'Enclus 7750
+Velaines 7760
+Pottes 7760
+Escanaffles 7760
+Popuelles 7760
+Celles 7760
+Molenbaix 7760
+Comines 7780
+Comines-Warneton 7780
+Houthem 7781
+Ploegsteert 7782
+Bizet 7783
+Bas-Warneton 7784
+Warneton 7784
+Ath 7800
+Lanquesaint 7800
+Irchonwelz 7801
+Ormeignies 7802
+Bouvignies 7803
+Ostiches 7804
+Rebaix 7804
+Maffle 7810
+Arbre 7811
+Mainvault 7812
+Villers-Saint-Amand 7812
+Houtaing 7812
+Ligne 7812
+Moulbaix 7812
+Villers-Notre-Dame 7812
+Ghislenghien 7822
+Isières 7822
+Meslin-L'Evêque 7822
+Gibecq 7823
+Hoves 7830
+Gondregnies 7830
+Silly 7830
+Graty 7830
+Hellebecq 7830
+Thoricourt 7830
+Fouleng 7830
+Bassilly 7830
+Petit-Enghien 7850
+Marcq 7850
+Enghien 7850
+Lessines 7860
+Wannebecq 7861
+Papignies 7861
+Ogy 7862
+Ghoy 7863
+Deux-Acren 7864
+Bois-De-Lessines 7866
+Ollignies 7866
+Lombise 7870
+Montignies-Lez-Lens 7870
+Bauffe 7870
+Cambron-Saint-Vincent 7870
+Lens 7870
+Flobecq 7880
+Wodecq 7890
+Lahamaide 7890
+Ellezelles 7890
+Grandmetz 7900
+Leuze-En-Hainaut 7900
+Thieulain 7901
+Chapelle-À-Wattines 7903
+Chapelle-À-Oie 7903
+Blicquy 7903
+Willaupuis 7904
+Pipaix 7904
+Tourpes 7904
+Gallaix 7906
+Ellignies-Lez-Frasnes 7910
+Arc-Wattripont 7910
+Frasnes-Lez-Anvaing 7910
+Arc-Ainières 7910
+Wattripont 7910
+Forest 7910
+Anvaing 7910
+Cordes 7910
+Herquegies 7911
+Moustier 7911
+Frasnes-Lez-Buissenal 7911
+Oeudeghien 7911
+Montroeul-Au-Bois 7911
+Buissenal 7911
+Hacquegnies 7911
+Saint-Sauveur 7912
+Dergneau 7912
+Brugelette 7940
+Cambron-Casteau 7940
+Attre 7941
+Mévergnies-Lez-Lens 7942
+Gages 7943
+Huissignies 7950
+Ladeuze 7950
+Tongre-Saint-Martin 7950
+Chièvres 7950
+Grosage 7950
+Tongre-Notre-Dame 7951
+Beloeil 7970
+Thumaide 7971
+Wadelincourt 7971
+Ramegnies 7971
+Basècles 7971
+Quevaucamps 7972
+Ellignies-Sainte-Anne 7972
+Aubechies 7972
+Grandglise 7973
+Stambruges 7973
+Rocourt 4000
+Glain 4000
+Liège 4000
+Wandre 4020
+Liège 4020
+Bressoux 4020
+Jupille-Sur-Meuse 4020
+Grivegnée 4030
+Angleur 4031
+Chênée 4032
+Herstal 4040
+Milmort 4041
+Vottem 4041
+Liers 4042
+Chaudfontaine 4050
+Vaux-Sous-Chèvremont 4051
+Beaufays 4052
+Embourg 4053
+Seraing 4100
+Boncelles 4100
+Jemeppe-Sur-Meuse 4101
+Ougrée 4102
+Rotheux-Rimière 4120
+Neupré 4120
+Ehein 4120
+Neuville-En-Condroz 4121
+Plainevaux 4122
+Tilff 4130
+Esneux 4130
+Rouvreux 4140
+Sprimont 4140
+Dolembreux 4140
+Gomzé-Andoumont 4140
+Louveigné 4141
+Anthisnes 4160
+Villers-Aux-Tours 4161
+Hody 4162
+Tavier 4163
+Comblain-Au-Pont 4170
+Poulseur 4171
+Comblain-Fairon 4180
+Comblain-La-Tour 4180
+Hamoir 4180
+Filot 4181
+My 4190
+Xhoris 4190
+Ferrières 4190
+Vieuxville 4190
+Werbomont 4190
+Burdinne 4210
+Marneffe 4210
+Lamontzée 4210
+Oteppe 4210
+Hannêche 4210
+Héron 4217
+Waret-L'Evêque 4217
+Lavoir 4217
+Couthuin 4218
+Acosse 4219
+Ambresin 4219
+Meeffe 4219
+Wasseiges 4219
+Boëlhe 4250
+Hollogne-Sur-Geer 4250
+Lens-Saint-Servais 4250
+Geer 4250
+Omal 4252
+Darion 4253
+Ligney 4254
+Corswarem 4257
+Rosoux-Crenwick 4257
+Berloz 4257
+Avennes 4260
+Braives 4260
+Ciplet 4260
+Ville-En-Hesbaye 4260
+Fallais 4260
+Fumal 4260
+Latinne 4261
+Tourinne 4263
+Merdorp 4280
+Poucet 4280
+Lens-Saint-Remy 4280
+Blehen 4280
+Bertrée 4280
+Avernas-Le-Bauduin 4280
+Trognée 4280
+Thisnes 4280
+Hannut 4280
+Abolens 4280
+Moxhe 4280
+Grand-Hallet 4280
+Wansin 4280
+Avin 4280
+Villers-Le-Peuplier 4280
+Cras-Avernas 4280
+Crehen 4280
+Petit-Hallet 4280
+Racour 4287
+Lincent 4287
+Pellaines 4287
+Bettincourt 4300
+Bleret 4300
+Oleye 4300
+Grand-Axhe 4300
+Lantremange 4300
+Waremme 4300
+Bovenistier 4300
+Borlez 4317
+Les Waleffes 4317
+Viemme 4317
+Faimes 4317
+Aineffe 4317
+Celles 4317
+Villers-L'Evêque 4340
+Awans 4340
+Othée 4340
+Fooz 4340
+Hognoul 4342
+Noville 4347
+Roloux 4347
+Freloux 4347
+Fexhe-Le-Haut-Clocher 4347
+Voroux-Goreux 4347
+Lamine 4350
+Momalle 4350
+Remicourt 4350
+Pousset 4350
+Hodeige 4351
+Limont 4357
+Donceel 4357
+Haneffe 4357
+Jeneffe 4357
+Bergilers 4360
+Grandville 4360
+Otrange 4360
+Lens-Sur-Geer 4360
+Oreye 4360
+Crisnée 4367
+Kemexhe 4367
+Fize-Le-Marsal 4367
+Odeur 4367
+Thys 4367
+Flémalle-Grande 4400
+Chokier 4400
+Flémalle 4400
+Ivoz-Ramet 4400
+Gleixhe 4400
+Mons-Lez-Liège 4400
+Flémalle-Haute 4400
+Awirs 4400
+Montegnée 4420
+Saint-Nicolas 4420
+Tilleur 4420
+Ans 4430
+Loncin 4431
+Xhendremael 4432
+Alleur 4432
+Lantin 4450
+Juprelle 4450
+Slins 4450
+Voroux-Lez-Liers 4451
+Wihogne 4452
+Paifve 4452
+Villers-Saint-Siméon 4453
+Fexhe-Slins 4458
+Grâce-Berleur 4460
+Hollogne-Aux-Pierres 4460
+Horion-Hozémont 4460
+Grâce-Hollogne 4460
+Bierset 4460
+Velroux 4460
+Saint-Georges-Sur-Meuse 4470
+Clermont-Sous-Huy 4480
+Ehein 4480
+Hermalle-Sous-Huy 4480
+Engis 4480
+Huy 4500
+Tihange 4500
+Ben-Ahin 4500
+Huccorgne 4520
+Wanze 4520
+Moha 4520
+Vinalmont 4520
+Bas-Oha 4520
+Antheit 4520
+Fize-Fontaine 4530
+Vieux-Waleffe 4530
+Vaux-Et-Borset 4530
+Villers-Le-Bouillet 4530
+Warnant-Dreye 4530
+Verlaine 4537
+Bodegnée 4537
+Seraing-Le-Château 4537
+Chapon-Seraing 4537
+Ombret 4540
+Flône 4540
+Amay 4540
+Jehay 4540
+Ampsin 4540
+Villers-Le-Temple 4550
+Yernée-Fraineux 4550
+Nandrin 4550
+Saint-Séverin 4550
+Fraiture 4557
+Soheit-Tinlot 4557
+Ramelot 4557
+Tinlot 4557
+Abée 4557
+Seny 4557
+Clavier 4560
+Les Avins 4560
+Pailhe 4560
+Terwagne 4560
+Ocquier 4560
+Bois-Et-Borsu 4560
+Marchin 4570
+Vyle-Et-Tharoul 4570
+Strée-Lez-Huy 4577
+Vierset-Barse 4577
+Outrelouxhe 4577
+Modave 4577
+Ellemelle 4590
+Warzée 4590
+Ouffet 4590
+Lanaye 4600
+Richelle 4600
+Lixhe 4600
+Visé 4600
+Argenteau 4601
+Cheratte 4602
+Saint-André 4606
+Feneur 4607
+Bombaye 4607
+Berneau 4607
+Mortroux 4607
+Dalhem 4607
+Warsage 4608
+Neufchâteau 4608
+Beyne-Heusay 4610
+Queue-Du-Bois 4610
+Bellaire 4610
+Fléron 4620
+Retinne 4621
+Magnée 4623
+Romsée 4624
+Ayeneux 4630
+Soumagne 4630
+Micheroux 4630
+Tignée 4630
+Evegnée 4631
+Cérexhe-Heuseux 4632
+Melen 4633
+Herve 4650
+Chaineux 4650
+Grand-Rechain 4650
+Julémont 4650
+Battice 4651
+Xhendelesse 4652
+Bolland 4653
+Charneux 4654
+Mortier 4670
+Blégny 4670
+Trembleur 4670
+Housse 4671
+Saive 4671
+Barchon 4671
+Saint-Remy 4672
+Hermée 4680
+Oupeye 4680
+Hermalle-Sous-Argenteau 4681
+Houtain-Saint-Siméon 4682
+Heure-Le-Romain 4682
+Vivegnis 4683
+Haccourt 4684
+Glons 4690
+Boirs 4690
+Roclenge-Sur-Geer 4690
+Bassenge 4690
+Wonck 4690
+Eben-Emael 4690
+Eupen 4700
+Kettenis 4701
+Lontzen 4710
+Walhorn 4711
+La Calamine 4720
+Neu-Moresnet 4721
+Hergenrath 4728
+Hauset 4730
+Raeren 4730
+Eynatten 4731
+Elsenborn 4750
+Butgenbach 4750
+Bullange 4760
+Manderfeld 4760
+Rocherath 4761
+Meyerode 4770
+Amblève 4770
+Heppenbach 4771
+Saint-Vith 4780
+Recht 4780
+Schoenberg 4782
+Lommersweiler 4783
+Crombach 4784
+Reuland 4790
+Burg-Reuland 4790
+Thommen 4791
+Verviers 4800
+Petit-Rechain 4800
+Lambermont 4800
+Ensival 4800
+Polleur 4800
+Stembert 4801
+Heusy 4802
+Dison 4820
+Andrimont 4821
+Limbourg 4830
+Bilstain 4831
+Goé 4834
+Baelen 4837
+Membach 4837
+Welkenraedt 4840
+Henri-Chapelle 4841
+Sart-Lez-Spa 4845
+Jalhay 4845
+Montzen 4850
+Plombières 4850
+Moresnet 4850
+Sippenaeken 4851
+Gemmenich 4851
+Hombourg 4852
+Cornesse 4860
+Pepinster 4860
+Wegnez 4860
+Soiron 4861
+Fraipont 4870
+Forêt 4870
+Trooz 4870
+Nessonvaux 4870
+Olne 4877
+Aubel 4880
+Thimister-Clermont 4890
+Clermont 4890
+Thimister 4890
+Spa 4900
+Polleur 4910
+Theux 4910
+La Reid 4910
+Harzé 4920
+Sougné-Remouchamps 4920
+Aywaille 4920
+Louveigné 4920
+Ernonheid 4920
+Waimes 4950
+Sourbrodt 4950
+Faymonville 4950
+Robertville 4950
+Bellevaux-Ligneuville 4960
+Malmedy 4960
+Bevercé 4960
+Stavelot 4970
+Francorchamps 4970
+Trois-Ponts 4980
+Wanne 4980
+Fosse 4980
+Basse-Bodeux 4983
+Stoumont 4987
+Lorcé 4987
+Chevron 4987
+La Gleize 4987
+Rahier 4987
+Bra 4990
+Arbrefontaine 4990
+Lierneux 4990
+Bastogne 6600
+Longvilly 6600
+Villers-La-Bonne-Eau 6600
+Noville 6600
+Wardin 6600
+Martelange 6630
+Fauvillers 6637
+Hollange 6637
+Tintange 6637
+Sibret 6640
+Nives 6640
+Vaux-Sur-Sûre 6640
+Morhet 6640
+Hompré 6640
+Vaux-Lez-Rosières 6640
+Juseret 6642
+Houffalize 6660
+Nadrin 6660
+Tailles 6661
+Mont 6661
+Tavigny 6662
+Mabompré 6663
+Wibrin 6666
+Gouvy 6670
+Limerlé 6670
+Bovigny 6671
+Beho 6672
+Cherain 6673
+Montleban 6674
+Sainte-Ode 6680
+Amberloup 6680
+Tillet 6680
+Lavacherie 6681
+Flamierge 6686
+Bertogne 6687
+Longchamps 6688
+Vielsalm 6690
+Bihain 6690
+Petit-Thier 6692
+Grand-Halleux 6698
+Toernich 6700
+Arlon 6700
+Heinsch 6700
+Bonnert 6700
+Guirsch 6704
+Autelbas 6706
+Attert 6717
+Tontelange 6717
+Thiaumont 6717
+Nothomb 6717
+Nobressart 6717
+Habay 6720
+Habay-La-Neuve 6720
+Hachy 6720
+Anlier 6721
+Habay-La-Vieille 6723
+Houdemont 6724
+Rulles 6724
+Tintigny 6730
+Bellefontaine 6730
+Rossignol 6730
+Saint-Vincent 6730
+Etalle 6740
+Villers-Sur-Semois 6740
+Sainte-Marie-Sur-Semois 6740
+Vance 6741
+Chantemelle 6742
+Buzenol 6743
+Meix-Le-Tige 6747
+Saint-Léger 6747
+Châtillon 6747
+Mussy-La-Ville 6750
+Signeulx 6750
+Musson 6750
+Ruette 6760
+Virton 6760
+Ethe 6760
+Bleid 6760
+Latour 6761
+Saint-Mard 6762
+Harnoncourt 6767
+Rouvroy 6767
+Dampicourt 6767
+Torgny 6767
+Lamorteau 6767
+Villers-La-Loue 6769
+Sommethonne 6769
+Meix-Devant-Virton 6769
+Robelmont 6769
+Gérouville 6769
+Hondelange 6780
+Wolkrange 6780
+Messancy 6780
+Sélange 6781
+Habergy 6782
+Aubange 6790
+Athus 6791
+Rachecourt 6792
+Halanzy 6792
+Moircy 6800
+Sainte-Marie-Chevigny 6800
+Bras 6800
+Saint-Pierre 6800
+Recogne 6800
+Freux 6800
+Remagne 6800
+Libramont-Chevigny 6800
+Izel 6810
+Chiny 6810
+Jamoigne 6810
+Les Bulles 6811
+Suxy 6812
+Termes 6813
+Muno 6820
+Fontenoille 6820
+Florenville 6820
+Sainte-Cécile 6820
+Lacuisine 6821
+Villers-Devant-Orval 6823
+Chassepierre 6824
+Poupehan 6830
+Bouillon 6830
+Les Hayons 6830
+Rochehaut 6830
+Noirfontaine 6831
+Sensenruth 6832
+Vivy 6833
+Ucimont 6833
+Bellevaux 6834
+Dohan 6836
+Corbion 6838
+Grandvoir 6840
+Tournay 6840
+Hamipré 6840
+Grapfontaine 6840
+Neufchâteau 6840
+Longlier 6840
+Paliseul 6850
+Carlsbourg 6850
+Offagne 6850
+Nollevaux 6851
+Maissin 6852
+Opont 6852
+Framont 6853
+Fays-Les-Veneurs 6856
+Ebly 6860
+Léglise 6860
+Witry 6860
+Mellier 6860
+Assenois 6860
+Arville 6870
+Vesqueville 6870
+Hatrival 6870
+Saint-Hubert 6870
+Awenne 6870
+Mirwart 6870
+Jehonville 6880
+Cugnon 6880
+Bertrix 6880
+Auby-Sur-Semois 6880
+Orgeo 6880
+Saint-Médard 6887
+Herbeumont 6887
+Straimont 6887
+Smuid 6890
+Villance 6890
+Anloy 6890
+Libin 6890
+Transinne 6890
+Redu 6890
+Ochamps 6890
+On 6900
+Humain 6900
+Hargimont 6900
+Marche-En-Famenne 6900
+Roy 6900
+Waha 6900
+Aye 6900
+Wellin 6920
+Sohier 6920
+Chanly 6921
+Halma 6922
+Lomprez 6924
+Grupont 6927
+Bure 6927
+Tellin 6927
+Resteigne 6927
+Gembes 6929
+Porcheresse 6929
+Haut-Fays 6929
+Daverdisse 6929
+Durbuy 6940
+Septon 6940
+Wéris 6940
+Barvaux-Sur-Ourthe 6940
+Grandhan 6940
+Heyd 6941
+Izier 6941
+Bomal-Sur-Ourthe 6941
+Villers-Sainte-Gertrude 6941
+Borlon 6941
+Tohogne 6941
+Bende 6941
+Nassogne 6950
+Harsin 6950
+Bande 6951
+Grune 6952
+Masbourg 6953
+Lesterny 6953
+Ambly 6953
+Forrières 6953
+Harre 6960
+Dochamps 6960
+Odeigne 6960
+Vaux-Chavanne 6960
+Manhay 6960
+Grandménil 6960
+Malempré 6960
+Tenneville 6970
+Champlon 6971
+Erneuville 6972
+Beausaint 6980
+La Roche-En-Ardenne 6980
+Samrée 6982
+Ortho 6983
+Hives 6984
+Halleux 6986
+Hodister 6987
+Marcourt 6987
+Beffe 6987
+Rendeux 6987
+Marenne 6990
+Hampteau 6990
+Fronville 6990
+Hotton 6990
+Soy 6997
+Mormont 6997
+Erezée 6997
+Amonines 6997
+Namur 5000
+Beez 5000
+Belgrade 5001
+Saint-Servais 5002
+Saint-Marc 5003
+Bouge 5004
+Suarlée 5020
+Temploux 5020
+Malonne 5020
+Champion 5020
+Vedrin 5020
+Flawinne 5020
+Daussoulx 5020
+Boninne 5021
+Cognelée 5022
+Gelbressée 5024
+Marche-Les-Dames 5024
+Grand-Manil 5030
+Ernage 5030
+Beuzet 5030
+Gembloux 5030
+Lonzée 5030
+Sauvenière 5030
+Grand-Leez 5031
+Corroy-Le-Château 5032
+Bothey 5032
+Isnes 5032
+Bossière 5032
+Mazy 5032
+Arsimont 5060
+Moignelée 5060
+Keumiée 5060
+Auvelais 5060
+Tamines 5060
+Sambreville 5060
+Falisolle 5060
+Velaine-Sur-Sambre 5060
+Sart-Eustache 5070
+Fosses-La-Ville 5070
+Le Roux 5070
+Sart-Saint-Laurent 5070
+Vitrival 5070
+Aisemont 5070
+Villers-Lez-Heest 5080
+Warisoulx 5080
+La Bruyère 5080
+Emines 5080
+Rhisnes 5080
+Bovesse 5081
+Meux 5081
+Saint-Denis-Bovesse 5081
+Wépion 5100
+Naninne 5100
+Jambes 5100
+Dave 5100
+Wierde 5100
+Erpent 5101
+Lives-Sur-Meuse 5101
+Loyers 5101
+Sombreffe 5140
+Ligny 5140
+Boignée 5140
+Tongrinne 5140
+Franière 5150
+Floreffe 5150
+Floriffoux 5150
+Soye 5150
+Lustin 5170
+Profondeville 5170
+Bois-De-Villers 5170
+Rivière 5170
+Lesve 5170
+Arbre 5170
+Balâtre 5190
+Onoz 5190
+Moustier-Sur-Sambre 5190
+Jemeppe-Sur-Sambre 5190
+Saint-Martin 5190
+Mornimont 5190
+Ham-Sur-Sambre 5190
+Spy 5190
+Landenne 5300
+Coutisse 5300
+Vezin 5300
+Maizeret 5300
+Thon 5300
+Sclayn 5300
+Seilles 5300
+Namêche 5300
+Andenne 5300
+Bonneville 5300
+Saint-Germain 5310
+Leuze 5310
+Noville-Sur-Mehaigne 5310
+Taviers 5310
+Mehaigne 5310
+Upigny 5310
+Eghezée 5310
+Boneffe 5310
+Dhuy 5310
+Waret-La-Chaussée 5310
+Liernu 5310
+Hanret 5310
+Branchon 5310
+Bolinne 5310
+Longchamps 5310
+Aische-En-Refail 5310
+Assesse 5330
+Sart-Bernard 5330
+Maillen 5330
+Crupet 5332
+Sorinne-La-Longue 5333
+Florée 5334
+Courrière 5336
+Mozet 5340
+Gesves 5340
+Faulx-Les-Tombes 5340
+Sorée 5340
+Haltinne 5340
+Evelette 5350
+Ohey 5350
+Haillot 5351
+Perwez-Haillot 5352
+Goesnes 5353
+Jallet 5354
+Hamois 5360
+Natoye 5360
+Scy 5361
+Mohiville 5361
+Achet 5362
+Emptinne 5363
+Schaltin 5364
+Havelange 5370
+Porcheresse 5370
+Verlée 5370
+Barvaux-Condroz 5370
+Flostoy 5370
+Jeneffe 5370
+Méan 5372
+Maffe 5374
+Miécret 5376
+Noiseux 5377
+Hogne 5377
+Baillonville 5377
+Somme-Leuze 5377
+Heure 5377
+Nettinne 5377
+Waillet 5377
+Sinsin 5377
+Bonsin 5377
+Pontillas 5380
+Marchovelette 5380
+Bierwart 5380
+Franc-Waret 5380
+Hingeon 5380
+Cortil-Wodon 5380
+Forville 5380
+Noville-Les-Bois 5380
+Hemptinne 5380
+Tillier 5380
+Fernelmont 5380
+Bouvignes-Sur-Meuse 5500
+Falmignoul 5500
+Furfooz 5500
+Anseremme 5500
+Dréhance 5500
+Falmagne 5500
+Dinant 5500
+Lisogne 5501
+Thynes 5502
+Sorinnes 5503
+Foy-Notre-Dame 5504
+Onhaye 5520
+Anthée 5520
+Serville 5521
+Falaën 5522
+Sommière 5523
+Weillen 5523
+Gérin 5524
+Godinne 5530
+Purnode 5530
+Durnal 5530
+Dorinne 5530
+Evrehailles 5530
+Spontin 5530
+Yvoir 5530
+Mont 5530
+Houx 5530
+Sosoye 5537
+Bioul 5537
+Haut-Le-Wastia 5537
+Denée 5537
+Warnant 5537
+Annevoie-Rouillon 5537
+Anhée 5537
+Hermeton-Sur-Meuse 5540
+Hastière 5540
+Hastière-Lavaux 5540
+Waulsort 5540
+Hastière-Par-Delà 5541
+Blaimont 5542
+Heer 5543
+Agimont 5544
+Bohan 5550
+Vresse-Sur-Semois 5550
+Chairière 5550
+Pussemange 5550
+Laforêt 5550
+Bagimont 5550
+Membre 5550
+Sugny 5550
+Alle 5550
+Mouzaive 5550
+Nafraiture 5550
+Orchimont 5550
+Petit-Fays 5555
+Monceau-En-Ardenne 5555
+Cornimont 5555
+Bièvre 5555
+Bellefontaine 5555
+Graide 5555
+Oizy 5555
+Naomé 5555
+Gros-Fays 5555
+Baillamont 5555
+Hulsonniaux 5560
+Finnevaux 5560
+Mesnil-Saint-Blaise 5560
+Mesnil-Eglise 5560
+Houyet 5560
+Ciergnon 5560
+Celles 5561
+Custinne 5562
+Hour 5563
+Wanlin 5564
+Feschaux 5570
+Vonêche 5570
+Dion 5570
+Wancennes 5570
+Javingue 5570
+Winenne 5570
+Felenne 5570
+Honnay 5570
+Beauraing 5570
+Baronville 5570
+Wiesme 5571
+Focant 5572
+Martouzin-Neuville 5573
+Pondrôme 5574
+Gedinne 5575
+Houdremont 5575
+Willerzie 5575
+Rienne 5575
+Bourseigne-Neuve 5575
+Bourseigne-Vieille 5575
+Sart-Custinne 5575
+Louette-Saint-Pierre 5575
+Vencimont 5575
+Malvoisin 5575
+Patignies 5575
+Louette-Saint-Denis 5575
+Froidfontaine 5576
+Rochefort 5580
+Mont-Gauthier 5580
+Han-Sur-Lesse 5580
+Eprave 5580
+Lessive 5580
+Wavreille 5580
+Villers-Sur-Lesse 5580
+Lavaux-Sainte-Anne 5580
+Ave-Et-Auffe 5580
+Jemelle 5580
+Buissonville 5580
+Braibant 5590
+Haversin 5590
+Conneux 5590
+Pessoux 5590
+Serinchamps 5590
+Achêne 5590
+Sovet 5590
+Leignon 5590
+Ciney 5590
+Chevetogne 5590
+Vodecée 5600
+Franchimont 5600
+Fagnolle 5600
+Omezée 5600
+Villers-En-Fagne 5600
+Sart-En-Fagne 5600
+Jamiolle 5600
+Jamagne 5600
+Samart 5600
+Surice 5600
+Sautour 5600
+Roly 5600
+Merlemont 5600
+Philippeville 5600
+Villers-Le-Gambon 5600
+Romedenne 5600
+Neuville 5600
+Florennes 5620
+Saint-Aubin 5620
+Rosée 5620
+Morville 5620
+Corenne 5620
+Hemptinne-Lez-Florennes 5620
+Flavion 5620
+Morialmé 5621
+Hanzinne 5621
+Thy-Le-Baudouin 5621
+Hanzinelle 5621
+Daussois 5630
+Soumoy 5630
+Silenrieux 5630
+Senzeilles 5630
+Villers-Deux-Eglises 5630
+Cerfontaine 5630
+Graux 5640
+Biesme 5640
+Saint-Gérard 5640
+Mettet 5640
+Biesmerée 5640
+Oret 5640
+Furnaux 5641
+Ermeton-Sur-Biert 5644
+Stave 5646
+Fraire 5650
+Castillon 5650
+Fontenelle 5650
+Yves-Gomezée 5650
+Pry 5650
+Clermont 5650
+Chastrès 5650
+Vogenée 5650
+Walcourt 5650
+Thy-Le-Château 5651
+Somzée 5651
+Berzée 5651
+Rognée 5651
+Tarcienne 5651
+Gourdinne 5651
+Laneffe 5651
+Couvin 5660
+Frasnes 5660
+Aublain 5660
+Pétigny 5660
+Brûly 5660
+Petite-Chapelle 5660
+Mariembourg 5660
+Gonrieux 5660
+Pesche 5660
+Dailly 5660
+Presgaux 5660
+Brûly-De-Pesche 5660
+Cul-Des-Sarts 5660
+Boussu-En-Fagne 5660
+Le Mesnil 5670
+Treignes 5670
+Viroinval 5670
+Vierves-Sur-Viroin 5670
+Nismes 5670
+Oignies-En-Thiérache 5670
+Olloy-Sur-Viroin 5670
+Mazée 5670
+Dourbes 5670
+Gochenée 5680
+Doische 5680
+Soulme 5680
+Matagne-La-Petite 5680
+Vaucelles 5680
+Niverlée 5680
+Romerée 5680
+Vodelée 5680
+Matagne-La-Grande 5680
+Gimnée 5680

@@ -69,9 +69,9 @@ def read_from_file(self):
 def write_to_file(frame, file):
     filepath = Path('./' + file)
     postCode = frame.postal_code 
-    Steden = frame.place_name
+    Steden = frame.place_name  + " " + frame.postal_code
     Steden.to_csv(filepath, index=False, mode='w')
-    postCode.to_csv(filepath, index=False, mode='a')
+    #postCode.to_csv(filepath, index=False, mode='a')
     
 
 x = pgeocode.Nominatim("BE")
