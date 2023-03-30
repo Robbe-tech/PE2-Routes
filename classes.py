@@ -70,12 +70,12 @@ def write_to_file(frame, file):
     filepath = Path('./' + file)
     postCode = frame.postal_code 
     Steden = frame.place_name
-    Steden.to_csv(filepath, index_label=None, mode='a')
-    postCode.to_csv(filepath, index_label=None, mode='a')
+    Steden.to_csv(filepath, index=False, mode='w')
+    postCode.to_csv(filepath, index=False, mode='a')
     
 
 x = pgeocode.Nominatim("BE")
 df = pd.DataFrame(x._data)
 filename = 'out.csv'
 write_to_file(df, filename)
-#read_from_file(filename)
+read_from_file(filename)
