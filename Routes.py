@@ -1,4 +1,5 @@
 from numpy import Inf
+import numpy as np
 import pgeocode
 import pandas as pd
 from IPython.display import display
@@ -259,5 +260,5 @@ def multi_node(root, distances, destinations):
 fulldijkstra = {}
 for k in graph.keys():
     fulldijkstra[k] = naive_dijkstras(graph, k)
-
+print(fulldijkstra)
 print(multi_node(3, fulldijkstra, [2, 4, 1]))
