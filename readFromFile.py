@@ -30,6 +30,6 @@ for n in range(len(data)):
     
 
 frame = pd.DataFrame(df)
-frame.to_csv("connections.csv")
+frame.to_csv("connections.csv", mode="w")
 print(frame)
 text_file.close()
