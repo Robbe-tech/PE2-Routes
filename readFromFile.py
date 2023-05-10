@@ -1,4 +1,4 @@
-import panda as pd
+import pandas as pd
 
 
 text_file = open("N-wegen.txt", "r")

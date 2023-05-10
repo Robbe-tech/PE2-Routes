@@ -1,7 +1,8 @@
-from numpy import Inf
 import numpy as np
+import math
 import pgeocode
 import pandas as pd
+import time
 from IPython.display import display
 
 class Node:
@@ -76,17 +77,24 @@ graph = {
 def naive_dijkstras(graph, root):
     # initialize distance dictionary as all infinities, with as off yet a no lists of shortest routes
     dist = {}
+    route = {}
     for keys in graph.keys():
-        dist[keys] = [Inf, []]
+        dist[keys] = math.inf
+        route[keys] = np.array([[]])
 
-    # set the distance for the root to be 0 with no shortest routes
-    dist[root] = [0, [[]]]
+    # set the distance for the root to be 0
+    dist[root] = 0
+
+    dist = pd.Series(dist)
+    route = pd.Series(route)
 
     # initialize seperate dictionary of temporary distances wich will be removed after they are visited
     tempdist = {}
     for keys in graph.keys():
-        tempdist[keys] = Inf
+        tempdist[keys] = math.inf
     
+    tempdist = pd.Series(tempdist)
+
     #set starting node as current node
     curnode = root
 
@@ -94,131 +102,113 @@ def naive_dijkstras(graph, root):
     tempdist.pop(root)
 
     #while not all nodes were visited
-    while(len(tempdist) > 0):
+    while(tempdist.size > 0):
 
         #calculate every for every node connected to current node if curnode + their len is shorter then the current nodes minimum length
         for k,v in graph[curnode].items():
 
             #if the new len is shorter set the new len and add the new shortest route
-            if dist[k][0] > (dist[curnode][0] + v):
-                dist[k][0] = dist[curnode][0] + v
-                dist[k][1] = []
+            if dist[k] > (dist[curnode] + v):
+                dist[k] = dist[curnode] + v
+                route[k] = []
 
-                for lists in dist[curnode][1]:
+                for lists in route[curnode]:
                     templist = list(lists)
                     templist.append(k)
-                    dist[k][1].append(templist)
+                    route[k].append(templist)
                 
                 #update the tempdist with up to date info
-                tempdist[k] = dist[k][0]
+                tempdist[k] = dist[k]
             
             #if they are equal append the new route of travel
-            elif dist[k][0] == (dist[curnode][0] + v):
-                for lists in dist[curnode][1]:
+            elif dist[k] == (dist[curnode] + v):
+                for lists in route[curnode]:
                     templist = list(lists)
                     templist.append(k)
-                    dist[k][1].append(templist)
+                    route[k].append(templist)
                 
                 #update the tempdist with up to date info
-                tempdist[k] = dist[k][0]
+                tempdist[k] = dist[k]
         
         #get the shortest distance key and set it as the current node
-        curmin = Inf
-        for k,v in tempdist.items():
-            if curmin > v:
-                curmin = v
-                curnode = k
-
+        curnode = tempdist.idxmin()
+        #change the lists to np arrays
+        length = max(map(len, route[curnode]))
+        route[curnode]=np.array([xi+[None]*(length-len(xi)) for xi in route[curnode]])
         #remove curnode from not visited
         tempdist.pop(curnode)
     
-    return dist
+    dist[root] = None
+    return dist, route
 
 #function used to remove any nodes with another remaining destination in one of its shortest paths
-def irrelevant_node(relevantdists, routes):
+def irrelevant_node(relevantroutes, routes):
     #currentroute = [node, dist, remainingdests, availabledests] of latest node
     currentroute = routes[-1]
-    #node = {to : [len, [[route1], [route2]]} for current node
-    node = relevantdists[currentroute[0]]
-    for dest in currentroute[2]:
+    #node = {to : [[route1], [route2]]} for current node
+    node = relevantroutes[currentroute[0]]
+    #change to set, because quicker for large lists
+    s = set(currentroute[2])
+    for dest in s:
+        broken = False
         #every shortest path from the current node to an available node
-        paths = node[dest][1]
-        i = 0
-        #if another node is found in the shortest path, immediately stop the loops
-        noccured = True
-        while (i < len(paths) and noccured):
-            j = 0
-            while (j < len(paths[i]) and noccured):
-                #if on the shortest path another required destination is found remove it from availabledests
-                if (paths[i][j] in currentroute[2] and paths[i][j] != dest):
-                    noccured = False
+        for i in node[dest]:
+            for x in i:
+                if (x in s and x != dest):
                     currentroute[3].remove(dest)
-                j += 1
-            i += 1
+                    broken = True
+                    break
+            if (broken):
+                break
     
     routes[-1] = currentroute
     return (routes)
 
 #root = int, postal code
-#distances = dict of naive dijckstras {from : {to : [len, [[shortest route1]]]}}
+#distances = dataframe of shortest dists distances[from][to] = dist
+#droutes = dataframe of shortests routes
 #destinations = list of postal codes
-def multi_node(root, distances, destinations):
+def multi_node(root, distances, droutes, destinations):
     #create list with root included
     tempdests = list(destinations)
     tempdests.append(root)
+    tempdests.sort()
     #get only relevant dists + how to get there
-    #same format as distances
-    relevantdists = {}
-    for k,v in distances.items():
-        if k in tempdests:
-            value = {}
-            #get all destinations that arent the current node
-            for z in v.keys():
-                if (z in tempdests and z != k):
-                    value[z] = v[z]
-            relevantdists[k] = value
+    #same format as distances and droutes
+    df = distances.filter(tempdests)
+    relevantdists = df.filter(tempdests, axis=0)
+    df2 = droutes.filter(tempdests)
+    relevantroutes = df2.filter(tempdests, axis=0)
     
     #shortest distance and path
-    totdistmin = [0, []]
+    totdistmin = 0
+    notablepath = []
     #non visted nodes
-    nvisited = dict(relevantdists)
+    nvisited = list(destinations)
+
     #for baseline calcs
-    
     #shortestnode = next closest node
     shortestnode = root
     currentnode = root
 
-    #1 is the lowest because the information needed cannot be popped before using it
-    while(len(nvisited) > 1):
-        #shortest = next closest distance
-        shortest = [Inf, []]
-        #find next closest node
-        for k,v in nvisited[currentnode].items():
-            #v is formatted [min, [[route], [route2]]]
-            #nvisited.keys() = all remaining dests + current node
-            #current node is never in nvisisted[currentnode], because of z != k in creation of relevantdists
-            if (k in nvisited.keys() and v[0] < shortest[0]):
-                shortest = v
-                shortestnode = k
-        
-        #pop current node
-        nvisited.pop(currentnode)
-        totdistmin[0] += shortest[0]
-        #just want 1 shortest route to avoid confusion
-        totdistmin[1].extend(shortest[1][0])
-        currentnode = shortestnode
+    while(len(nvisited) > 0):
+        relevantsearch = relevantdists[currentnode].filter(nvisited)
+        currentnode = relevantsearch.idxmin()
+        totdistmin += relevantsearch.min()
+        notablepath.append(currentnode)
+        nvisited.remove(currentnode)
     
     #go back to root
-    totdistmin[0] += relevantdists[currentnode][root][0]
-    totdistmin[1].extend(relevantdists[currentnode][root][1][0])
+    totdistmin += relevantdists[currentnode][root]
+    notablepath.append(root)
 
     #remainingdests = every remaining dest
     remainingdests = list(destinations)
     #availabledests is the list of destinations relevant to the then current node
     availabledests = list(remainingdests)
-    routes = [[root, 0, remainingdests, availabledests, []]]
+    routes = [[root, 0, remainingdests, availabledests]]
 
-    routes = irrelevant_node(relevantdists, routes)
+    routes = irrelevant_node(relevantroutes, routes)
 
     #while there still is an available destination
     while(len(routes) != 0):
@@ -229,36 +219,64 @@ def multi_node(root, distances, destinations):
             routes.pop(-1)
         else:
             #check if going into the first available node + returning to root is shorter then the current min dist
-            #relevantdists[from][to][0] = distance between nodes
+            #relevantdists[from][to] = distance between nodes
             lfrom = latestroute[0]
             lto = latestroute[3][0]
             #remove the first element from available because it will be longer then the shortest route or it will be appended to routes making it the latestroute
             latestroute[3].pop(0)
-            if((latestroute[1] + relevantdists[lfrom][lto][0] + relevantdists[lto][root][0]) < totdistmin[0]):
+            if((latestroute[1] + relevantdists[lfrom][lto] + relevantdists[lto][root]) < totdistmin):
                 remainingdests = list(latestroute[2])
                 remainingdests.remove(lto)
                 #check if every destination has been reached
                 if (len(remainingdests) == 0):
                     #if it every destination has been reached it is the new shortest route as shown by the if before
-                    totdistmin[0] = latestroute[1] + relevantdists[lfrom][lto][0] + relevantdists[lto][root][0]
-                    totdistmin[1] = list(latestroute[4])
-                    #relevantdists[from][to][1][x] is the list of nodes that are passed when going to the from one location to another 0 is taken since it is irrelevant which is taken and every route has at least one 
-                    totdistmin[1].extend(relevantdists[lfrom][lto][1][0])
-                    totdistmin[1].extend(relevantdists[lto][root][1][0])
+                    totdistmin = latestroute[1] + relevantdists[lfrom][lto] + relevantdists[lto][root]
+                    #find notable path
+                    notablepath = []
+                    for i in routes:
+                        notablepath.append(i[0])
+                    notablepath.append(lto)
+                    notablepath.append(root)
                 else:
                     #if not the last destination add it as the new latest route
                     availabledests = list(remainingdests)
-                    currentdist = latestroute[1] + relevantdists[lfrom][lto][0]
-                    currentstops = list(latestroute[4])
-                    currentstops.extend(relevantdists[lfrom][lto][1][0])
-                    currentroute = [lto, currentdist, remainingdests, availabledests, currentstops]
+                    currentdist = latestroute[1] + relevantdists[lfrom][lto]
+                    currentroute = [lto, currentdist, remainingdests, availabledests]
                     routes.append(currentroute)
-                    routes = irrelevant_node(relevantdists, routes)
+                    routes = irrelevant_node(relevantroutes, routes)
     
-    return (totdistmin)
-            
-fulldijkstra = {}
-for k in graph.keys():
-    fulldijkstra[k] = naive_dijkstras(graph, k)
-print(fulldijkstra)
-print(multi_node(3, fulldijkstra, [2, 4, 1]))
+    absolutepath = [root]
+    for i in notablepath:
+        #finds the path + removes none values
+        currentpath = droutes[absolutepath[-1]][i][0][droutes[absolutepath[-1]][i][0] != None]
+        absolutepath.extend(currentpath)
+    
+    return (totdistmin, notablepath, absolutepath)
+
+def fill(graph):
+    for k in graph.keys():
+        dist, route = naive_dijkstras(graph, k)
+        fulldists[k] = dist
+        fullroutes[k] = route
+    
+    return(fulldists, fullroutes)
+
+start_time = time.time()
+
+fulldists = pd.DataFrame(columns = graph.keys(), index = graph.keys())
+fullroutes = pd.DataFrame(columns = graph.keys(), index = graph.keys())
+
+fulldists, fullroutes = fill(graph)
+
+node_time = time.time()
+
+totdistmin, notablepath, absolutepath = multi_node(0, fulldists, fullroutes, [3, 2, 1])
+
+totaltime = time.time() - start_time
+multi_time = time.time() - node_time
+
+print(totdistmin)
+print(notablepath)
+print(absolutepath)
+print(totaltime)
+print(multi_time)
