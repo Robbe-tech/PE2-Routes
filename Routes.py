@@ -280,3 +280,7 @@ print(notablepath)
 print(absolutepath)
 print(totaltime)
 print(multi_time)
+bel = pgeocode.Nominatim(country="BE")
+data = pd.DataFrame(bel._data)
+
+data.to_csv("data.csv", mode="w")
