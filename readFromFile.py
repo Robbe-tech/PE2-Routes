@@ -25,10 +25,14 @@ for n in range(1, len(data) - 1):
     elif(data[n-1] != '\n'):
         #[ Data[n-1] = '\n' ] zijn de wegen
         #Midden van de weg
-        df['Start'].append(data[n].strip())
-        df['neighbour'].append(data[n+1].strip())
-        df['Start'].append(data[n].strip())
-        df['neighbour'].append(data[n-1].strip())
+        if (re.findall("/d:", data[n-1])):
+            df['Start'].append(data[n].strip())
+            df['neighbour'].append(data[n+1].strip())
+        else:
+            df['Start'].append(data[n].strip())
+            df['neighbour'].append(data[n+1].strip())
+            df['Start'].append(data[n].strip())
+            df['neighbour'].append(data[n-1].strip())
     
 
 frame = pd.DataFrame(df)
