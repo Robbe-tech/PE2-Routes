@@ -1,6 +1,6 @@
 
 A1:
-Brussel
+Bruxelles
 Machelen
 Zemst
 Mechelen
@@ -26,7 +26,7 @@ Genk
 Maasmechelen
 
 A3:
-Brussel
+Bruxelles
 Evere
 Kraainem
 Sterrebeek
@@ -45,7 +45,7 @@ Herve
 Eupen
 
 A4:
-Brussel
+Bruxelles
 Overijse
 Rosieres
 Bierges
@@ -106,7 +106,7 @@ Doornik
 Blandian
 
 A10:
-Brussel
+Bruxelles
 Sint-Agatha-Berchem
 Ternat
 Affligem
@@ -139,8 +139,8 @@ Knokke-Heist
 Brugge
 
 A12:
-Brussel
-Laken
+Bruxelles
+Laeken
 Meise
 Breendonk
 Willebroek
@@ -333,7 +333,7 @@ Valaar
 Wilrijk
 
 A201:
-Brussel
+Bruxelles
 Diegem
 Zaventem
 
@@ -371,7 +371,7 @@ Kortrijk
 
 E19:
 Antwerpen
-Brussel
+Bruxelles
 Bergen
 
 E25:
@@ -386,7 +386,7 @@ Antwerpen
 E40:
 Oostende
 Gent
-Brussel
+Bruxelles
 Luik
 
 E42:
@@ -422,7 +422,7 @@ Jabbeke
 Zeebrugge
 
 E411:
-Brussel
+Bruxelles
 Namen
 Aarlen
 
@@ -442,8 +442,8 @@ Halle
 Doornik
 
 N1:
-Brussel
-Schaarbeek
+Bruxelles
+Schaerbeek
 Vilvoorde
 Eppegem
 Zemst
@@ -465,7 +465,7 @@ Wuustwezel
 Braken
 
 N2:
-Brussel
+Bruxelles
 Sint-Stevens-Woluwe
 Zaventem
 Nossegem
@@ -501,7 +501,7 @@ Mopertingen
 Veldwezelt
 
 N3:
-Brussel
+Bruxelles
 Etterbeek
 Sint-Pieters-Woluwe
 Oudergem
@@ -526,7 +526,7 @@ Lontzen
 Kelmis
 
 N4:
-Brussel
+Bruxelles
 Etterbeek
 Oudergem
 Jezus-Eik
@@ -556,7 +556,7 @@ Perle
 Aarlen
 
 N5:
-Brussel
+Bruxelles
 Sint-Gillis
 Elsene
 Ukkel
@@ -573,7 +573,7 @@ Philippeville
 Couvin
 
 N6:
-Brussel
+Bruxelles
 Anderlecht
 Sint-Pieters-Leeuw
 Halle
@@ -603,7 +603,7 @@ Doornik
 Marquain
 
 N8:
-Brussel
+Bruxelles
 Sint-Jans-Molenbeek
 Anderlecht
 Eizeringen
@@ -785,8 +785,8 @@ Rocourt
 Luik
 
 N21:
-Brussel
-Schaarbeek
+Bruxelles
+Schaerbeek
 Evere
 Diegem
 Melsbroek
@@ -801,16 +801,16 @@ Betekom
 Aarschot
 
 N22:
-Brussel
+Bruxelles
 Evere
 Diegem
 Zaventem
 
 N23:
-Brussel
+Bruxelles
 
 N24:
-Brussel
+Bruxelles
 
 N25:
 Blanden
