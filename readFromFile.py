@@ -10,7 +10,6 @@ df = {
 
 text_file = open("N-wegen.txt", "r")
 data = text_file.readlines()
-weg = re.compile(r'\d?\d?\d')
 
 print(data)
 
@@ -23,13 +22,17 @@ for n in range(1, len(data) - 1):
         #Einde N-weg
         df['Start'].append(data[n].strip())
         df['neighbour'].append(data[n-1].strip())
-    elif(data[n-1] != '\n' and weg.search(data[n-1]) == None):
+    elif(data[n-1] != '\n'):
         #[ Data[n-1] = '\n' ] zijn de wegen
         #Midden van de weg
-        df['Start'].append(data[n].strip())
-        df['neighbour'].append(data[n+1].strip())
-        df['Start'].append(data[n].strip())
-        df['neighbour'].append(data[n-1].strip())
+        if (re.findall("/d:", data[n-1])):
+            df['Start'].append(data[n].strip())
+            df['neighbour'].append(data[n+1].strip())
+        else:
+            df['Start'].append(data[n].strip())
+            df['neighbour'].append(data[n+1].strip())
+            df['Start'].append(data[n].strip())
+            df['neighbour'].append(data[n-1].strip())
     
 
 frame = pd.DataFrame(df)
