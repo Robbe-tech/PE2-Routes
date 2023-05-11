@@ -558,7 +558,7 @@ Aarlen
 N5:
 Bruxelles
 Sint-Gillis
-Elsene
+Ixelles
 Ukkel
 Sint-Genesius-Rode
 Waterloo
@@ -805,12 +805,6 @@ Bruxelles
 Evere
 Diegem
 Zaventem
-
-N23:
-Bruxelles
-
-N24:
-Bruxelles
 
 N25:
 Blanden
