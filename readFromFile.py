@@ -1,5 +1,6 @@
 import pandas as pd
 import pgeocode
+import json
 
 graph = {}
 
@@ -58,5 +59,5 @@ for n in range(2, len(data) - 1):
             graph[van] = {naar1: 0}
             graph[van][naar2] = 0
 
-#with open("graph.txt", "w") as fp:
-    #json.dump(graph, fp)
+with open("graph.txt", "w") as fp:
+    json.dump(graph, fp)
