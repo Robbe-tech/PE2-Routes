@@ -1,4 +1,5 @@
 import http.client
+import json
 
 conn = http.client.HTTPSConnection("trueway-matrix.p.rapidapi.com")
 
@@ -17,4 +18,7 @@ conn.request("GET", route, headers=headers)
 res = conn.getresponse()
 data = res.read()
 
-print(data.decode("utf-8"))
+distances = json.loads(data.decode("utf-8"))
+durations = distances['durations']
+for i in range(1, len(durations)):
+    print(durations[i][0])
