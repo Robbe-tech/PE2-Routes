@@ -3,12 +3,17 @@ import pgeocode
 
 graph = {}
 
-def coordinates(stad, steden):
-    stad = steden.loc[steden['place_name'] == van]
-    postcode = list(stad['postal_code'])[0]
-    latitude = list(stad['latitude'])[0]
-    longitude = list(stad['longitude'])[0]
-    coordinate = str(latitude) + ',' + str(longitude) +';'
+def coordinates(stad, steden, n):
+    stadje = steden.loc[steden['place_name'] == van]
+    coordinate = 0
+    if(len(stadje) == 1):
+        postcode = list(stadje['postal_code'])[0]
+        latitude = list(stadje['latitude'])[0]
+        longitude = list(stadje['longitude'])[0]
+        coordinate = str(latitude) + ',' + str(longitude) +';'
+    else:
+        print(n)
+        print(stad)
     return coordinate
 
 i = 0
@@ -25,7 +30,7 @@ for n in range(2, len(data) - 1):
         #Vorige lijn is dan weg, begin weg
         van = data[n].strip()
         naar = data[n+1].strip()
-        print(coordinates(van, steden))
+        coordinates(van, steden, n)
         if (van in graph.keys()):
             graph[van][naar] = 0
         else:
@@ -34,6 +39,7 @@ for n in range(2, len(data) - 1):
         #Einde N-weg
         van = data[n].strip()
         naar = data[n-1].strip()
+        coordinates(van, steden, n)
         if (van in graph.keys()):
             graph[van][naar] = 0
         else:
@@ -44,6 +50,7 @@ for n in range(2, len(data) - 1):
         van = data[n].strip()
         naar1 = data[n+1].strip()
         naar2 = data[n-1].strip()
+        coordinates(van, steden, n)
         if (van in graph.keys()):
             graph[van][naar1] = 0
             graph[van][naar2] = 0
