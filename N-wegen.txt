@@ -37,8 +37,8 @@ Tienen
 Lincent
 Landen
 Berloz
-Crisnee
-Luik
+Crisnée
+Liège
 Herstal
 Barchon
 Herve
@@ -67,7 +67,7 @@ Tellin
 Transinne
 Verlaine
 Longlier
-Leglise
+Léglise
 Rulles
 Habay
 Stockem
@@ -77,7 +77,7 @@ Sterpenich
 
 A7:
 Itter
-Nijvel
+Nivelles
 Felluy
 Besonrieux
 Le Roeulx
@@ -85,7 +85,7 @@ La Louviere
 Thieu
 Obourg
 Nimy
-Bergen
+Mons
 Jemappes
 Sint-Ghislain
 Dour
@@ -171,7 +171,7 @@ Tonegeren
 Boirs
 Liers
 Vottem
-Luik
+Liège
 
 A14:
 Antwerpen
@@ -209,14 +209,14 @@ Andenne
 Huy
 Villers-le-Bouillet
 Saint-Georges
-Flemalle
-Luik
+Flémalle
+Liège
 
 A16:
 Doornik
 Antoing
 Maubray
-Peruwelz
+Péruwelz
 Blaton
 Bernissart
 Pommeroeul
@@ -273,11 +273,11 @@ Cheratte
 Wandre
 Jupile
 Coronmeuse
-Luik
+Liège
 
 A26:
-Luik
-Chenee
+Liège
+Chênée
 Embourg
 Tilff
 Beaufrays
@@ -317,7 +317,7 @@ Athus
 Aubange
 
 A54:
-Nijvel
+Nivelles
 Arquennes
 Petit-Roeulx
 Luttre
@@ -355,7 +355,7 @@ Fexhe-Sins
 A602:
 Loncin
 Ans
-Luik
+Liège
 Guillemins
 Angleur
 
@@ -372,10 +372,10 @@ Kortrijk
 E19:
 Antwerpen
 Bruxelles
-Bergen
+Mons
 
 E25:
-Luik
+Liège
 Bastenaken
 Aarlen
 
@@ -387,17 +387,17 @@ E40:
 Oostende
 Gent
 Bruxelles
-Luik
+Liège
 
 E42:
-Bergen
+Mons
 Charleroi
 Namen
-Luik
+Liège
 Sankt Vith
 
 E46:
-Luik
+Liège
 Sclessin
 Marche-en-Famenne
 Champlon
@@ -405,7 +405,7 @@ Bouillon
 
 E313:
 Antwerpen
-Luik
+Liège
 
 E314:
 Leuven
@@ -427,7 +427,7 @@ Namen
 Aarlen
 
 E420:
-Nijvel
+Nivelles
 Charleroi
 
 E421:
@@ -515,9 +515,9 @@ Orsmaal
 Sint-Truiden
 Heers
 Oerle
-Crisnee
+Crisnée
 Ans
-Luik
+Liège
 Grivegnee
 Fleron
 Soumagne
@@ -581,7 +581,7 @@ Tubeke
 's-Gravenbrakel
 Zinnik
 Nimy
-Bergen
+Mons
 Asquillies
 
 N7:
@@ -782,7 +782,7 @@ Tongeren
 Vreren
 Juprelle
 Rocourt
-Luik
+Liège
 
 N21:
 Bruxelles
@@ -814,7 +814,7 @@ Waver
 Ottignies-Louvain-la-Neuve
 Mont-Saint-Guibert
 Genepien
-Nijvel
+Nivelles
 
 N26:
 Leuven
@@ -830,7 +830,7 @@ N27:
 Waterloo
 Eigenbrakel
 Lillois-Witterzee
-Nijvel
+Nivelles
 Arquennes
 Seneffe
 Manage
@@ -842,7 +842,7 @@ Peronnes-lez-Binche
 Binche
 
 N28:
-Nijvel
+Nivelles
 Ophain-Bois-Seigneur-Isaac
 Haut-Ittre
 Kasteelbrakel
@@ -863,10 +863,10 @@ Geldenaken
 Charleroi
 
 N30:
-Luik
+Liège
 Grivegnee
 Angleur
-Chenee
+Chênée
 Embourg
 Beaufays
 Ogne
@@ -976,7 +976,7 @@ Veurne
 Adinkerke
 
 N40:
-Bergen
+Mons
 Spiennes
 Harmignies
 Givry
@@ -1006,7 +1006,7 @@ Recogne
 Lamouline
 Neufchâteau
 Hamipre
-Leglise
+Léglise
 Rancimont
 Beheme
 Anlier
@@ -1102,11 +1102,11 @@ Westkapelle
 Knokke
 
 N50:
-Bergen
+Mons
 Saint-Ghislain
 Bernissart
 Beloeil
-Peruwelz
+Péruwelz 
 Leuze-en-Hainaut
 Doornik
 Pecq
@@ -1123,7 +1123,7 @@ Oostkamp
 Brugge
 
 N51:
-Bergen
+Mons
 Quaregnon
 Saint-Ghislain
 Hornu
@@ -1219,10 +1219,10 @@ Oudenaarde
 Maarkedal
 Ronse
 Leuze-en-Hainaut
-Peruwelz
+Péruwelz 
 
 N61:
-Chenee
+Chênée
 Vaux-sous-Chevremont
 Chaudfontaine
 Prayon
@@ -1604,7 +1604,7 @@ Halanzy
 Aix-Sur-Cloie
 Aubange
 Athus
-Petange
+
 
 N89:
 Salmchâteau
