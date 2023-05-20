@@ -47,18 +47,17 @@ Eupen
 A4:
 Bruxelles
 Overijse
-Rosieres
+Rosières
 Bierges
 Wavre
-Louvranges
 Louvain-la-Neuve
 Walhain
 Eghezee
-Namen
+Namur
 Wierde
-Courriere
+Courrière
 Spontin
-Achene
+Achêne
 Custinne
 Rochefort
 Lavaux-Sainte-Anne
@@ -70,8 +69,7 @@ Longlier
 Léglise
 Rulles
 Habay
-Stockem
-Aarlen
+Arlon
 Weyler
 Sterpenich
 
@@ -191,7 +189,7 @@ Waregem
 Deerlijk
 Kortrijk
 Aalbeke
-Moeskroen
+Mouscron
 
 A15:
 La Louviere
@@ -202,7 +200,7 @@ Charleroi
 Fleurus
 Sambreville
 Spy
-Namen
+Namur
 Fernelmont
 Hingeon
 Andenne
@@ -230,7 +228,7 @@ Lichtervelde
 Roeselare
 Kortrijk
 Wevelgem
-Moeskroen
+Mouscron
 Dottenijs
 Estaimpuis
 Doornik
@@ -312,7 +310,7 @@ Sankt Vith
 Lommersweiler
 
 A28:
-Aarlen
+Arlon
 Athus
 Aubange
 
@@ -377,7 +375,7 @@ Mons
 E25:
 Liège
 Bastenaken
-Aarlen
+Arlon
 
 E34:
 Knokke-Heist
@@ -392,7 +390,7 @@ Liège
 E42:
 Mons
 Charleroi
-Namen
+Namur
 Liège
 Sankt Vith
 
@@ -423,8 +421,8 @@ Zeebrugge
 
 E411:
 Bruxelles
-Namen
-Aarlen
+Namur
+Arlon
 
 E420:
 Nivelles
@@ -435,7 +433,6 @@ Eupen
 Malmedy
 Sankt Vith
 Diekrich
-Ettelbruck
 
 E429:
 Halle
@@ -536,8 +533,8 @@ Louvain-la-Neuve
 Nil-Pierreux
 Gembloers
 Bovesse
-Namen
-Courriere
+Namur
+Courrière
 Natoye
 Emptinne
 Pessoux
@@ -553,7 +550,7 @@ Bastenaken
 Grumelange
 Martelange
 Perle
-Aarlen
+Arlon
 
 N5:
 Bruxelles
@@ -1013,7 +1010,7 @@ Anlier
 Habay
 Heinsch
 Freylange
-Aarlen
+Arlon
 
 N41:
 Aalst
@@ -1039,7 +1036,7 @@ Waregem
 Harelbeke
 Kortrijk
 Menen
-Moeskroen
+Mouscron
 
 N44:
 Aalter
@@ -1192,7 +1189,7 @@ Zinnik
 
 N58:
 Dottenijs
-Moeskroen
+Mouscron
 Lauwe
 Geluwe
 Wervik
@@ -1476,7 +1473,7 @@ Riemst
 Vroenhoven
 
 N80:
-Namen
+Namur
 Bouge
 Boninne
 Hingeon
@@ -1493,22 +1490,21 @@ Alken
 Hasselt
 
 N81:
-Aarlen
+Arlon
 Messancy
 Aubange
 Athus
 
 N82:
 Viville
-Aarlen
+Arlon
 Châtillon
 Saint-Leger
 Ethe
 Virton
 
 N83:
-Aarlen
-Stockem
+Arlon
 Fouches
 Sampont
 Villers-Tortrue
@@ -1538,7 +1534,7 @@ Bastenaken
 Villeroux
 Sibret
 Morhet-Station
-Rosieres-la-Petite
+Rosières-la-Petite
 Vaux-sur-Sûre
 Bercheux
 Molinfaing
