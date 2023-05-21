@@ -1,11 +1,12 @@
 import pandas as pd
 import pgeocode
+import http.client
 import json
 
 graph = {}
 
 def coordinates(stad, steden, n):
-    stadje = steden.loc[steden['place_name'] == van]
+    stadje = steden.loc[steden['place_name'] == stad]
     coordinate = 0
     if(len(stadje) == 1):
         postcode = list(stadje['postal_code'])[0]
@@ -58,6 +59,29 @@ for n in range(2, len(data) - 1):
         else:
             graph[van] = {naar1: 0}
             graph[van][naar2] = 0
+
+conn = http.client.HTTPSConnection("trueway-matrix.p.rapidapi.com")
+
+headers = {
+    'X-RapidAPI-Key': "871bf0c6a2msh23c0570c42956d3p1eec5fjsn8bfa2c9e0d94",
+    'X-RapidAPI-Host': "trueway-matrix.p.rapidapi.com"
+    }
+
+for k, v in graph.items():
+    route = "/CalculateDrivingMatrix?origins=" + coordinates(k, steden)
+    for vk, vv in v.items():
+        route += coordinates(vk, vv)
+    conn.request("GET", route, headers=headers)
+
+    res = conn.getresponse()
+    data = res.read()
+
+    distances = json.loads(data.decode("utf-8"))
+    durations = distances['durations']
+    i = 1
+    for k in v.keys():
+        v[k] = durations[i][0]
+        i += 1
 
 with open("graph.txt", "w") as fp:
     json.dump(graph, fp)
