@@ -4,6 +4,7 @@ import pgeocode
 import pandas as pd
 import time
 import json
+import cv2
 
 graph = {
     0: {1: 1},
@@ -203,6 +204,84 @@ def fill(graph):
     
     return(fulldists, fullroutes)
 
+def rootcoordinates(stad, steden):
+    stadje = steden.loc[steden['place_name'] == stad]
+    latitudes = list(stadje['latitude'])[0]
+    longitudes = list(stadje['longitude'])[0]
+    return longitudes, latitudes
+
+def coordinates(stad, steden, latitudes, longitudes):
+    stadje = steden.loc[steden['place_name'] == stad]
+    latitudes.append(list(stadje['latitude'])[0])
+    longitudes.append(list(stadje['longitude'])[0])
+
+def image(root, notablepath, absolutepath):
+    bel = pgeocode.Nominatim(country="BE")
+    steden = pd.DataFrame(bel._data)
+    
+    rootlong, rootlat = rootcoordinates(root, steden)
+    notablelong = []
+    notablelat = []
+    absolutelong = []
+    absolutelat = []
+
+    for i in notablepath:
+        coordinates(i, steden, notablelat, notablelong)
+    
+    for j in absolutepath:
+        coordinates(j, steden, absolutelat, absolutelong)
+
+    Directory = "map_belgie.png" 
+    img = cv2.imread(Directory)
+
+    resizescale = 44/100
+
+    nwidth = int(img.shape[1] * resizescale)
+    nheight = int(img.shape[0] * resizescale)
+    dim = (nwidth, nheight)
+
+    #pixel measurements of distance between extremities in the photo
+    width = 1938 * resizescale
+    height = 1586  * resizescale
+
+    #pixel measurements of the extra space outside of belgium
+    extrawidth = int(174 * resizescale)
+    extraheight = int(232 * resizescale)
+
+    #extremities of longitude and lattitude belgium
+    nmostpoint = 51.504940
+    smostpoint = 49.497082
+    cheight = nmostpoint - smostpoint
+
+    wmostpoint = 2.545777
+    emostpoint = 6.408037
+    cwidth = emostpoint - wmostpoint
+    
+    img = cv2.resize(img, dim)
+    
+    for i in range(len(absolutelong)):
+        plongpoint = int(((absolutelong[i] - wmostpoint) / cwidth) * width) + extrawidth
+        platpoint = int(((nmostpoint - absolutelat[i]) / cheight) * height) + extraheight
+        cv2.circle(img, (plongpoint, platpoint), 3, (0, 0, 0), -1)
+        if i != 0:
+            p0longpoint = int(((absolutelong[i - 1] - wmostpoint) / cwidth) * width) + extrawidth
+            p0latpoint = int(((nmostpoint - absolutelat[i - 1]) / cheight) * height) + extraheight
+            cv2.line(img, (p0longpoint, p0latpoint), (plongpoint, platpoint), (0, 0, 0), 1)
+    
+    for i in range(len(notablelong)):
+        plongpoint = int(((notablelong[i] - wmostpoint) / cwidth) * width) + extrawidth
+        platpoint = int(((nmostpoint - notablelat[i]) / cheight) * height) + extraheight
+        cv2.circle(img, (plongpoint, platpoint), 3, (0, 255, 0), -1)
+    
+    plongpoint = int(((rootlong - wmostpoint) / cwidth) * width) + extrawidth
+    platpoint = int(((nmostpoint - rootlat) / cheight) * height) + extraheight
+    cv2.circle(img, (plongpoint, platpoint), 3, (255, 0, 0), -1)
+    
+    cv2.circle(img, (477, 63), 3, (0, 0, 255), -1)
+
+    cv2.imshow('Map Belgium',img)
+    cv2.waitKey(0)
+
 start_time = time.time()
 
 fulldists = pd.DataFrame(columns = graph.keys(), index = graph.keys())
@@ -212,17 +291,14 @@ fulldists, fullroutes = fill(graph)
 
 node_time = time.time()
 
-totdistmin, notablepath, absolutepath = multi_node(0, fulldists, fullroutes, [3, 2, 1])
+root = 0
+
+totdistmin, notablepath, absolutepath = multi_node(root, fulldists, fullroutes, [3, 2, 1])
 
 totaltime = time.time() - start_time
 multi_time = time.time() - node_time
 
-print(totdistmin)
-print(notablepath)
-print(absolutepath)
 print(totaltime)
 print(multi_time)
-bel = pgeocode.Nominatim(country="BE")
-data = pd.DataFrame(bel._data)
 
-data.to_csv("data.csv", mode="w")
+image(root, notablepath, absolutepath)
