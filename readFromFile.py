@@ -67,21 +67,21 @@ headers = {
     'X-RapidAPI-Host': "trueway-matrix.p.rapidapi.com"
     }
 
-for k, v in graph.items():
-    route = "/CalculateDrivingMatrix?origins=" + coordinates(k, steden)
-    for vk, vv in v.items():
-        route += coordinates(vk, vv)
-    conn.request("GET", route, headers=headers)
+#for k, v in graph.items():
+    #route = "/CalculateDrivingMatrix?origins=" + coordinates(k, steden)
+    #for vk, vv in v.items():
+        #route += coordinates(vk, vv)
+    #conn.request("GET", route, headers=headers)
 
-    res = conn.getresponse()
-    data = res.read()
+    #res = conn.getresponse()
+    #data = res.read()
 
-    distances = json.loads(data.decode("utf-8"))
-    durations = distances['durations']
-    i = 1
-    for k in v.keys():
-        v[k] = durations[i][0]
-        i += 1
+    #distances = json.loads(data.decode("utf-8"))
+    #durations = distances['durations']
+    #i = 1
+    #for k in v.keys():
+        #v[k] = durations[i][0]
+        #i += 1
 
 with open("graph.txt", "w") as fp:
     json.dump(graph, fp)
