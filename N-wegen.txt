@@ -52,7 +52,7 @@ Bierges
 Wavre
 Louvain-la-Neuve
 Walhain
-Eghezee
+Eghezée
 Namur
 Wierde
 Courrière
@@ -70,42 +70,39 @@ Léglise
 Rulles
 Habay
 Arlon
-Weyler
-Sterpenich
 
 A7:
-Itter
+Ittre
 Nivelles
-Felluy
-Besonrieux
+Feluy
 Le Roeulx
-La Louviere
+La Louvière
 Thieu
 Obourg
 Nimy
 Mons
 Jemappes
-Sint-Ghislain
+Saint-Ghislain
 Dour
 
 A8:
 Halle
 Lembeek
-Tubeke
-Bierk
+Tubize
+Bierghes
 Hove
-Edingen
-Mark
-Zullik
-Lessen
-Aat
+Enghien
+Marcq
+Bassilly
+Lessines
+Ath
 Frasnes
-Doornik
-Blandian
+Tournai
+Blandain
 
 A10:
 Bruxelles
-Berchem-Saint-Agathe
+Berchem-Sainte-Agathe
 Ternat
 Affligem
 Aalst
@@ -146,7 +143,6 @@ Boom
 Wilrijk
 Antwerpen
 Ekeren
-Leugenberg
 Hoevenen
 Stabroek
 Berendrecht
@@ -160,12 +156,12 @@ Massenhoven
 Herentals
 Geel
 Ham
-Tessenderloo
+Tessenderlo
 Beringen
 Lummen
 Hasselt
 Diepenbeek
-Tonegeren
+Tongeren
 Boirs
 Liers
 Vottem
@@ -174,7 +170,7 @@ Liège
 A14:
 Antwerpen
 Zwijndrecht
-Kruilbeke
+Kruibeke
 Haasdonk
 Sint-Niklaas
 Waasmunster
@@ -184,7 +180,7 @@ Gentbrugge
 Gent
 De Pinte
 Deinze
-Kruihouten
+Kruishoutem
 Waregem
 Deerlijk
 Kortrijk
@@ -192,7 +188,7 @@ Aalbeke
 Mouscron
 
 A15:
-La Louviere
+La Louvière
 Manage
 Courcelles
 Gosselies
@@ -211,7 +207,7 @@ Flémalle
 Liège
 
 A16:
-Doornik
+Tournai
 Antoing
 Maubray
 Péruwelz
@@ -231,7 +227,7 @@ Wevelgem
 Mouscron
 Dottenijs
 Estaimpuis
-Doornik
+Tournai
 
 A18:
 Brugge
@@ -338,7 +334,7 @@ Zaventem
 A501:
 Familleureux
 Bois d'Haine
-La Louviere
+La Louvière
 
 A503:
 Charleroi
@@ -413,7 +409,7 @@ E403:
 Zeebrugge
 Brugge
 Kortrijk
-Doornik
+Tournai
 
 E404:
 Jabbeke
@@ -436,7 +432,7 @@ Diekrich
 
 E429:
 Halle
-Doornik
+Tournai
 
 N1:
 Bruxelles
@@ -574,7 +570,7 @@ Bruxelles
 Anderlecht
 Sint-Pieters-Leeuw
 Halle
-Tubeke
+Tubize
 's-Gravenbrakel
 Zinnik
 Nimy
@@ -584,19 +580,19 @@ Asquillies
 N7:
 Halle
 Lembeek
-Bierk
+Bierghes
 Lettelingen
-Edingen
-Mark
-Zullik
+Enghien
+Marcq
+Bassilly
 Gellingen
-Aat
+Ath
 Villers-Notre-Dame
 Chapelle-a-Wattines
 Leuze-en-Hainaut
 Barry
 Gaurain-Ramecroix
-Doornik
+Tournai
 Marquain
 
 N8:
@@ -630,7 +626,7 @@ Sint-Idesbald
 
 N9:
 Molenbeek-Saint-Jean
-Berchem-Saint-Agathe
+Berchem-Sainte-Agathe
 Dilbeek
 Asse
 Affligem
@@ -833,7 +829,7 @@ Seneffe
 Manage
 Fayt-lez-Manage
 La Hestre
-La Louviere
+La Louvière
 Haine-Saint-Paul
 Peronnes-lez-Binche
 Binche
@@ -1025,7 +1021,7 @@ Zottegem
 Herzele
 Lierde
 Geraardsbergen
-Lessen
+Lessines
 
 N43:
 Gent
@@ -1088,7 +1084,7 @@ Ronse
 Frasnes-lez-Anvaing
 Mont-de-l'Enclus
 Celles
-Doornik
+Tournai
 
 N49:
 Assenede
@@ -1105,7 +1101,7 @@ Bernissart
 Beloeil
 Péruwelz 
 Leuze-en-Hainaut
-Doornik
+Tournai
 Pecq
 Spiee-Helkijn
 Kortrijk
@@ -1150,7 +1146,7 @@ Anderlues
 Erquelinnes
 
 N55:
-Edingen
+Enghien
 Marie-Bois
 Patrouille
 Zinnik
@@ -1166,9 +1162,9 @@ Merbes-Sainte-Marie
 Merbes-le-Château
 
 N56:
-Lessen
+Lessines
 Rebaix
-Aat
+Ath
 Lens
 Jurbeke
 Nimy
@@ -1178,7 +1174,7 @@ Ronse
 Elzele
 Vloesberg
 Ogy
-Lessen
+Lessines
 Houraing
 Pont
 Gellingen
