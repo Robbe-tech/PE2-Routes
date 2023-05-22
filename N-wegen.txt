@@ -202,7 +202,7 @@ Hingeon
 Andenne
 Huy
 Villers-le-Bouillet
-Saint-Georges
+Saint-Georges-sur-Meuse
 Flémalle
 Liège
 
@@ -225,7 +225,7 @@ Roeselare
 Kortrijk
 Wevelgem
 Mouscron
-Dottenijs
+Dottignies
 Estaimpuis
 Tournai
 
@@ -259,14 +259,12 @@ Turnhout
 Retie
 
 A25:
-Moelingen
-Wezet
-Trilogiport
+Mouland
+Visé
 Argenteau
 Cheratte
 Wandre
-Jupile
-Coronmeuse
+Jupille-sur-Meuse
 Liège
 
 A26:
@@ -274,20 +272,18 @@ Liège
 Chênée
 Embourg
 Tilff
-Beaufrays
-Gomze-Andoumont
+Beaufays
+Gomzé-Andoumont
 Sprimont
-Remouchamps
-Harze
+Harzé
 Werbomont
 Harre
 Manhay
 Houffalize
-Mabompre
-Hemroulle
-Bastenaken
+Mabompré
+Bastogne
 Nives
-Neufchateau
+Neufchâteau
 
 A27:
 Battice
@@ -298,11 +294,10 @@ Ensival
 Verviers
 Theux
 Spa
-Sart
+Sart-Lez-Spa
 Francorchamps
 Malmedy
-Belleveaux-Ligneuville
-Sankt Vith
+Saint-Vith
 Lommersweiler
 
 A28:
@@ -313,17 +308,14 @@ Aubange
 A54:
 Nivelles
 Arquennes
-Petit-Roeulx
-Luttre
-Gosslies
+Petit-Roeulx-lez-nivellesLuttre
+Gosselies
 Jumet
 Lodelinsart
 Charleroi
 
 A112:
 Antwerpen
-Kiel
-Valaar
 Wilrijk
 
 A201:
@@ -333,7 +325,7 @@ Zaventem
 
 A501:
 Familleureux
-Bois d'Haine
+Bois-d'Haine
 La Louvière
 
 A503:
@@ -343,20 +335,17 @@ Marcinelle
 
 A601:
 Herstal
-Hauts-Sarts
-Fexhe-Sins
+Fexhe-Slins
 
 A602:
 Loncin
 Ans
 Liège
-Guillemins
 Angleur
 
 A604:
-Grace-Hollogne
-Hollogne-aux-Pierres
-Jemeppe
+Grâce-Hollogne
+Jemeppe-sur-Meuse
 
 E17:
 Antwerpen
@@ -370,7 +359,7 @@ Mons
 
 E25:
 Liège
-Bastenaken
+Bastogne
 Arlon
 
 E34:
@@ -388,11 +377,10 @@ Mons
 Charleroi
 Namur
 Liège
-Sankt Vith
+Saint-Vith
 
 E46:
 Liège
-Sclessin
 Marche-en-Famenne
 Champlon
 Bouillon
@@ -427,8 +415,7 @@ Charleroi
 E421:
 Eupen
 Malmedy
-Sankt Vith
-Diekrich
+Saint-Vith
 
 E429:
 Halle
@@ -452,10 +439,8 @@ Berchem
 Antwerpen
 Merksem
 Brasschaat
-Maria-ter-Heide
-Gooreind
 Wuustwezel
-Braken
+Brakel
 
 N2:
 Bruxelles
@@ -467,7 +452,7 @@ Erps-Kwerps
 Veltem-Beisem
 Winksele
 Leuven
-Kessel-Lo
+Kessel Lo
 Linden
 Lubbeek
 Sint-Joris-Winge
@@ -476,7 +461,6 @@ Bekkevoort
 Assent
 Diest
 Webbekom
-Zelk
 Halen
 Donk
 Herk-de-Stad
@@ -542,7 +526,7 @@ Bande
 Champlon
 Ortheuville
 Sprimont
-Bastenaken
+Bastogne
 Grumelange
 Martelange
 Perle
@@ -866,7 +850,7 @@ Ogne
 Sprimont
 Florze
 Aywaille
-Harze
+Harzé
 Werbomont
 Manhay
 Baraque Fraiture
@@ -875,7 +859,7 @@ Wicourt
 Rachamps
 Noville
 Foy
-Bastenaken
+Bastogne
 
 N31:
 Brugge
@@ -1184,7 +1168,7 @@ Masi
 Zinnik
 
 N58:
-Dottenijs
+Dottignies
 Mouscron
 Lauwe
 Geluwe
@@ -1233,7 +1217,7 @@ Eupen
 
 N62:
 Beaufays
-Gomze-Andoumont
+Gomzé-Andoumont
 Louveigne
 Theux
 Spa
@@ -1242,14 +1226,13 @@ Burnenville
 Malmedy
 Ligneuville
 Nieder-Emmels
-Sankt Vith
+Saint-Vith
 Grüfflingen
 Oudler
 Dürler
 Malscheid
 
 N63:
-Sclessin
 Ougree
 Boncelles
 Neupre
@@ -1520,13 +1503,13 @@ Sainte-Cecile
 Bouillon
 
 N84:
-Bastenaken
+Bastogne
 Marvie
 Wardin
 Bras
 
 N85:
-Bastenaken
+Bastogne
 Villeroux
 Sibret
 Morhet-Station
