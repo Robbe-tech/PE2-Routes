@@ -484,34 +484,31 @@ Woluwe-Saint-Pierre
 Auderghem
 Kraainem
 Tervuren
-Terbank
 Leuven
 Boutersem
 Tienen
-Orsmaal
+Orsmaal-Gussenhoven
 Sint-Truiden
 Heers
-Oerle
+Oreye
 Crisnée
 Ans
 Liège
-Grivegnee
-Fleron
+Grivegnée
+Fléron
 Soumagne
 Herve
 Lontzen
-Kelmis
+La Calamine
 
 N4:
 Bruxelles
 Etterbeek
 Auderghem
-Jezus-Eik
 Overijse
-Waver
+Wavre
 Louvain-la-Neuve
-Nil-Pierreux
-Gembloers
+Gembloux
 Bovesse
 Namur
 Courrière
@@ -520,31 +517,28 @@ Emptinne
 Pessoux
 Nettinne
 Marche-en-Famenne
-Hollogne
+Grâce-Hollogne
 Harsin
 Bande
 Champlon
-Ortheuville
 Sprimont
 Bastogne
-Grumelange
 Martelange
-Perle
 Arlon
 
 N5:
 Bruxelles
-Saint-Gillis
+Saint-Gilles
 Ixelles
 Uccle
-Sint-Genesius-Rode
+Rhode-Saint-Genèse
 Waterloo
 Lasne
-Genepien
+Genappe
 Les Bons Villers
 Charleroi
 Gerpinnes
-Ham-sur_Heure-Nalinnes
+Ham-sur-Heure-Nalinnes
 Walcourt
 Philippeville
 Couvin
@@ -555,8 +549,8 @@ Anderlecht
 Sint-Pieters-Leeuw
 Halle
 Tubize
-'s-Gravenbrakel
-Zinnik
+Braine-le-Comte
+Soignies
 Nimy
 Mons
 Asquillies
@@ -565,14 +559,14 @@ N7:
 Halle
 Lembeek
 Bierghes
-Lettelingen
+Petit-Enghien
 Enghien
 Marcq
 Bassilly
-Gellingen
+Ghislenghien
 Ath
 Villers-Notre-Dame
-Chapelle-a-Wattines
+Chapelle-à-Wattines
 Leuze-en-Hainaut
 Barry
 Gaurain-Ramecroix
@@ -583,9 +577,8 @@ N8:
 Bruxelles
 Molenbeek-Saint-Jean
 Anderlecht
-Eizeringen
 Ninove
-Appelterre
+Appelterre-Eichem
 Aspelare
 Ophasselt
 Brakel
@@ -606,7 +599,7 @@ Oostvleteren
 Hoogstade
 Alveringem
 Veurne
-Sint-Idesbald
+Koksijde
 
 N9:
 Molenbeek-Saint-Jean
@@ -646,7 +639,6 @@ Scherpenheuvel
 
 N11:
 Donk
-Sint-Mariaburg
 Kapellen
 Putte
 
@@ -656,7 +648,7 @@ Borgerhout
 Deurne
 Wijnegem
 Schilde
-Sint-Antonius (Zoersel)
+Zoersel
 Westmalle
 Oostmalle
 Vlimmeren
@@ -674,7 +666,6 @@ Kessel
 Nijlen
 Bouwel
 Herentals
-Punt
 
 N14:
 Mechelen
@@ -695,20 +686,16 @@ Meerle
 N15:
 Mechelen
 Bonheiden
-Peulis
 Putte
 Beerzel
 Heist-op-den-Berg
 Booischot
 Westmeerbeek
-Bergom
 
 N16:
 Mechelen
-Battel
 Heffen
 Willebroek
-Kalfort
 Puurs
 Bornem
 Temse
@@ -728,7 +715,6 @@ Willebroek
 N18:
 Turnhout
 Oud-Turnhout
-Schoonbroek
 Retie
 Dessel
 Mol
@@ -739,9 +725,6 @@ N19:
 Turnhout
 Kasterlee
 Geel
-Punt
-Zammel
-Bergom
 Herselt
 Aarschot
 Wilsele
@@ -769,7 +752,6 @@ Diegem
 Melsbroek
 Berg
 Kampenhout
-Kampenhout-Sas
 Boortmeerbeek
 Wespelaar
 Haacht
@@ -786,18 +768,17 @@ Zaventem
 N25:
 Blanden
 Hamme-Mille
-Graven
-Waver
+Grez-Doiceau
+Wavre
 Ottignies-Louvain-la-Neuve
 Mont-Saint-Guibert
-Genepien
+Genappe
 Nivelles
 
 N26:
 Leuven
 Herent
 Buken
-Kampenhout-Sas
 Boortmeerbeek
 Hever
 Muizen
@@ -805,8 +786,8 @@ Mechelen
 
 N27:
 Waterloo
-Eigenbrakel
-Lillois-Witterzee
+Braine-l'Alleud
+Lillois-Witterzée
 Nivelles
 Arquennes
 Seneffe
@@ -815,14 +796,14 @@ Fayt-lez-Manage
 La Hestre
 La Louvière
 Haine-Saint-Paul
-Peronnes-lez-Binche
+Péronnes-lez-Binche
 Binche
 
 N28:
 Nivelles
 Ophain-Bois-Seigneur-Isaac
 Haut-Ittre
-Kasteelbrakel
+Braine-le-Château
 Halle
 Pepingen
 Leerbeek
@@ -836,29 +817,23 @@ Diest
 Glabbeek
 Bunsbeek
 Tienen
-Geldenaken
+Jodoigne
 Charleroi
 
 N30:
 Liège
-Grivegnee
+Grivegnée
 Angleur
 Chênée
 Embourg
 Beaufays
-Ogne
 Sprimont
-Florze
 Aywaille
 Harzé
 Werbomont
 Manhay
-Baraque Fraiture
 Houffalize
-Wicourt
-Rachamps
 Noville
-Foy
 Bastogne
 
 N31:
@@ -880,13 +855,13 @@ N33:
 Oostende
 Leffinge
 Snaaskerke
-Gitsel
+Gistel
 Eernegem
 Torhout
 
 N34:
 Knokke
-Heist
+Heist-aan-Zee
 Zeebrugge
 Blankenberge
 Wenduine
@@ -917,7 +892,7 @@ Zingem
 Nazareth
 
 N36:
-Ronse
+Renaix
 Kluisbergen
 Berchem
 Kaster
@@ -926,7 +901,6 @@ Deerlijk
 Harelbeke
 Izegem
 Roeselare
-Sleihage
 Staden
 Zarren
 
@@ -936,7 +910,6 @@ Ruiselede
 Tielt
 Pittem
 Ardooie
-Tasse
 Roeselare
 Zonnebeke
 Ieper
@@ -962,34 +935,27 @@ Erquelinnes
 Solre-sur-Sambre
 Montignies-Saint-Christophe
 Beaumont
-Barbencon
+Barbençon
 Boussu-lez-Walcourt
 Silenrieux
 Philippeville
 Villers-le-Gambon
 Doische
-Givet
-Fromelennes
 Dion
 Beauraing
 Pondrôme
 Wellin
 Halma
-Neupont
 Redu
 Transinne
 Libin
 Recogne
-Lamouline
 Neufchâteau
-Hamipre
+Hamipré
 Léglise
-Rancimont
-Beheme
 Anlier
 Habay
 Heinsch
-Freylange
 Arlon
 
 N41:
@@ -1042,7 +1008,6 @@ Herzele
 Hillegem
 Oombergen
 Elene
-Velzeke
 Hundelgem
 Sint-Maria-Latem
 Nederzwalm-Hermelgem
@@ -1056,15 +1021,14 @@ Lokeren
 Zele
 Grembergen
 Dendermonde
-Nijverseel
 Mazenzele
 Asse
 
 N48:
 Brakel
-Vloesberg
-Elzele
-Ronse
+Flobecq
+Ellezelles
+Renaix
 Frasnes-lez-Anvaing
 Mont-de-l'Enclus
 Celles
@@ -1087,7 +1051,7 @@ Péruwelz
 Leuze-en-Hainaut
 Tournai
 Pecq
-Spiee-Helkijn
+Espierres-Helchin
 Kortrijk
 Kuurne
 Harelbeke
@@ -1105,7 +1069,6 @@ Quaregnon
 Saint-Ghislain
 Hornu
 Boussu
-Saint-Homme
 Quievrain
 
 N52:
@@ -1133,7 +1096,7 @@ N55:
 Enghien
 Marie-Bois
 Patrouille
-Zinnik
+Soignies
 Rouges Terres
 Le Rœulx
 Houdeng-Gœgnies
@@ -1154,18 +1117,18 @@ Jurbeke
 Nimy
 
 N57:
-Ronse
-Elzele
-Vloesberg
+Renaix
+Ellezelles
+Flobecq
 Ogy
 Lessines
 Houraing
 Pont
-Gellingen
+Ghislenghien
 Mauvinage
 Noir-Jambon
 Masi
-Zinnik
+Soignies
 
 N58:
 Dottignies
@@ -1194,7 +1157,7 @@ Nazareth
 Zingem
 Oudenaarde
 Maarkedal
-Ronse
+Renaix
 Leuze-en-Hainaut
 Péruwelz 
 
@@ -1322,7 +1285,7 @@ Deiffelt
 N69:
 Tongeren
 Koninksem
-Oerle
+Oreye
 Borgworm
 Grand-Axhe
 Omal
