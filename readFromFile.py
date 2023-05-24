@@ -1,21 +1,16 @@
 import pandas as pd
 import pgeocode
-import http.client
+import time
+import requests
 import json
 
 graph = {}
 
-def coordinates(stad, steden, n):
+def coordinates(stad, steden):
     stadje = steden.loc[steden['place_name'] == stad]
-    coordinate = ""
-    if(len(stadje) > 0):
-        postcode = list(stadje['postal_code'])[0]
-        latitude = list(stadje['latitude'])[0]
-        longitude = list(stadje['longitude'])[0]
-        coordinate = str(latitude) + ',' + str(longitude) +';'
-    else:
-        print(n)
-        print(stad)
+    latitude = list(stadje['latitude'])[0]
+    longitude = list(stadje['longitude'])[0]
+    coordinate = str(latitude) + ',' + str(longitude)
     return coordinate
 
 i = 0
@@ -32,7 +27,6 @@ for n in range(2, len(data) - 1):
         #Vorige lijn is dan weg, begin weg
         van = data[n].strip()
         naar = data[n+1].strip()
-        coordinates(van, steden, n)
         if (van in graph.keys()):
             graph[van][naar] = 0
         else:
@@ -41,7 +35,6 @@ for n in range(2, len(data) - 1):
         #Einde N-weg
         van = data[n].strip()
         naar = data[n-1].strip()
-        coordinates(van, steden, n)
         if (van in graph.keys()):
             graph[van][naar] = 0
         else:
@@ -52,7 +45,6 @@ for n in range(2, len(data) - 1):
         van = data[n].strip()
         naar1 = data[n+1].strip()
         naar2 = data[n-1].strip()
-        coordinates(van, steden, n)
         if (van in graph.keys()):
             graph[van][naar1] = 0
             graph[van][naar2] = 0
@@ -60,28 +52,29 @@ for n in range(2, len(data) - 1):
             graph[van] = {naar1: 0}
             graph[van][naar2] = 0
 
-conn = http.client.HTTPSConnection("trueway-matrix.p.rapidapi.com")
+length = 0
+for k, v in graph.items():
+    for kv in v.keys():
+        if(kv == k):
+            v.pop(kv)
 
-headers = {
-    'X-RapidAPI-Key': "871bf0c6a2msh23c0570c42956d3p1eec5fjsn8bfa2c9e0d94",
-    'X-RapidAPI-Host': "trueway-matrix.p.rapidapi.com"
-    }
+for v in graph.values():
+    length += len(v)
+print(length)
 
-#for k, v in graph.items():
-    #route = "/CalculateDrivingMatrix?origins=" + coordinates(k, steden)
-    #for vk, vv in v.items():
-        #route += coordinates(vk, vv)
-    #conn.request("GET", route, headers=headers)
+payload={}
+headers = {}
 
-    #res = conn.getresponse()
-    #data = res.read()
-
-    #distances = json.loads(data.decode("utf-8"))
-    #durations = distances['durations']
-    #i = 1
-    #for k in v.keys():
-        #v[k] = durations[i][0]
-        #i += 1
+for k, v in graph.items():
+    for vk in v.keys():
+        url = "https://maps.googleapis.com/maps/api/distancematrix/json?origins=" + coordinates(k, steden) + "&destinations=" + coordinates(vk, steden) + "&key=AIzaSyDSrzlCIqDzpxM7qP9GWqViU4tP0NvZEck"
+        response = requests.request("GET", url, headers=headers, data=payload)
+        respond = json.loads(response.text)
+        print(respond)
+        v[vk] = respond["rows"][0]["elements"][0]["duration"]["value"]
+        time.sleep(0.1)
+    
+    print(v)
 
 with open("graph.txt", "w") as fp:
     json.dump(graph, fp)
