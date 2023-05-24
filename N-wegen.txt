@@ -50,7 +50,7 @@ Overijse
 Rosières
 Bierges
 Wavre
-Louvain-la-Neuve
+Louvain-La-Neuve
 Walhain
 Eghezée
 Namur
@@ -201,8 +201,8 @@ Fernelmont
 Hingeon
 Andenne
 Huy
-Villers-le-Bouillet
-Saint-Georges-sur-Meuse
+Villers-Le-Bouillet
+Saint-Georges-Sur-Meuse
 Flémalle
 Liège
 
@@ -249,7 +249,7 @@ Zonnebeke
 Ieper
 
 A21:
-Anwterpen
+Antwerpen
 Ranst
 Oelegem
 Zoersel
@@ -264,7 +264,7 @@ Visé
 Argenteau
 Cheratte
 Wandre
-Jupille-sur-Meuse
+Jupille-Sur-Meuse
 Liège
 
 A26:
@@ -308,7 +308,8 @@ Aubange
 A54:
 Nivelles
 Arquennes
-Petit-Roeulx-lez-nivellesLuttre
+Petit-Roeulx-Lez-Nivelles
+Luttre
 Gosselies
 Jumet
 Lodelinsart
@@ -325,12 +326,12 @@ Zaventem
 
 A501:
 Familleureux
-Bois-d'Haine
+Bois-D'Haine
 La Louvière
 
 A503:
 Charleroi
-Mont-sur-Marchienne
+Mont-Sur-Marchienne
 Marcinelle
 
 A601:
@@ -345,7 +346,7 @@ Angleur
 
 A604:
 Grâce-Hollogne
-Jemeppe-sur-Meuse
+Jemeppe-Sur-Meuse
 
 E17:
 Antwerpen
@@ -381,7 +382,7 @@ Saint-Vith
 
 E46:
 Liège
-Marche-en-Famenne
+Marche-En-Famenne
 Champlon
 Bouillon
 
@@ -463,7 +464,7 @@ Diest
 Webbekom
 Halen
 Donk
-Herk-de-Stad
+Herk-De-Stad
 Schulen
 Berbroek
 Spalbeek
@@ -507,7 +508,7 @@ Etterbeek
 Auderghem
 Overijse
 Wavre
-Louvain-la-Neuve
+Louvain-La-Neuve
 Gembloux
 Bovesse
 Namur
@@ -516,7 +517,7 @@ Natoye
 Emptinne
 Pessoux
 Nettinne
-Marche-en-Famenne
+Marche-En-Famenne
 Grâce-Hollogne
 Harsin
 Bande
@@ -538,7 +539,7 @@ Genappe
 Les Bons Villers
 Charleroi
 Gerpinnes
-Ham-sur-Heure-Nalinnes
+Ham-Sur-Heure
 Walcourt
 Philippeville
 Couvin
@@ -549,7 +550,7 @@ Anderlecht
 Sint-Pieters-Leeuw
 Halle
 Tubize
-Braine-le-Comte
+Braine-Le-Comte
 Soignies
 Nimy
 Mons
@@ -566,8 +567,8 @@ Bassilly
 Ghislenghien
 Ath
 Villers-Notre-Dame
-Chapelle-à-Wattines
-Leuze-en-Hainaut
+Chapelle-À-Wattines
+Leuze-En-Hainaut
 Barry
 Gaurain-Ramecroix
 Tournai
@@ -631,7 +632,7 @@ Mortsel
 Boechout
 Lier
 Koningshooikt
-Heist-op-den-Berg
+Heist-Op-Den-Berg
 Begijnendijk
 Aarschot
 Rillaar
@@ -688,7 +689,7 @@ Mechelen
 Bonheiden
 Putte
 Beerzel
-Heist-op-den-Berg
+Heist-Op-Den-Berg
 Booischot
 Westmeerbeek
 
@@ -770,7 +771,7 @@ Blanden
 Hamme-Mille
 Grez-Doiceau
 Wavre
-Ottignies-Louvain-la-Neuve
+Ottignies-Louvain-La-Neuve
 Mont-Saint-Guibert
 Genappe
 Nivelles
@@ -786,24 +787,24 @@ Mechelen
 
 N27:
 Waterloo
-Braine-l'Alleud
+Braine-L'Alleud
 Lillois-Witterzée
 Nivelles
 Arquennes
 Seneffe
 Manage
-Fayt-lez-Manage
+Fayt-Lez-Manage
 La Hestre
 La Louvière
 Haine-Saint-Paul
-Péronnes-lez-Binche
+Péronnes-Lez-Binche
 Binche
 
 N28:
 Nivelles
 Ophain-Bois-Seigneur-Isaac
 Haut-Ittre
-Braine-le-Château
+Braine-Le-Château
 Halle
 Pepingen
 Leerbeek
@@ -861,7 +862,7 @@ Torhout
 
 N34:
 Knokke
-Heist-aan-Zee
+Heist-Aan-Zee
 Zeebrugge
 Blankenberge
 Wenduine
@@ -932,14 +933,14 @@ Harmignies
 Givry
 Rouveroy
 Erquelinnes
-Solre-sur-Sambre
+Solre-Sur-Sambre
 Montignies-Saint-Christophe
 Beaumont
 Barbençon
-Boussu-lez-Walcourt
+Boussu-Lez-Walcourt
 Silenrieux
 Philippeville
-Villers-le-Gambon
+Villers-Le-Gambon
 Doische
 Dion
 Beauraing
@@ -1029,8 +1030,8 @@ Brakel
 Flobecq
 Ellezelles
 Renaix
-Frasnes-lez-Anvaing
-Mont-de-l'Enclus
+Frasnes-Lez-Anvaing
+Mont-De-L'Enclus
 Celles
 Tournai
 
@@ -1048,7 +1049,7 @@ Saint-Ghislain
 Bernissart
 Beloeil
 Péruwelz 
-Leuze-en-Hainaut
+Leuze-En-Hainaut
 Tournai
 Pecq
 Espierres-Helchin
@@ -1069,7 +1070,7 @@ Quaregnon
 Saint-Ghislain
 Hornu
 Boussu
-Quievrain
+Quiévrain
 
 N52:
 Gaurain-Ramecroix
@@ -1078,12 +1079,9 @@ Bruyelle
 
 N53:
 Charleroi
-Montignies-le-Tilleul
-Bomeree
-Bout-la-Haut
-Gozee
+Montigny-Le-Tilleul
+Gozée
 Beaumont
-Court-Tournant
 Rance
 Chimay
 
@@ -1094,26 +1092,24 @@ Erquelinnes
 
 N55:
 Enghien
-Marie-Bois
-Patrouille
+Silly
+Celles
 Soignies
-Rouges Terres
-Le Rœulx
-Houdeng-Gœgnies
-Strepy-Bracquegnies
+Le Roeulx
+Houdeng-Goegnies
+Strépy-Bracquegnies
 Saint-Vaast
-Pont St Vaast
 Battignies
 Binche
 Merbes-Sainte-Marie
-Merbes-le-Château
+Merbes-Le-Château
 
 N56:
 Lessines
 Rebaix
 Ath
 Lens
-Jurbeke
+Jurbise
 Nimy
 
 N57:
@@ -1122,12 +1118,9 @@ Ellezelles
 Flobecq
 Ogy
 Lessines
-Houraing
-Pont
+Trois-Ponts
 Ghislenghien
-Mauvinage
-Noir-Jambon
-Masi
+Silly
 Soignies
 
 N58:
@@ -1136,7 +1129,7 @@ Mouscron
 Lauwe
 Geluwe
 Wervik
-Komen
+Comines-Warneton
 Ieper
 Ploegsteert
 
@@ -1144,11 +1137,11 @@ N59:
 Feluy
 Seneffe
 Manage
-Chapelle-lez-Herlaimont
+Chapelle-Lez-Herlaimont
 Anderlues
 Lobbes
 Thuin
-Gozee
+Gozée
 
 N60:
 Gent
@@ -1158,68 +1151,58 @@ Zingem
 Oudenaarde
 Maarkedal
 Renaix
-Leuze-en-Hainaut
+Leuze-En-Hainaut
 Péruwelz 
 
 N61:
 Chênée
-Vaux-sous-Chevremont
+Vaux-Sous-Chèvremont
 Chaudfontaine
-Prayon
 Trooz
 Fraipont
 Nessonvaux
-Goffontaine
 Pepinster
 Ensival
 Verviers
 Stembert
-Limburg
 Baelen
 Eupen
 
 N62:
 Beaufays
 Gomzé-Andoumont
-Louveigne
+Louveigné
 Theux
 Spa
 Francorchamps
-Burnenville
 Malmedy
-Ligneuville
-Nieder-Emmels
 Saint-Vith
-Grüfflingen
-Oudler
-Dürler
-Malscheid
+Burg-Reuland
 
 N63:
-Ougree
+Ougrée
 Boncelles
-Neupre
+Neupré
 Ehein
-Fraineux
+Nandrin
 Soheit-Tinlot
 Terwagne
-Bois-et-Borsu
-Mean
+Bois-Et-Borsu
+Méan
 Baillonville
-Marche-en-Famenne
+Marche-En-Famenne
 
 N64:
-Hoei
-Statte
+Huy
 Wanze
 Vinalmont
-Dreye
+Villers-Le-Bouillet
 Latinne
 Lens-Saint-Remy
-Villers-le-Peuplier
-Hannuit
-Lijsem
-Linsmeel
+Villers-Le-Peuplier
+Hannut
+Lincent
+Linsmeau
 Hamme
 Opheylissem
 Goetsenhoven
@@ -1227,32 +1210,30 @@ Bost
 Tienen
 
 N65:
-Borgworm
+Waremme
 Faimes
 Viemme
 Aineffe
 Chapon-Seraing
-Villers-le-Bouillet
-Hoei
+Villers-Le-Bouillet
+Huy
 
 N66:
-Hoei
+Huy
 Tihange
-La Sarte
-Stree
-Abee
+Sart-Saint-Laurent
+Strée
+Abée
 Tinlot
 Seny
-Warzee
+Warzée
 Ouffet
 Hamoir
 Filot
 My
-Ferrieres
+Ferrières
 Werbomont
-Habiemont
-Chauveheid
-Haute-Bodeux
+Stoumont
 Basse-Bodeux
 Trois-Ponts
 
@@ -1261,36 +1242,27 @@ Welkenraedt
 Eupen
 
 N68:
-Eynatterheide
 Eynatten
 Kettenis
 Eupen
 Mont
-Beverce
-Malmedy
-Burnenville
+Bevercé
 Stavelot
 Trois-Ponts
-Rochelinval
 Grand-Halleux
 Vielsalm
-Salmchâteau
-Provedroux
-Cierreux
-Honvelez
 Bovigny
 Beho
-Deiffelt
 
 N69:
 Tongeren
 Koninksem
 Oreye
-Borgworm
+Waremme
 Grand-Axhe
 Omal
 Braives
-Moxhe bij Hannuit
+Moxhe
 
 N70:
 Gent
@@ -1300,7 +1272,7 @@ Lochristi
 Zeveneken
 Lokeren
 Waasmunster
-Sinaai
+Sinaai-Waas
 Belsele
 Sint-Niklaas
 Nieuwkerken-Waas
@@ -1314,18 +1286,14 @@ N71:
 Hamont
 Achel
 Neerpelt
-Holven
-Kattenbos
 Lommel
 Mol
-Heidehuizen
-Bel
+Balen
 Geel
 
 N72:
 Zonhoven
 Zolder
-Boekt
 Heusden
 Beringen
 Beverlo
@@ -1345,7 +1313,6 @@ N74:
 Lommel
 Neerpelt
 Overpelt
-Lindel
 Hechtel
 Helchteren
 Zonhoven
@@ -1353,7 +1320,6 @@ Hasselt
 
 N75:
 Hasselt
-Bokrijk
 Genk
 As
 Dilsen
@@ -1361,33 +1327,26 @@ Dilsen
 N76:
 Borgloon
 Kerniel
-Vrolingen
+Wellen
 Kortessem
 Diepenbeek
-Rozendaal
 Genk
 Opglabbeek
-Plokrooi
 Meeuwen
 Wijshagen
 Bree
 Gerdingen
 Beek
 Bocholt
-Lozen
 Hamont
 
 N77:
 Genk
-Daal
 Zutendaal
-Bessemer
 Lanaken
-Smeermaas
 
 N78:
 Vroenhoven
-Kesselt
 Lanaken
 Neerharen
 Rekem
@@ -1401,7 +1360,6 @@ Rotem
 Elen
 Maaseik
 Ophoven
-Geistingen
 Kessenich
 
 N79:
@@ -1423,10 +1381,9 @@ Pontillas
 Bierwart
 Burdinne
 Moxhe
-Hannuit
+Hannut
 Walshoutem
 Gingelom
-Bevingen
 Sint-Truiden
 Alken
 Hasselt
@@ -1438,53 +1395,42 @@ Aubange
 Athus
 
 N82:
-Viville
 Arlon
 Châtillon
-Saint-Leger
+Saint-Léger
 Ethe
 Virton
 
 N83:
 Arlon
-Fouches
-Sampont
-Villers-Tortrue
 Vance
 Sivry
-etalle
-Sainte-Marie
-Han
+Etalle
+Sainte-Marie-Sur-Semois
+Han-Sur-Lesse
 Tintigny
-Breuvanne
-Frenois
 Jamoigne
-Pinsamont
+Sainte-Ode
 Florenville
 Chassepierre
-Sainte-Cecile
+Sainte-Cécile
 Bouillon
 
 N84:
 Bastogne
-Marvie
 Wardin
 Bras
 
 N85:
 Bastogne
-Villeroux
+Chastre-Villeroux-Blanmont
 Sibret
-Morhet-Station
-Rosières-la-Petite
-Vaux-sur-Sûre
-Bercheux
-Molinfaing
+Morhet
+Vaux-Sur-Sûre
+Juseret
 Longlier
 Neufchâteau
 Grapfontaine
-Montplainchamps
-Hosseuse
 Straimont
 Lacuisine
 Florenville
@@ -1492,61 +1438,51 @@ Florenville
 N86:
 Aywaille
 Xhoris
-Ferrieres
+Ferrières
 My
 Vieuxville
-Bomal-sur-Ourthe
-Barvaux-sur-Ourthe
-Melreux
+Bomal-Sur-Ourthe
+Barvaux-Sur-Ourthe
 Hotton
-Marche-en-Famenne
+Marche-En-Famenne
 Waha
-Marloie
 Hargimont
 On
 Jemelle
 Rochefort
-Han-sur-Lesse
-Ave-et-Auffe
+Han-Sur-Lesse
+Ave-Et-Auffe
 
 N87:
-Parette
-Heinstert
-Habay-la-Neuve
-etalle
-Fratin
+Attert
+Habay-La-Neuve
+Etalle
 Buzenol
-Belle Vue
+Robelmont
 Virton
 Saint-Mard
 
 N88:
 Florenville
-Pin
+Izel
 Villers-Devant-Orval
-Limes
-Gerouville
+Gérouville
 Meix-Devant-Virton
-Berchiwe
-Houdrigny
+Sommethonne
 Dampicourt
 Virton
 Saint-Mard
-Chenois
 Latour
 Ruette
 Signeulx
-Baranzy
 Musson
 Halanzy
-Aix-Sur-Cloie
 Aubange
 Athus
 
-
 N89:
-Salmchâteau
-La Comte
+Vielsalm
+Braine-Le-Comte
 Vielsalm
 Samrée
 La Roche-En-Ardenne

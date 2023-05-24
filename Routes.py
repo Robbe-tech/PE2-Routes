@@ -291,7 +291,10 @@ fulldists, fullroutes = fill(graph)
 
 node_time = time.time()
 
-root = 0
+root = "Zaventem"
+
+Capitals = ["Bruxelles", "Antwerpen", "Gent", "Brugge", "Mons", "Namur", "Hasselt", "Liège", "Arlon", "Leuven", "Wavre"]
+Destinations = ["Maaseik", "Bilzen", "Bocholt", "Tongeren", "Halen", "Hasselt", "Genk", "Lommel", "Brugge", "Kortrijk", "Oostende", "Waregem", "Ieper", "Roeselare", "Oudenburg", "Poperinge", "Leuven", "Tienen", "Halle", "Vilvoorde", "Aarschot", "Landen", "Tervuren"]
 
 totdistmin, notablepath, absolutepath = multi_node(root, fulldists, fullroutes, [3, 2, 1])
 
@@ -300,5 +303,9 @@ multi_time = time.time() - node_time
 
 print(totaltime)
 print(multi_time)
+print(absolutepath)
+print(notablepath)
 
 image(root, notablepath, absolutepath)
+
+#cv2.destroyAllWindows()

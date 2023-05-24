@@ -8,7 +8,7 @@ graph = {}
 def coordinates(stad, steden, n):
     stadje = steden.loc[steden['place_name'] == stad]
     coordinate = ""
-    if(len(stadje) == 1):
+    if(len(stadje) > 0):
         postcode = list(stadje['postal_code'])[0]
         latitude = list(stadje['latitude'])[0]
         longitude = list(stadje['longitude'])[0]
