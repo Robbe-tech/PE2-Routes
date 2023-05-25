@@ -70,11 +70,8 @@ for k, v in graph.items():
         url = "https://maps.googleapis.com/maps/api/distancematrix/json?origins=" + coordinates(k, steden) + "&destinations=" + coordinates(vk, steden) + "&key=AIzaSyDSrzlCIqDzpxM7qP9GWqViU4tP0NvZEck"
         response = requests.request("GET", url, headers=headers, data=payload)
         respond = json.loads(response.text)
-        print(respond)
         v[vk] = respond["rows"][0]["elements"][0]["duration"]["value"]
         time.sleep(0.1)
-    
-    print(v)
 
 with open("graph.txt", "w") as fp:
     json.dump(graph, fp)
