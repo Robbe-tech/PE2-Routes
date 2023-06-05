@@ -4,7 +4,7 @@ import json
 Brussel = "50.8504,4.3488"
 Antwerpen = "51.2213,4.4051"
 
-url = "https://maps.googleapis.com/maps/api/distancematrix/json?origins=" + Brussel + "&destinations=" + Antwerpen + "&key=AIzaSyDSrzlCIqDzpxM7qP9GWqViU4tP0NvZEck"
+url = "https://maps.googleapis.com/maps/api/distancematrix/json?origins=" + Brussel + "&destinations=" + Antwerpen + "&key=Key"
 
 payload={}
 headers = {}
